@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "csv-parse": "^7.0.0",
+    "dotenv": "^17.4.2",
     "lowdb": "^7.0.1",
     "node-cron": "^4.5.0",
     "nodemailer": "^9.0.1",
@@ -21,6 +22,7 @@
     "rss-parser": "^3.13.0"
   },
   "devDependencies": {
+    "@types/dotenv": "^6.1.1",
     "@types/node": "^26.0.0",
     "@types/node-cron": "^3.0.11",
     "@types/nodemailer": "^8.0.1",
