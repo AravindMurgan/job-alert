@@ -3,9 +3,9 @@ import nodemailer from 'nodemailer'
 import { getAllPending, clearPending } from './store'
 import { PendingJob } from './types/company'
 
-function formatTime(isoString: string): string {
+function formatPostedDate(isoString: string): string {
   const d = new Date(isoString)
-  return d.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit', timeZone: 'Europe/London' })
+  return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'Europe/London' })
 }
 
 function formatDate(): string {
@@ -24,7 +24,7 @@ function buildHtml(grouped: Record<string, PendingJob[]>, total: number): string
             <a href="${j.url}" style="color:#00BFA6;text-decoration:none;font-weight:500;">${j.title}</a>
           </td>
           <td style="padding:6px 12px 6px 0;font-size:13px;color:#7A8FA8;white-space:nowrap;">${j.location}</td>
-          <td style="padding:6px 0;font-size:12px;color:#7A8FA8;white-space:nowrap;font-family:monospace;">${formatTime(j.foundAt)}</td>
+          <td style="padding:6px 0;font-size:12px;color:#7A8FA8;white-space:nowrap;font-family:monospace;">Posted ${formatPostedDate(j.foundAt)}</td>
         </tr>`).join('')
 
       return `

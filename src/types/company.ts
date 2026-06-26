@@ -43,8 +43,9 @@ export type OracleConfig = BaseConfig & {
 
 export type WorkdayConfig = BaseConfig & {
   type: 'workday'
-  url: string
-  searchParam: string
+  tenant: string   // e.g. "barclays"
+  subdomain: string // e.g. "wd3"
+  board: string    // e.g. "External_Career_Site_Barclays"
   searchTerm: string
 }
 
