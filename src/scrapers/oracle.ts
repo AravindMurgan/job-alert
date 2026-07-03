@@ -25,12 +25,16 @@ export async function scrapeOracle(config: OracleConfig): Promise<void> {
   let maxId = lastSeenId
   let offset = 0
   const limit = 25
+  const maxPages = 5
+  let page = 0
   let queued = 0, skipped = 0
 
   while (true) {
+    const finderParts = [`siteNumber=${config.siteNumber}`, `keyword=${config.keyword}`]
+    if (config.locationId) finderParts.push(`locationId=${config.locationId}`)
     const params = new URLSearchParams({
       expand: 'requisitionList.secondaryLocations',
-      finder: `findReqs;siteNumber=${config.siteNumber},keyword=${config.keyword}`,
+      finder: `findReqs;${finderParts.join(',')}`,
       limit: String(limit),
       offset: String(offset),
     })
@@ -74,6 +78,8 @@ export async function scrapeOracle(config: OracleConfig): Promise<void> {
     if (oldestOnPage <= lastSeenId) break
 
     if (jobs.length < limit) break
+    page++
+    if (page >= maxPages) break
     offset += limit
   }
 
