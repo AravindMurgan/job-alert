@@ -204,7 +204,8 @@
       "9fe9d14b-4938-48cd-932a-4c0d5a6344cf",
       "f2bca5a3-69be-4968-8b8f-ccbb1ec7270b",
       "fcf3e1f7-2ac0-4c26-a9e2-d346764e732c",
-      "2735a67b-da0d-491c-8170-85f43adbc8bd"
+      "2735a67b-da0d-491c-8170-85f43adbc8bd",
+      "2f139e49-51ad-4c91-9ca8-c54d5f2c866c"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -393,7 +394,8 @@
       "e539edf9-7ad4-4a0f-821b-6012de1fa186",
       "f98c1397-76fa-4b1a-b4bb-4ee08349cef3",
       "feca89bd-4d4d-44f7-81cd-2fbf76ca216a",
-      "ff5af7c7-9331-4266-a880-dcb8ab65b563"
+      "ff5af7c7-9331-4266-a880-dcb8ab65b563",
+      "19bb168d-2d00-4896-a09b-377b621dfe66"
     ],
     "JP Morgan": [
       "210755745",
@@ -409,12 +411,12 @@
     "Monzo": "2026-07-03T14:56:38.238Z",
     "GoCardless": "2026-07-06T09:43:06.330Z",
     "Barclays": "2026-07-06T09:43:09.397Z",
-    "Checkout.com": "2026-07-03T19:44:05.993Z",
+    "Checkout.com": "2026-07-06T13:33:48.511Z",
     "ClearBank": "2026-07-03T14:56:40.408Z",
     "Wayve": "2026-07-03T14:56:41.088Z",
     "Deliveroo": "2026-07-03T16:39:30.665Z",
     "Marshmallow": "2026-07-03T14:56:41.212Z",
-    "OakNorth": "2026-07-03T14:56:41.238Z",
+    "OakNorth": "2026-07-06T13:33:49.358Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z"
   },
   "lastSeenId": {
