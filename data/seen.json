@@ -76,7 +76,8 @@
       "7942125",
       "7627201",
       "7978879",
-      "8045004"
+      "8045004",
+      "8048176"
     ],
     "Barclays": [
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Senior-Engineer-VPN_JR-0000112919-1",
@@ -206,7 +207,8 @@
       "f2bca5a3-69be-4968-8b8f-ccbb1ec7270b",
       "fcf3e1f7-2ac0-4c26-a9e2-d346764e732c",
       "2735a67b-da0d-491c-8170-85f43adbc8bd",
-      "2f139e49-51ad-4c91-9ca8-c54d5f2c866c"
+      "2f139e49-51ad-4c91-9ca8-c54d5f2c866c",
+      "3c434660-bd24-45b4-9d2d-3fdcb3663c47"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -366,7 +368,8 @@
       "3fec2ef4-f7d8-4d0d-8ba2-e7f6e6c4eb55",
       "8bb37933-23d9-4040-9bdc-55dae39d26e0",
       "ed12efb4-bcd1-4857-8908-f761a0fc0a3e",
-      "7c4489de-6838-4d95-815f-7a2698d49c7c"
+      "7c4489de-6838-4d95-815f-7a2698d49c7c",
+      "d87ad7aa-5cfb-4742-8494-8fc637322adf"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -411,12 +414,12 @@
   },
   "lastSeen": {
     "Monzo": "2026-07-03T14:56:38.238Z",
-    "GoCardless": "2026-07-06T09:43:06.330Z",
+    "GoCardless": "2026-07-07T11:32:14.196Z",
     "Barclays": "2026-07-06T16:43:24.154Z",
-    "Checkout.com": "2026-07-06T13:33:48.511Z",
+    "Checkout.com": "2026-07-07T11:32:14.347Z",
     "ClearBank": "2026-07-03T14:56:40.408Z",
     "Wayve": "2026-07-03T14:56:41.088Z",
-    "Deliveroo": "2026-07-06T16:43:20.903Z",
+    "Deliveroo": "2026-07-07T11:32:15.574Z",
     "Marshmallow": "2026-07-03T14:56:41.212Z",
     "OakNorth": "2026-07-06T13:33:49.358Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z"
