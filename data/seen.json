@@ -108,7 +108,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Site-Reliability-Engineer_JR-0000111681",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-AWS-Data-Platform-Developer_JR-0000103954",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Java-Developer-Integrated-Financial-Crime--IFC-_JR-0000083058",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Forward-Deployed-AI-Engineer_JR-0000101663"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Forward-Deployed-AI-Engineer_JR-0000101663",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/IFC---React-JS_JR-0000083623-1"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -208,7 +209,9 @@
       "fcf3e1f7-2ac0-4c26-a9e2-d346764e732c",
       "2735a67b-da0d-491c-8170-85f43adbc8bd",
       "2f139e49-51ad-4c91-9ca8-c54d5f2c866c",
-      "3c434660-bd24-45b4-9d2d-3fdcb3663c47"
+      "3c434660-bd24-45b4-9d2d-3fdcb3663c47",
+      "adb755ae-ed68-452c-a38b-71e3b5b6077a",
+      "b9c4cc99-507e-41eb-b837-57107a1644de"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -222,7 +225,8 @@
       "6291dd3a-369e-413e-b051-58528bafa61a",
       "766f20e5-1605-4bf6-b8a1-ade08c7b630e",
       "89dda110-f00e-4876-ab0e-b6cea9c17f01",
-      "9c0197d2-6feb-4f77-b0fd-a893c140b02b"
+      "9c0197d2-6feb-4f77-b0fd-a893c140b02b",
+      "d147c6c8-a42f-4f12-a7c3-c5aa4db49c3e"
     ],
     "Wayve": [
       "01b0ff59-b59a-4581-8164-93747a27a417",
@@ -415,9 +419,9 @@
   "lastSeen": {
     "Monzo": "2026-07-03T14:56:38.238Z",
     "GoCardless": "2026-07-07T11:32:14.196Z",
-    "Barclays": "2026-07-06T16:43:24.154Z",
-    "Checkout.com": "2026-07-07T11:32:14.347Z",
-    "ClearBank": "2026-07-03T14:56:40.408Z",
+    "Barclays": "2026-07-07T13:49:40.821Z",
+    "Checkout.com": "2026-07-07T13:49:37.989Z",
+    "ClearBank": "2026-07-07T13:49:38.285Z",
     "Wayve": "2026-07-03T14:56:41.088Z",
     "Deliveroo": "2026-07-07T11:32:15.574Z",
     "Marshmallow": "2026-07-03T14:56:41.212Z",
