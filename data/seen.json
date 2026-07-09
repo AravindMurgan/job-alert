@@ -60,7 +60,9 @@
       "6699672",
       "7619224",
       "8041029",
-      "8050756"
+      "8050756",
+      "8053191",
+      "8053177"
     ],
     "GoCardless": [
       "7795791",
@@ -112,7 +114,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Java-Developer-Integrated-Financial-Crime--IFC-_JR-0000083058",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Forward-Deployed-AI-Engineer_JR-0000101663",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/IFC---React-JS_JR-0000083623-1",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Fullstack-Developer_JR-0000101713-1"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Fullstack-Developer_JR-0000101713-1",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000112300"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -216,7 +219,8 @@
       "adb755ae-ed68-452c-a38b-71e3b5b6077a",
       "b9c4cc99-507e-41eb-b837-57107a1644de",
       "eac6af56-92f7-428f-912f-c02f80548dc8",
-      "09098669-668f-4aba-b886-749ad3adb5ff"
+      "09098669-668f-4aba-b886-749ad3adb5ff",
+      "3931e3f9-7dbf-48a6-9a19-eb2167337e3e"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -386,7 +390,10 @@
       "aef70f76-758a-4646-9c73-007057fb784e",
       "47987e3e-bda2-439a-9c9e-790a09394b64",
       "864d69dc-dd03-4240-820f-b63ccb29176a",
-      "96315a6b-7e96-4d3a-9138-802b42468dca"
+      "96315a6b-7e96-4d3a-9138-802b42468dca",
+      "1c5380db-628b-4554-968c-eee9710748b8",
+      "68663c4e-972a-4d1f-8a6c-6a98c08e9a3d",
+      "b1f02624-0709-4f76-87cd-d29b885b50ec"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -434,13 +441,13 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-07-08T12:53:52.784Z",
+    "Monzo": "2026-07-09T14:16:42.732Z",
     "GoCardless": "2026-07-07T11:32:14.196Z",
-    "Barclays": "2026-07-08T11:12:14.284Z",
-    "Checkout.com": "2026-07-09T11:39:08.809Z",
+    "Barclays": "2026-07-09T14:16:47.243Z",
+    "Checkout.com": "2026-07-09T14:16:45.075Z",
     "ClearBank": "2026-07-07T13:49:38.285Z",
     "Wayve": "2026-07-07T18:23:43.829Z",
-    "Deliveroo": "2026-07-08T15:20:38.806Z",
+    "Deliveroo": "2026-07-09T14:16:46.052Z",
     "Marshmallow": "2026-07-09T11:39:09.822Z",
     "OakNorth": "2026-07-08T18:18:16.585Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z"
