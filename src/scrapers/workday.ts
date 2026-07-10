@@ -1,5 +1,5 @@
 import { WorkdayConfig } from '../types/company'
-import { passesFilter, isUK } from '../filter'
+import { passesFilter, isUK, isRecent } from '../filter'
 import { isNew, save } from '../store'
 import { queueJob } from '../notify'
 
@@ -55,8 +55,10 @@ export async function scrapeWorkday(config: WorkdayConfig): Promise<void> {
 
     for (const job of jobs) {
       const jobUrl = `${jobBase}${job.externalPath}`
+      const foundAt = parsePostedOn(job.postedOn)
 
       if (!isUK(job.locationsText)) { skipped++; continue }
+      if (!isRecent(foundAt)) { skipped++; continue }
       if (!isNew(config.name, jobUrl)) { skipped++; continue }
       if (!passesFilter(job.title)) { save(config.name, jobUrl); skipped++; continue }
 
@@ -65,7 +67,7 @@ export async function scrapeWorkday(config: WorkdayConfig): Promise<void> {
         title: job.title,
         url: jobUrl,
         location: job.locationsText,
-        foundAt: parsePostedOn(job.postedOn),
+        foundAt,
       })
       save(config.name, jobUrl)
       queued++

@@ -97,3 +97,9 @@ export function passesFilter(title: string, snippet?: string): boolean {
   if (snippet && matchesAny(snippet, TECH)) return true
   return false
 }
+
+const MAX_JOB_AGE_MS = 30 * 24 * 60 * 60 * 1000
+
+export function isRecent(postedAt: string): boolean {
+  return Date.now() - new Date(postedAt).getTime() <= MAX_JOB_AGE_MS
+}

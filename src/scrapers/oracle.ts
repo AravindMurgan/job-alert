@@ -1,5 +1,5 @@
 import { OracleConfig } from '../types/company'
-import { passesFilter } from '../filter'
+import { passesFilter, isRecent } from '../filter'
 import { isNew, save, getLastSeenId, saveLastSeenId } from '../store'
 import { queueJob } from '../notify'
 
@@ -50,6 +50,7 @@ export async function scrapeOracle(config: OracleConfig): Promise<void> {
     for (const job of jobs) {
       const id = job.Id
       const numericId = parseInt(id, 10)
+      const foundAt = job.PostedDate ? new Date(job.PostedDate).toISOString() : new Date().toISOString()
 
       // Skip non-UK roles
       if (job.PrimaryLocationCountry !== 'GB') { skipped++; continue }
@@ -60,6 +61,8 @@ export async function scrapeOracle(config: OracleConfig): Promise<void> {
       // Track highest ID seen this run
       if (numericId > maxId) maxId = numericId
 
+      if (!isRecent(foundAt)) { skipped++; continue }
+
       if (!passesFilter(job.Title)) { save(config.name, id); skipped++; continue }
 
       queueJob({
@@ -67,7 +70,7 @@ export async function scrapeOracle(config: OracleConfig): Promise<void> {
         title: job.Title,
         url: jobUrl(config, id),
         location: job.PrimaryLocation,
-        foundAt: job.PostedDate ? new Date(job.PostedDate).toISOString() : new Date().toISOString(),
+        foundAt,
       })
       save(config.name, id)
       queued++
