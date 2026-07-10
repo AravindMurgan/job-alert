@@ -67,11 +67,15 @@ function buildHtml(grouped: Record<string, PendingJob[]>, total: number): string
 </html>`
 }
 
+const MAX_JOB_AGE_MS = 5 * 24 * 60 * 60 * 1000
+
 async function sendDigest(): Promise<void> {
-  const jobs = getAllPending()
+  const cutoff = Date.now() - MAX_JOB_AGE_MS
+  const jobs = getAllPending().filter(job => new Date(job.foundAt).getTime() >= cutoff)
 
   if (jobs.length === 0) {
     console.log('[digest] No jobs in queue — skipping')
+    clearPending()
     return
   }
 
@@ -79,6 +83,10 @@ async function sendDigest(): Promise<void> {
     acc[job.company] = [...(acc[job.company] ?? []), job]
     return acc
   }, {})
+
+  for (const companyJobs of Object.values(grouped)) {
+    companyJobs.sort((a, b) => new Date(b.foundAt).getTime() - new Date(a.foundAt).getTime())
+  }
 
   const total = jobs.length
   const companyCount = Object.keys(grouped).length
