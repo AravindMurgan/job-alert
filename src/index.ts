@@ -1,12 +1,15 @@
 import 'dotenv/config'
 import cron from 'node-cron'
 import { companies } from '../data/companies'
+import { edutechCompanies } from '../data/edutech'
+
+const allCompanies = [...companies, ...edutechCompanies]
 import { scrape } from './router'
 
 const once = process.argv.includes('--once')
 
 async function runTrack(schedule: 'fast' | 'slow'): Promise<void> {
-  const targets = companies.filter(c => c.enabled && c.schedule === schedule)
+  const targets = allCompanies.filter(c => c.enabled && c.schedule === schedule)
   console.log(`[index] ${schedule} track — ${targets.length} companies`)
   for (const config of targets) {
     await scrape(config).catch(err =>
