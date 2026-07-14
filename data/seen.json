@@ -423,7 +423,10 @@
       "ef5b6490-68c4-4550-be3c-7b44e1cb3f7d",
       "69b18306-5975-49bd-8282-a5a243faf839",
       "6dff1e48-9022-45ba-ab32-dd9f0dfc1bb7",
-      "a958774d-1ba6-481e-b512-f54ec0ef27c4"
+      "a958774d-1ba6-481e-b512-f54ec0ef27c4",
+      "0c04c51b-f1e3-4fab-bb54-8e4dde977597",
+      "7b032382-f5e5-4eef-ac57-ff2bcf96c76a",
+      "c9585587-c9a6-4610-9ecb-a0b47269c862"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -698,7 +701,8 @@
       "1829dd8c-cad1-4d5d-95ea-4885f6c7c5b0",
       "ba596f40-ae5c-4dab-95cf-72f7b810a146",
       "20abb910-2553-482c-a9fe-691baf3b2224",
-      "f240bf55-4683-4284-8222-e7cd0c227d70"
+      "f240bf55-4683-4284-8222-e7cd0c227d70",
+      "9f5887da-7245-4a5b-b48e-90a1cdb1a592"
     ],
     "Synthesia": [
       "0560eb00-0e85-47d4-9b66-f9af3033a85e",
@@ -975,7 +979,8 @@
     ],
     "Sensat": [
       "2ed700c8-2cf5-416c-80f3-b30b6f9b65e7",
-      "ad647a3e-f837-4c59-8410-07a6a0034f5d"
+      "ad647a3e-f837-4c59-8410-07a6a0034f5d",
+      "1aeacaf9-e52f-4a20-b24f-a738c4416526"
     ],
     "Ledger": [
       "f7b3ffc0-152e-4c4b-a136-d0b9a5b70965"
@@ -1153,7 +1158,8 @@
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Software-Engineer--Full-Stack-_R5097",
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Senior-Engineer--Full-Stack-_R5094",
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Senior-Software-Engineer--Java-_R4902",
-      "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Software-Engineering-Team-Lead---C-_R4281"
+      "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Software-Engineering-Team-Lead---C-_R4281",
+      "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Associate-Software-Engineer--C--NET-_R5294"
     ],
     "Ares Management": [
       "https://aresmgmt.wd1.myworkdayjobs.com/External/job/London-UK/Associate-Senior-Associate--Systems-Engineer_R8016",
@@ -1216,7 +1222,8 @@
       "4710123005",
       "4709374005",
       "4711169005",
-      "4715056005"
+      "4715056005",
+      "4715106005"
     ],
     "Nearform": [
       "7799525003",
@@ -1329,7 +1336,7 @@
     "Checkout.com": "2026-07-14T13:28:31.064Z",
     "ClearBank": "2026-07-14T11:53:29.808Z",
     "Wayve": "2026-07-10T21:08:58.342Z",
-    "Deliveroo": "2026-07-13T11:23:05.646Z",
+    "Deliveroo": "2026-07-14T16:38:49.959Z",
     "Marshmallow": "2026-07-14T15:10:03.815Z",
     "OakNorth": "2026-07-10T21:08:58.758Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z",
@@ -1341,7 +1348,7 @@
     "Dexory": "2026-07-10T21:08:57.097Z",
     "Fanatics Betting": "2026-07-10T21:08:57.218Z",
     "Algolia": "2026-07-14T15:09:59.024Z",
-    "Trainline": "2026-07-13T13:40:18.185Z",
+    "Trainline": "2026-07-14T16:38:50.214Z",
     "Synthesia": "2026-07-13T20:44:47.079Z",
     "Attio": "2026-07-10T21:08:58.907Z",
     "Paddle": "2026-07-10T21:08:58.949Z",
@@ -1354,7 +1361,7 @@
     "Kraken": "2026-07-13T18:06:30.141Z",
     "Elliptic": "2026-07-10T21:08:59.980Z",
     "Improbable": "2026-07-14T15:10:05.782Z",
-    "Sensat": "2026-07-10T21:09:00.343Z",
+    "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
     "Sophos": "2026-07-10T21:09:02.131Z",
     "Octopus Energy": "2026-07-10T21:09:03.894Z",
@@ -1368,7 +1375,7 @@
     "NVIDIA": "2026-07-10T21:09:22.731Z",
     "Universal Music Group": "2026-07-10T21:09:24.276Z",
     "Rolls-Royce": "2026-07-11T06:02:35.798Z",
-    "TP ICAP": "2026-07-10T21:09:26.895Z",
+    "TP ICAP": "2026-07-14T16:39:14.740Z",
     "Ares Management": "2026-07-10T21:09:28.303Z",
     "Depop": "2026-07-10T21:09:29.298Z",
     "Ticketmaster": "2026-07-13T11:23:37.225Z",
@@ -1377,7 +1384,7 @@
     "EMBL": "2026-07-10T21:09:36.044Z",
     "Zoom": "2026-07-10T21:45:05.365Z",
     "Modo Energy": "2026-07-10T21:45:51.785Z",
-    "Eucalyptus": "2026-07-14T15:09:59.392Z",
+    "Eucalyptus": "2026-07-14T16:38:48.945Z",
     "Nearform": "2026-07-10T21:45:52.245Z",
     "Gearset": "2026-07-10T21:45:58.636Z",
     "Omnea": "2026-07-10T21:45:59.060Z",
