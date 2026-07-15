@@ -123,7 +123,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/IFC---React-JS_JR-0000083623-1",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Fullstack-Developer_JR-0000101713-1",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000112300",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Software-Engineer_JR-0000105353"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Software-Engineer_JR-0000105353",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineering-Lead_JR-0000087526-1"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -242,7 +243,8 @@
       "7d5e4cf1-0532-4f5b-a389-3d50ca857089",
       "99e1f8ef-d6e8-473b-ac0b-7052b921de7f",
       "8e87f225-59e4-4ab1-befd-0f574c6b97c5",
-      "6beb0972-d958-4418-80fb-a7afe5a05fd0"
+      "6beb0972-d958-4418-80fb-a7afe5a05fd0",
+      "8f7f8aa5-6f56-4dfa-aff9-c6176048095e"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -433,7 +435,8 @@
       "c9585587-c9a6-4610-9ecb-a0b47269c862",
       "281024bc-f267-483c-8118-5b69c11ed3d5",
       "722cf9ec-5e82-4d6a-b0b0-09b1c6ea9213",
-      "aecd632f-40bd-4ec7-ae8c-cb1dd7dcef57"
+      "aecd632f-40bd-4ec7-ae8c-cb1dd7dcef57",
+      "ed54986a-534e-4907-8052-662f78a4aadd"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -711,7 +714,8 @@
       "ba596f40-ae5c-4dab-95cf-72f7b810a146",
       "20abb910-2553-482c-a9fe-691baf3b2224",
       "f240bf55-4683-4284-8222-e7cd0c227d70",
-      "9f5887da-7245-4a5b-b48e-90a1cdb1a592"
+      "9f5887da-7245-4a5b-b48e-90a1cdb1a592",
+      "68d5369a-3fe6-4ef2-b8ef-b565054dd53c"
     ],
     "Synthesia": [
       "0560eb00-0e85-47d4-9b66-f9af3033a85e",
@@ -1187,7 +1191,8 @@
       "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Staff-iOS-Engineer_JR4990",
       "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Backend-Engineer_JR5719",
       "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Engineering-Manager--Account-Security_JR5706",
-      "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Data-Platform-Engineer_JR5548"
+      "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Data-Platform-Engineer_JR5548",
+      "https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Backend-Software-Engineer--12-month-FTC-_JR5740"
     ],
     "Ticketmaster": [
       "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Work-From-Home---UK/Lead-Software-Engineer--Remote--United-Kingdom-_JR-88028-4",
@@ -1238,7 +1243,9 @@
       "4709374005",
       "4711169005",
       "4715056005",
-      "4715106005"
+      "4715106005",
+      "4715391005",
+      "4715392005"
     ],
     "Nearform": [
       "7799525003",
@@ -1350,11 +1357,11 @@
   "lastSeen": {
     "Monzo": "2026-07-15T11:57:36.951Z",
     "GoCardless": "2026-07-10T21:08:56.219Z",
-    "Barclays": "2026-07-13T16:09:14.691Z",
-    "Checkout.com": "2026-07-15T11:57:39.829Z",
+    "Barclays": "2026-07-15T14:01:24.192Z",
+    "Checkout.com": "2026-07-15T14:01:16.777Z",
     "ClearBank": "2026-07-14T11:53:29.808Z",
     "Wayve": "2026-07-10T21:08:58.342Z",
-    "Deliveroo": "2026-07-15T10:23:52.151Z",
+    "Deliveroo": "2026-07-15T14:01:18.292Z",
     "Marshmallow": "2026-07-14T15:10:03.815Z",
     "OakNorth": "2026-07-10T21:08:58.758Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z",
@@ -1366,7 +1373,7 @@
     "Dexory": "2026-07-10T21:08:57.097Z",
     "Fanatics Betting": "2026-07-10T21:08:57.218Z",
     "Algolia": "2026-07-14T15:09:59.024Z",
-    "Trainline": "2026-07-14T16:38:50.214Z",
+    "Trainline": "2026-07-15T14:01:18.800Z",
     "Synthesia": "2026-07-13T20:44:47.079Z",
     "Attio": "2026-07-10T21:08:58.907Z",
     "Paddle": "2026-07-10T21:08:58.949Z",
@@ -1395,14 +1402,14 @@
     "Rolls-Royce": "2026-07-11T06:02:35.798Z",
     "TP ICAP": "2026-07-15T11:58:21.444Z",
     "Ares Management": "2026-07-10T21:09:28.303Z",
-    "Depop": "2026-07-10T21:09:29.298Z",
+    "Depop": "2026-07-15T14:01:49.656Z",
     "Ticketmaster": "2026-07-13T11:23:37.225Z",
     "Trimble": "2026-07-15T11:58:25.454Z",
     "Antares Underwriting": "2026-07-10T21:09:32.366Z",
     "EMBL": "2026-07-10T21:09:36.044Z",
     "Zoom": "2026-07-10T21:45:05.365Z",
     "Modo Energy": "2026-07-10T21:45:51.785Z",
-    "Eucalyptus": "2026-07-14T16:38:48.945Z",
+    "Eucalyptus": "2026-07-15T14:01:13.605Z",
     "Nearform": "2026-07-10T21:45:52.245Z",
     "Gearset": "2026-07-10T21:45:58.636Z",
     "Omnea": "2026-07-15T10:23:53.951Z",
