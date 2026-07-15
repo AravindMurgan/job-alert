@@ -88,7 +88,8 @@
       "7627201",
       "7978879",
       "8045004",
-      "8048176"
+      "8048176",
+      "8066856"
     ],
     "Barclays": [
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Senior-Engineer-VPN_JR-0000112919-1",
@@ -124,7 +125,9 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Fullstack-Developer_JR-0000101713-1",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000112300",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Software-Engineer_JR-0000105353",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineering-Lead_JR-0000087526-1"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineering-Lead_JR-0000087526-1",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000108348-1",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/IFC---Data-Scientist_JR-0000101728"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -244,7 +247,8 @@
       "99e1f8ef-d6e8-473b-ac0b-7052b921de7f",
       "8e87f225-59e4-4ab1-befd-0f574c6b97c5",
       "6beb0972-d958-4418-80fb-a7afe5a05fd0",
-      "8f7f8aa5-6f56-4dfa-aff9-c6176048095e"
+      "8f7f8aa5-6f56-4dfa-aff9-c6176048095e",
+      "16deaac2-9163-4c4c-bb93-15041b4e46ad"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -715,7 +719,9 @@
       "20abb910-2553-482c-a9fe-691baf3b2224",
       "f240bf55-4683-4284-8222-e7cd0c227d70",
       "9f5887da-7245-4a5b-b48e-90a1cdb1a592",
-      "68d5369a-3fe6-4ef2-b8ef-b565054dd53c"
+      "68d5369a-3fe6-4ef2-b8ef-b565054dd53c",
+      "ddc0e2e9-fc3b-4811-abae-4b3b7cc7feca",
+      "cd73d520-cb7b-4175-9151-8afb9df52250"
     ],
     "Synthesia": [
       "0560eb00-0e85-47d4-9b66-f9af3033a85e",
@@ -889,7 +895,11 @@
       "e88f55d6-2230-494d-8f9d-671650fa6344",
       "f4c662d7-52ff-456c-8249-3607a5d3d1c8",
       "bc4ad7c5-52e0-425b-b218-94846745dfc7",
-      "4a813cda-e3bc-4a0f-b656-8ced00a5f972"
+      "4a813cda-e3bc-4a0f-b656-8ced00a5f972",
+      "0cccd092-0476-4498-ba74-ae99dd7e50eb",
+      "5bb8bc01-21b7-4c50-be68-8449fa95cdc5",
+      "6add33e3-04fa-4a2f-933a-3814afd7f0ed",
+      "c89eb544-cf58-437a-9543-044b9685d635"
     ],
     "Lendable": [
       "48c12376-9cc3-489e-8e47-073e1846260b",
@@ -1129,7 +1139,8 @@
       "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Network-Engineer-III_R29233",
       "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Sr-Engineer---Cloud--Remote-_R24136",
       "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Sr-Software-Engineer---Data-Platform_R26425",
-      "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Sr-Engineer--Cloud_R29383"
+      "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Sr-Engineer--Cloud_R29383",
+      "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Sr-Engineer-II---Frontend_R29186"
     ],
     "Beazley": [
       "https://bbinsurance.wd1.myworkdayjobs.com/Careers_Europe/job/Borehamwood-England-United-Kingdom/Software-Engineer_R26_0000001961-1",
@@ -1356,9 +1367,9 @@
   },
   "lastSeen": {
     "Monzo": "2026-07-15T11:57:36.951Z",
-    "GoCardless": "2026-07-10T21:08:56.219Z",
-    "Barclays": "2026-07-15T14:01:24.192Z",
-    "Checkout.com": "2026-07-15T14:01:16.777Z",
+    "GoCardless": "2026-07-15T15:42:23.832Z",
+    "Barclays": "2026-07-15T15:42:31.839Z",
+    "Checkout.com": "2026-07-15T15:42:24.340Z",
     "ClearBank": "2026-07-14T11:53:29.808Z",
     "Wayve": "2026-07-10T21:08:58.342Z",
     "Deliveroo": "2026-07-15T14:01:18.292Z",
@@ -1373,7 +1384,7 @@
     "Dexory": "2026-07-10T21:08:57.097Z",
     "Fanatics Betting": "2026-07-10T21:08:57.218Z",
     "Algolia": "2026-07-14T15:09:59.024Z",
-    "Trainline": "2026-07-15T14:01:18.800Z",
+    "Trainline": "2026-07-15T15:42:25.948Z",
     "Synthesia": "2026-07-13T20:44:47.079Z",
     "Attio": "2026-07-10T21:08:58.907Z",
     "Paddle": "2026-07-10T21:08:58.949Z",
@@ -1381,7 +1392,7 @@
     "Motorway": "2026-07-10T21:08:59.031Z",
     "monday.com": "2026-07-10T21:08:59.536Z",
     "Accurx": "2026-07-10T21:08:59.662Z",
-    "Allica Bank": "2026-07-14T11:53:30.918Z",
+    "Allica Bank": "2026-07-15T15:42:26.195Z",
     "Lendable": "2026-07-13T11:23:07.446Z",
     "Kraken": "2026-07-14T17:47:47.245Z",
     "Elliptic": "2026-07-10T21:08:59.980Z",
@@ -1394,7 +1405,7 @@
     "Spotify": "2026-07-14T22:16:46.787Z",
     "Motorola Solutions": "2026-07-15T05:57:45.422Z",
     "Darktrace": "2026-07-10T21:09:16.714Z",
-    "CrowdStrike": "2026-07-15T03:34:45.672Z",
+    "CrowdStrike": "2026-07-15T15:42:43.836Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
     "RELX": "2026-07-10T21:09:20.751Z",
     "NVIDIA": "2026-07-10T21:09:22.731Z",
