@@ -67,7 +67,9 @@
       "8055058",
       "8059461",
       "8053285",
-      "8064086"
+      "8064086",
+      "8066660",
+      "8066313"
     ],
     "GoCardless": [
       "7795791",
@@ -239,7 +241,8 @@
       "d6e1b954-e04e-4e77-8535-819519694fe2",
       "7d5e4cf1-0532-4f5b-a389-3d50ca857089",
       "99e1f8ef-d6e8-473b-ac0b-7052b921de7f",
-      "8e87f225-59e4-4ab1-befd-0f574c6b97c5"
+      "8e87f225-59e4-4ab1-befd-0f574c6b97c5",
+      "6beb0972-d958-4418-80fb-a7afe5a05fd0"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -554,7 +557,8 @@
       "4768764101",
       "4390860101",
       "4885626101",
-      "4924444101"
+      "4924444101",
+      "4928683101"
     ],
     "Rightmove": [
       "4795023101",
@@ -1168,7 +1172,8 @@
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Senior-Engineer--Full-Stack-_R5094",
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Senior-Software-Engineer--Java-_R4902",
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Software-Engineering-Team-Lead---C-_R4281",
-      "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Associate-Software-Engineer--C--NET-_R5294"
+      "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Associate-Software-Engineer--C--NET-_R5294",
+      "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Engineer-C---Full-Stack-_R5595"
     ],
     "Ares Management": [
       "https://aresmgmt.wd1.myworkdayjobs.com/External/job/London-UK/Associate-Senior-Associate--Systems-Engineer_R8016",
@@ -1192,7 +1197,8 @@
     ],
     "Trimble": [
       "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Remote/Software-Engineer_R56506",
-      "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Remote/Software-Engineer_R56505"
+      "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Remote/Software-Engineer_R56505",
+      "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---London/Front-End-Angular-Software-Engineer_R55590"
     ],
     "Antares Underwriting": [
       "https://antaresunderwriting.wd3.myworkdayjobs.com/Antares/job/London/Systems-Developer_JR172",
@@ -1342,10 +1348,10 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-07-14T15:09:58.022Z",
+    "Monzo": "2026-07-15T11:57:36.951Z",
     "GoCardless": "2026-07-10T21:08:56.219Z",
     "Barclays": "2026-07-13T16:09:14.691Z",
-    "Checkout.com": "2026-07-14T20:08:53.487Z",
+    "Checkout.com": "2026-07-15T11:57:39.829Z",
     "ClearBank": "2026-07-14T11:53:29.808Z",
     "Wayve": "2026-07-10T21:08:58.342Z",
     "Deliveroo": "2026-07-15T10:23:52.151Z",
@@ -1354,7 +1360,7 @@
     "JP Morgan": "2026-07-03T14:56:53.726Z",
     "Grafana Labs": "2026-07-10T21:08:56.457Z",
     "Intercom": "2026-07-14T11:53:29.118Z",
-    "Prolific": "2026-07-10T21:08:56.717Z",
+    "Prolific": "2026-07-15T11:57:37.292Z",
     "Rightmove": "2026-07-15T08:28:34.528Z",
     "Postman": "2026-07-10T21:45:51.305Z",
     "Dexory": "2026-07-10T21:08:57.097Z",
@@ -1387,11 +1393,11 @@
     "NVIDIA": "2026-07-10T21:09:22.731Z",
     "Universal Music Group": "2026-07-10T21:09:24.276Z",
     "Rolls-Royce": "2026-07-11T06:02:35.798Z",
-    "TP ICAP": "2026-07-14T16:39:14.740Z",
+    "TP ICAP": "2026-07-15T11:58:21.444Z",
     "Ares Management": "2026-07-10T21:09:28.303Z",
     "Depop": "2026-07-10T21:09:29.298Z",
     "Ticketmaster": "2026-07-13T11:23:37.225Z",
-    "Trimble": "2026-07-10T21:09:31.238Z",
+    "Trimble": "2026-07-15T11:58:25.454Z",
     "Antares Underwriting": "2026-07-10T21:09:32.366Z",
     "EMBL": "2026-07-10T21:09:36.044Z",
     "Zoom": "2026-07-10T21:45:05.365Z",
