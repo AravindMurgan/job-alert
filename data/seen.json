@@ -249,7 +249,8 @@
       "8e87f225-59e4-4ab1-befd-0f574c6b97c5",
       "6beb0972-d958-4418-80fb-a7afe5a05fd0",
       "8f7f8aa5-6f56-4dfa-aff9-c6176048095e",
-      "16deaac2-9163-4c4c-bb93-15041b4e46ad"
+      "16deaac2-9163-4c4c-bb93-15041b4e46ad",
+      "d77b34ad-20f9-4926-a29e-493d4749a90f"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -445,7 +446,10 @@
       "ed54986a-534e-4907-8052-662f78a4aadd",
       "520d3170-8d3c-480a-bc79-7ddd9cc65632",
       "8089e2ea-d307-4659-ab14-695bcc8c2baa",
-      "8d9ef48d-e6cb-44e6-ab45-9b66bb2f0a1f"
+      "8d9ef48d-e6cb-44e6-ab45-9b66bb2f0a1f",
+      "52b24417-5491-4e10-93cd-c8bf99010d69",
+      "1fba1982-6f28-44c2-bbd5-1b62011a647f",
+      "0d91c835-716a-4b11-9b93-eb0912481802"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -481,7 +485,8 @@
       "feca89bd-4d4d-44f7-81cd-2fbf76ca216a",
       "ff5af7c7-9331-4266-a880-dcb8ab65b563",
       "19bb168d-2d00-4896-a09b-377b621dfe66",
-      "196ed6dd-bc28-4ee6-b20b-c7225f00b647"
+      "196ed6dd-bc28-4ee6-b20b-c7225f00b647",
+      "fb9565f0-2f1b-4de6-90aa-679ec077b553"
     ],
     "JP Morgan": [
       "210755745",
@@ -682,7 +687,9 @@
       "6112872004",
       "6115407004",
       "6009350004",
-      "6115415004"
+      "6115415004",
+      "6103778004",
+      "6117535004"
     ],
     "Trainline": [
       "81489e31-d3a1-46ad-a909-f29ba2e8b199",
@@ -1353,7 +1360,8 @@
       "https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware/job/Home-United-Kingdom/Cloud-Solutions-Architect_17390"
     ],
     "Goldman Sachs": [
-      "173971"
+      "173971",
+      "168774"
     ],
     "Guardian": [
       "1152",
@@ -1365,7 +1373,8 @@
       "79806",
       "77561",
       "79714",
-      "78981"
+      "78981",
+      "79842"
     ],
     "Computershare": [
       "12070",
@@ -1379,12 +1388,12 @@
     "Monzo": "2026-07-15T16:57:00.440Z",
     "GoCardless": "2026-07-15T15:42:23.832Z",
     "Barclays": "2026-07-15T15:42:31.839Z",
-    "Checkout.com": "2026-07-15T15:42:24.340Z",
+    "Checkout.com": "2026-07-16T15:00:52.803Z",
     "ClearBank": "2026-07-14T11:53:29.808Z",
     "Wayve": "2026-07-16T09:22:37.771Z",
-    "Deliveroo": "2026-07-16T12:54:05.513Z",
+    "Deliveroo": "2026-07-16T15:00:53.324Z",
     "Marshmallow": "2026-07-14T15:10:03.815Z",
-    "OakNorth": "2026-07-10T21:08:58.758Z",
+    "OakNorth": "2026-07-16T15:00:53.450Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z",
     "Grafana Labs": "2026-07-16T12:54:03.788Z",
     "Intercom": "2026-07-14T11:53:29.118Z",
@@ -1393,7 +1402,7 @@
     "Postman": "2026-07-10T21:45:51.305Z",
     "Dexory": "2026-07-10T21:08:57.097Z",
     "Fanatics Betting": "2026-07-10T21:08:57.218Z",
-    "Algolia": "2026-07-14T15:09:59.024Z",
+    "Algolia": "2026-07-16T15:00:51.459Z",
     "Trainline": "2026-07-15T15:42:25.948Z",
     "Synthesia": "2026-07-13T20:44:47.079Z",
     "Attio": "2026-07-10T21:08:58.907Z",
@@ -1445,16 +1454,16 @@
     "Pigment": "2026-07-13T11:23:13.096Z",
     "AVEVA": "2026-07-10T21:46:36.799Z",
     "Flexera": "2026-07-10T21:46:38.230Z",
-    "Goldman Sachs": "2026-07-10T21:46:41.475Z",
+    "Goldman Sachs": "2026-07-16T15:01:35.601Z",
     "Guardian": "2026-07-10T21:46:45.963Z",
-    "Bank of New York Mellon": "2026-07-12T16:31:08.545Z",
+    "Bank of New York Mellon": "2026-07-16T15:01:37.863Z",
     "Computershare": "2026-07-16T09:23:39.550Z"
   },
   "lastSeenId": {
     "JP Morgan": 210755745,
     "Goldman Sachs": 174453,
     "Guardian": 1264,
-    "Bank of New York Mellon": 79806,
+    "Bank of New York Mellon": 79842,
     "Computershare": 12116,
     "Pearson": 24362
   }
