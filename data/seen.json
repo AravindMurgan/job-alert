@@ -131,7 +131,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineering-Lead_JR-0000087526-1",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000108348-1",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/IFC---Data-Scientist_JR-0000101728",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior--Data-Platform-Developer_JR-0000099275-1"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior--Data-Platform-Developer_JR-0000099275-1",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Technical-Architect-Delivery-Manager_JR-0000110609-1"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -457,7 +458,9 @@
       "0d91c835-716a-4b11-9b93-eb0912481802",
       "b173c6c5-bbae-4397-9477-d5e7c700328b",
       "0f145aa6-f9c7-4d90-a04b-cd9a191a37ed",
-      "94498ca6-d194-400d-a7cf-6051c9749b56"
+      "94498ca6-d194-400d-a7cf-6051c9749b56",
+      "9b5299bf-8ad1-43e9-9884-cfe06580cece",
+      "9a26247e-c6bc-414e-b85d-0a03aeae608f"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -680,7 +683,8 @@
       "4212631009",
       "4208336009",
       "4218898009",
-      "4284521009"
+      "4284521009",
+      "4322720009"
     ],
     "Algolia": [
       "5854568004",
@@ -1088,7 +1092,8 @@
       "0a4a3f77-1758-41e7-a4b0-e54b9a983523",
       "4e4995cb-20c3-47be-ab76-6cb6b90114e6",
       "9f897cc2-8ca6-4c04-a3ff-956f274c40ac",
-      "e1112d35-d5d6-4dfb-97cc-bb6d67d5a4d8"
+      "e1112d35-d5d6-4dfb-97cc-bb6d67d5a4d8",
+      "8e8a3114-91b8-479d-b743-7f0946d1a1eb"
     ],
     "Moonpig": [
       "947cbd4a-2183-47d2-a266-824f12f298ac",
@@ -1410,11 +1415,11 @@
   "lastSeen": {
     "Monzo": "2026-07-17T12:51:54.101Z",
     "GoCardless": "2026-07-15T15:42:23.832Z",
-    "Barclays": "2026-07-17T08:25:57.550Z",
+    "Barclays": "2026-07-17T15:57:49.310Z",
     "Checkout.com": "2026-07-16T18:52:40.676Z",
     "ClearBank": "2026-07-14T11:53:29.808Z",
     "Wayve": "2026-07-17T11:46:15.749Z",
-    "Deliveroo": "2026-07-17T14:26:37.219Z",
+    "Deliveroo": "2026-07-17T15:57:40.196Z",
     "Marshmallow": "2026-07-14T15:10:03.815Z",
     "OakNorth": "2026-07-16T15:00:53.450Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z",
@@ -1424,7 +1429,7 @@
     "Rightmove": "2026-07-17T14:26:36.423Z",
     "Postman": "2026-07-10T21:45:51.305Z",
     "Dexory": "2026-07-10T21:08:57.097Z",
-    "Fanatics Betting": "2026-07-10T21:08:57.218Z",
+    "Fanatics Betting": "2026-07-17T15:57:39.152Z",
     "Algolia": "2026-07-16T15:00:51.459Z",
     "Trainline": "2026-07-15T15:42:25.948Z",
     "Synthesia": "2026-07-13T20:44:47.079Z",
@@ -1442,7 +1447,7 @@
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
     "Sophos": "2026-07-10T21:09:02.131Z",
-    "Octopus Energy": "2026-07-17T12:52:01.482Z",
+    "Octopus Energy": "2026-07-17T15:57:47.452Z",
     "Moonpig": "2026-07-10T21:09:04.108Z",
     "Spotify": "2026-07-17T14:26:44.880Z",
     "Motorola Solutions": "2026-07-15T05:57:45.422Z",
