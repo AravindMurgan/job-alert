@@ -72,7 +72,9 @@
       "8066313",
       "8066940",
       "8071217",
-      "8071364"
+      "8071364",
+      "8074179",
+      "8074610"
     ],
     "GoCardless": [
       "7795791",
@@ -468,7 +470,9 @@
       "3551fbef-2744-4f72-bac1-d16d7a238ce6",
       "7973857a-96fa-4eeb-80db-33c4a37ecdd7",
       "78c5338a-6a37-4f5c-91c3-02707cab0726",
-      "58485b61-4c8e-4996-89bc-685d5e154b94"
+      "58485b61-4c8e-4996-89bc-685d5e154b94",
+      "df00b09e-09b7-4922-921f-d461b4d3e272",
+      "61779cc4-15b0-4bc2-9dcf-01ffe31618eb"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -902,7 +906,8 @@
       "a601bc21-786c-49a1-b715-d32cb80c9bdb",
       "a546de60-8b11-40b0-bd88-81e7faacdd64",
       "24af3e64-0066-4400-9042-c87ec857934b",
-      "d835b7be-cc14-4c08-a94b-95dfe6962db9"
+      "d835b7be-cc14-4c08-a94b-95dfe6962db9",
+      "22dda5bc-6cd1-4313-ad8a-322f33ca8d38"
     ],
     "Accurx": [
       "42be1c1b-ad79-4c95-b8c0-bf73995a14bd",
@@ -1390,7 +1395,8 @@
       "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Principal-Software-Engineer_R013769",
       "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Experienced-Software-Engineer--AI-Services_R013571",
       "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Senior-Software-Developer_R013047",
-      "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Senior-Software-Developer_R013923-2"
+      "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Senior-Software-Developer_R013923-2",
+      "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/R-D-Software-Engineer_R012858-1"
     ],
     "Flexera": [
       "https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware/job/Home-United-Kingdom/Senior-Software-Engineer_17370",
@@ -1401,7 +1407,8 @@
     ],
     "Goldman Sachs": [
       "173971",
-      "168774"
+      "168774",
+      "165223"
     ],
     "Guardian": [
       "1152",
@@ -1426,13 +1433,13 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-07-17T12:51:54.101Z",
+    "Monzo": "2026-07-20T15:18:55.932Z",
     "GoCardless": "2026-07-20T10:51:06.878Z",
     "Barclays": "2026-07-17T15:57:49.310Z",
     "Checkout.com": "2026-07-20T10:51:07.585Z",
     "ClearBank": "2026-07-14T11:53:29.808Z",
     "Wayve": "2026-07-17T19:42:42.194Z",
-    "Deliveroo": "2026-07-20T10:51:07.796Z",
+    "Deliveroo": "2026-07-20T15:18:56.958Z",
     "Marshmallow": "2026-07-14T15:10:03.815Z",
     "OakNorth": "2026-07-16T15:00:53.450Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z",
@@ -1450,7 +1457,7 @@
     "Paddle": "2026-07-10T21:08:58.949Z",
     "Multiverse": "2026-07-17T12:51:57.521Z",
     "Motorway": "2026-07-10T21:08:59.031Z",
-    "monday.com": "2026-07-10T21:08:59.536Z",
+    "monday.com": "2026-07-20T15:18:57.279Z",
     "Accurx": "2026-07-17T10:19:12.396Z",
     "Allica Bank": "2026-07-17T11:46:17.049Z",
     "Lendable": "2026-07-15T16:57:03.006Z",
@@ -1493,9 +1500,9 @@
     "Lovable": "2026-07-13T20:44:51.641Z",
     "Lawhive": "2026-07-10T21:46:00.544Z",
     "Pigment": "2026-07-13T11:23:13.096Z",
-    "AVEVA": "2026-07-10T21:46:36.799Z",
+    "AVEVA": "2026-07-20T15:19:36.821Z",
     "Flexera": "2026-07-10T21:46:38.230Z",
-    "Goldman Sachs": "2026-07-16T15:01:35.601Z",
+    "Goldman Sachs": "2026-07-20T15:19:43.200Z",
     "Guardian": "2026-07-10T21:46:45.963Z",
     "Bank of New York Mellon": "2026-07-16T15:01:37.863Z",
     "Computershare": "2026-07-17T11:47:30.637Z"
