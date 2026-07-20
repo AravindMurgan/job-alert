@@ -92,7 +92,8 @@
       "7978879",
       "8045004",
       "8048176",
-      "8066856"
+      "8066856",
+      "8064518"
     ],
     "Barclays": [
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Senior-Engineer-VPN_JR-0000112919-1",
@@ -255,7 +256,8 @@
       "8f7f8aa5-6f56-4dfa-aff9-c6176048095e",
       "16deaac2-9163-4c4c-bb93-15041b4e46ad",
       "d77b34ad-20f9-4926-a29e-493d4749a90f",
-      "29b8378c-3cb6-430e-9a4f-1ec0615c65cd"
+      "29b8378c-3cb6-430e-9a4f-1ec0615c65cd",
+      "ddee2efd-01fd-4bee-82ca-2930503581e1"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -463,7 +465,10 @@
       "9b5299bf-8ad1-43e9-9884-cfe06580cece",
       "9a26247e-c6bc-414e-b85d-0a03aeae608f",
       "e7f95ea7-46a2-4218-9cf2-88d7d6683c3d",
-      "3551fbef-2744-4f72-bac1-d16d7a238ce6"
+      "3551fbef-2744-4f72-bac1-d16d7a238ce6",
+      "7973857a-96fa-4eeb-80db-33c4a37ecdd7",
+      "78c5338a-6a37-4f5c-91c3-02707cab0726",
+      "58485b61-4c8e-4996-89bc-685d5e154b94"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -1097,7 +1102,8 @@
       "4e4995cb-20c3-47be-ab76-6cb6b90114e6",
       "9f897cc2-8ca6-4c04-a3ff-956f274c40ac",
       "e1112d35-d5d6-4dfb-97cc-bb6d67d5a4d8",
-      "8e8a3114-91b8-479d-b743-7f0946d1a1eb"
+      "8e8a3114-91b8-479d-b743-7f0946d1a1eb",
+      "5a41cc80-f4e6-4440-b9ec-e5aaa21e6e1d"
     ],
     "Moonpig": [
       "947cbd4a-2183-47d2-a266-824f12f298ac",
@@ -1149,7 +1155,8 @@
       "f58775f4-574f-40df-8b25-528381203154",
       "b441bb85-24c0-4ef4-971a-1372952c1c32",
       "5089cbe3-5e62-4c24-89a2-9a1487eb5034",
-      "f2445abb-a1cd-424a-8ca1-8948f68fcc4a"
+      "f2445abb-a1cd-424a-8ca1-8948f68fcc4a",
+      "ba605886-4258-44ee-b372-6fd3a803dd3d"
     ],
     "Motorola Solutions": [
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Software-Engineer_R62587",
@@ -1270,7 +1277,8 @@
       "https://embl.wd103.myworkdayjobs.com/EMBL/job/Hinxton-Cambridgeshire/Protein-Function-Development-Team-Leader_JR3915",
       "https://embl.wd103.myworkdayjobs.com/EMBL/job/Hinxton-Cambridgeshire/Bioinformatician_JR3997",
       "https://embl.wd103.myworkdayjobs.com/EMBL/job/Hinxton-Cambridgeshire/ELIXIR-Science-Officer_JR4010",
-      "https://embl.wd103.myworkdayjobs.com/EMBL/job/Hinxton-Cambridgeshire/Scientific-Database-Curator_JR3323"
+      "https://embl.wd103.myworkdayjobs.com/EMBL/job/Hinxton-Cambridgeshire/Scientific-Database-Curator_JR3323",
+      "https://embl.wd103.myworkdayjobs.com/EMBL/job/Hinxton-Cambridgeshire/Software-Engineer_JR4171"
     ],
     "Zoom": [
       "https://careers.zoom.us/jobs/growth-marketer-generalist-bonsai-london-united-kingdom",
@@ -1418,12 +1426,12 @@
   },
   "lastSeen": {
     "Monzo": "2026-07-17T12:51:54.101Z",
-    "GoCardless": "2026-07-15T15:42:23.832Z",
+    "GoCardless": "2026-07-20T10:51:06.878Z",
     "Barclays": "2026-07-17T15:57:49.310Z",
-    "Checkout.com": "2026-07-16T18:52:40.676Z",
+    "Checkout.com": "2026-07-20T10:51:07.585Z",
     "ClearBank": "2026-07-14T11:53:29.808Z",
     "Wayve": "2026-07-17T19:42:42.194Z",
-    "Deliveroo": "2026-07-17T17:18:59.485Z",
+    "Deliveroo": "2026-07-20T10:51:07.796Z",
     "Marshmallow": "2026-07-14T15:10:03.815Z",
     "OakNorth": "2026-07-16T15:00:53.450Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z",
@@ -1451,9 +1459,9 @@
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
     "Sophos": "2026-07-10T21:09:02.131Z",
-    "Octopus Energy": "2026-07-17T15:57:47.452Z",
+    "Octopus Energy": "2026-07-20T10:51:13.906Z",
     "Moonpig": "2026-07-10T21:09:04.108Z",
-    "Spotify": "2026-07-17T14:26:44.880Z",
+    "Spotify": "2026-07-20T10:51:14.203Z",
     "Motorola Solutions": "2026-07-15T05:57:45.422Z",
     "Darktrace": "2026-07-10T21:09:16.714Z",
     "CrowdStrike": "2026-07-16T16:37:53.725Z",
@@ -1468,7 +1476,7 @@
     "Ticketmaster": "2026-07-13T11:23:37.225Z",
     "Trimble": "2026-07-15T11:58:25.454Z",
     "Antares Underwriting": "2026-07-10T21:09:32.366Z",
-    "EMBL": "2026-07-10T21:09:36.044Z",
+    "EMBL": "2026-07-20T10:51:45.131Z",
     "Zoom": "2026-07-10T21:45:05.365Z",
     "Modo Energy": "2026-07-10T21:45:51.785Z",
     "Eucalyptus": "2026-07-15T14:01:13.605Z",
