@@ -474,7 +474,8 @@
       "78c5338a-6a37-4f5c-91c3-02707cab0726",
       "58485b61-4c8e-4996-89bc-685d5e154b94",
       "df00b09e-09b7-4922-921f-d461b4d3e272",
-      "61779cc4-15b0-4bc2-9dcf-01ffe31618eb"
+      "61779cc4-15b0-4bc2-9dcf-01ffe31618eb",
+      "652466d2-187d-49a1-b1a1-0dc371374623"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -910,7 +911,8 @@
       "a546de60-8b11-40b0-bd88-81e7faacdd64",
       "24af3e64-0066-4400-9042-c87ec857934b",
       "d835b7be-cc14-4c08-a94b-95dfe6962db9",
-      "22dda5bc-6cd1-4313-ad8a-322f33ca8d38"
+      "22dda5bc-6cd1-4313-ad8a-322f33ca8d38",
+      "a1c87de3-ef32-4844-957e-d7e33ffa6cc2"
     ],
     "Accurx": [
       "42be1c1b-ad79-4c95-b8c0-bf73995a14bd",
@@ -1048,7 +1050,9 @@
       "c3866b4b-f615-48a1-b349-66de509c7c36",
       "c7f3609c-9e7b-48e7-9e8a-815561d3ceed",
       "ddcdfb6e-c5f2-4df2-8349-6f418c1d2e11",
-      "f34a9962-3c9e-4c13-9b21-48c8ccaa05ae"
+      "f34a9962-3c9e-4c13-9b21-48c8ccaa05ae",
+      "c0c6c96d-5611-4a27-9298-b55474f6a1f9",
+      "a3c8813a-f2e0-4d12-a6ae-7bb8ace4f994"
     ],
     "Improbable": [
       "17e1d340-8e08-488d-bd68-29b5414abc96",
@@ -1113,7 +1117,8 @@
       "9f897cc2-8ca6-4c04-a3ff-956f274c40ac",
       "e1112d35-d5d6-4dfb-97cc-bb6d67d5a4d8",
       "8e8a3114-91b8-479d-b743-7f0946d1a1eb",
-      "5a41cc80-f4e6-4440-b9ec-e5aaa21e6e1d"
+      "5a41cc80-f4e6-4440-b9ec-e5aaa21e6e1d",
+      "71f766cd-9242-45c2-9923-c071f00bf778"
     ],
     "Moonpig": [
       "947cbd4a-2183-47d2-a266-824f12f298ac",
@@ -1249,7 +1254,8 @@
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Senior-Software-Engineer--Java-_R4902",
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Software-Engineering-Team-Lead---C-_R4281",
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Associate-Software-Engineer--C--NET-_R5294",
-      "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Engineer-C---Full-Stack-_R5595"
+      "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Engineer-C---Full-Stack-_R5595",
+      "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Principal-Software-Engineer---C-_R5616"
     ],
     "Ares Management": [
       "https://aresmgmt.wd1.myworkdayjobs.com/External/job/London-UK/Associate-Senior-Associate--Systems-Engineer_R8016",
@@ -1427,7 +1433,9 @@
       "77561",
       "79714",
       "78981",
-      "79842"
+      "79842",
+      "76228",
+      "76229"
     ],
     "Computershare": [
       "12070",
@@ -1446,7 +1454,7 @@
     "Checkout.com": "2026-07-20T10:51:07.585Z",
     "ClearBank": "2026-07-20T16:49:04.876Z",
     "Wayve": "2026-07-17T19:42:42.194Z",
-    "Deliveroo": "2026-07-20T15:18:56.958Z",
+    "Deliveroo": "2026-07-21T11:30:44.623Z",
     "Marshmallow": "2026-07-14T15:10:03.815Z",
     "OakNorth": "2026-07-16T15:00:53.450Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z",
@@ -1464,17 +1472,17 @@
     "Paddle": "2026-07-10T21:08:58.949Z",
     "Multiverse": "2026-07-17T12:51:57.521Z",
     "Motorway": "2026-07-10T21:08:59.031Z",
-    "monday.com": "2026-07-20T15:18:57.279Z",
+    "monday.com": "2026-07-21T11:30:45.168Z",
     "Accurx": "2026-07-17T10:19:12.396Z",
     "Allica Bank": "2026-07-17T11:46:17.049Z",
     "Lendable": "2026-07-20T18:46:12.941Z",
     "Kraken": "2026-07-20T13:00:47.750Z",
-    "Elliptic": "2026-07-10T21:08:59.980Z",
+    "Elliptic": "2026-07-21T11:30:45.663Z",
     "Improbable": "2026-07-14T15:10:05.782Z",
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
     "Sophos": "2026-07-10T21:09:02.131Z",
-    "Octopus Energy": "2026-07-20T10:51:13.906Z",
+    "Octopus Energy": "2026-07-21T11:30:49.142Z",
     "Moonpig": "2026-07-10T21:09:04.108Z",
     "Spotify": "2026-07-20T10:51:14.203Z",
     "Motorola Solutions": "2026-07-15T05:57:45.422Z",
@@ -1485,7 +1493,7 @@
     "NVIDIA": "2026-07-10T21:09:22.731Z",
     "Universal Music Group": "2026-07-10T21:09:24.276Z",
     "Rolls-Royce": "2026-07-11T06:02:35.798Z",
-    "TP ICAP": "2026-07-15T11:58:21.444Z",
+    "TP ICAP": "2026-07-21T11:31:14.788Z",
     "Ares Management": "2026-07-10T21:09:28.303Z",
     "Depop": "2026-07-15T14:01:49.656Z",
     "Ticketmaster": "2026-07-13T11:23:37.225Z",
@@ -1511,7 +1519,7 @@
     "Flexera": "2026-07-10T21:46:38.230Z",
     "Goldman Sachs": "2026-07-20T15:19:43.200Z",
     "Guardian": "2026-07-10T21:46:45.963Z",
-    "Bank of New York Mellon": "2026-07-16T15:01:37.863Z",
+    "Bank of New York Mellon": "2026-07-21T11:31:32.686Z",
     "Computershare": "2026-07-20T16:49:53.275Z"
   },
   "lastSeenId": {
