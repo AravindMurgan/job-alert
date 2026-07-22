@@ -76,7 +76,8 @@
       "8074179",
       "8074610",
       "8076700",
-      "8077068"
+      "8077068",
+      "8059557"
     ],
     "GoCardless": [
       "7795791",
@@ -138,7 +139,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000108348-1",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/IFC---Data-Scientist_JR-0000101728",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior--Data-Platform-Developer_JR-0000099275-1",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Technical-Architect-Delivery-Manager_JR-0000110609-1"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Technical-Architect-Delivery-Manager_JR-0000110609-1",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Platform-Engineer_JR-0000116479-1"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -263,7 +265,8 @@
       "d77b34ad-20f9-4926-a29e-493d4749a90f",
       "29b8378c-3cb6-430e-9a4f-1ec0615c65cd",
       "ddee2efd-01fd-4bee-82ca-2930503581e1",
-      "6986e498-10b9-4d89-963b-ed5d06c27fcc"
+      "6986e498-10b9-4d89-963b-ed5d06c27fcc",
+      "3bf972cc-259d-4ac2-a2b7-8972b3c9b59e"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -479,7 +482,8 @@
       "58485b61-4c8e-4996-89bc-685d5e154b94",
       "df00b09e-09b7-4922-921f-d461b4d3e272",
       "61779cc4-15b0-4bc2-9dcf-01ffe31618eb",
-      "652466d2-187d-49a1-b1a1-0dc371374623"
+      "652466d2-187d-49a1-b1a1-0dc371374623",
+      "ec686a5b-4c5d-4114-9ac2-556ff9a1c35d"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -707,7 +711,8 @@
       "4208336009",
       "4218898009",
       "4284521009",
-      "4322720009"
+      "4322720009",
+      "4327899009"
     ],
     "Algolia": [
       "5854568004",
@@ -773,7 +778,8 @@
       "9f5887da-7245-4a5b-b48e-90a1cdb1a592",
       "68d5369a-3fe6-4ef2-b8ef-b565054dd53c",
       "ddc0e2e9-fc3b-4811-abae-4b3b7cc7feca",
-      "cd73d520-cb7b-4175-9151-8afb9df52250"
+      "cd73d520-cb7b-4175-9151-8afb9df52250",
+      "68f597e9-60b3-482e-8d73-618d24b0bf8e"
     ],
     "Synthesia": [
       "0560eb00-0e85-47d4-9b66-f9af3033a85e",
@@ -1013,7 +1019,8 @@
       "e0abc246-3d3e-4268-9416-bb6652410d3f",
       "485ad578-67d0-41e5-ab33-51a9375f8387",
       "390b63af-4169-48cd-878c-0320be1d5aca",
-      "391fefce-7b77-4f5c-8606-5cce76629d8e"
+      "391fefce-7b77-4f5c-8606-5cce76629d8e",
+      "4eb69710-f0fb-4f43-8c3c-16d080b63cd3"
     ],
     "Kraken": [
       "2bb8285f-d45a-441b-8628-983a101006ce",
@@ -1294,7 +1301,10 @@
       "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Work-From-Home---UK/Lead-Software-Engineer--Remote--United-Kingdom-_JR-88028-4",
       "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Work-From-Home---UK/Software-Engineer-III--Remote--United-Kingdom-_JR-90224",
       "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Work-From-Home---UK/Lead-Site-Reliability-Developer---CSRE-Consulting_JR-89934-4",
-      "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Work-From-Home---UK/Senior-Fullstack-Engineer--Remote--United-Kingdom-_JR-90898-1"
+      "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Work-From-Home---UK/Senior-Fullstack-Engineer--Remote--United-Kingdom-_JR-90898-1",
+      "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Remote---United-Kingdom/Lead-Software-Engineer--Remote--United-Kingdom-_JR-88028-4",
+      "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Remote---United-Kingdom/Senior-Fullstack-Engineer--Remote--United-Kingdom-_JR-90898-1",
+      "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Remote---United-Kingdom/Lead-Site-Reliability-Developer---CSRE-Consulting_JR-89934-4"
     ],
     "Trimble": [
       "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Remote/Software-Engineer_R56506",
@@ -1469,13 +1479,13 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-07-22T09:02:22.925Z",
+    "Monzo": "2026-07-22T11:16:29.653Z",
     "GoCardless": "2026-07-21T15:12:45.500Z",
-    "Barclays": "2026-07-17T15:57:49.310Z",
-    "Checkout.com": "2026-07-21T15:13:06.814Z",
+    "Barclays": "2026-07-22T11:16:37.466Z",
+    "Checkout.com": "2026-07-22T11:16:31.436Z",
     "ClearBank": "2026-07-20T16:49:04.876Z",
     "Wayve": "2026-07-17T19:42:42.194Z",
-    "Deliveroo": "2026-07-21T11:30:44.623Z",
+    "Deliveroo": "2026-07-22T11:16:31.819Z",
     "Marshmallow": "2026-07-21T13:01:20.637Z",
     "OakNorth": "2026-07-16T15:00:53.450Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z",
@@ -1485,9 +1495,9 @@
     "Rightmove": "2026-07-17T14:26:36.423Z",
     "Postman": "2026-07-10T21:45:51.305Z",
     "Dexory": "2026-07-10T21:08:57.097Z",
-    "Fanatics Betting": "2026-07-17T15:57:39.152Z",
+    "Fanatics Betting": "2026-07-22T11:16:30.467Z",
     "Algolia": "2026-07-16T15:00:51.459Z",
-    "Trainline": "2026-07-15T15:42:25.948Z",
+    "Trainline": "2026-07-22T11:16:32.104Z",
     "Synthesia": "2026-07-20T16:49:05.368Z",
     "Attio": "2026-07-10T21:08:58.907Z",
     "Paddle": "2026-07-10T21:08:58.949Z",
@@ -1496,7 +1506,7 @@
     "monday.com": "2026-07-21T11:30:45.168Z",
     "Accurx": "2026-07-21T15:13:08.540Z",
     "Allica Bank": "2026-07-17T11:46:17.049Z",
-    "Lendable": "2026-07-20T18:46:12.941Z",
+    "Lendable": "2026-07-22T11:16:32.879Z",
     "Kraken": "2026-07-21T19:46:24.409Z",
     "Elliptic": "2026-07-21T15:13:09.011Z",
     "Improbable": "2026-07-14T15:10:05.782Z",
@@ -1517,7 +1527,7 @@
     "TP ICAP": "2026-07-21T11:31:14.788Z",
     "Ares Management": "2026-07-10T21:09:28.303Z",
     "Depop": "2026-07-21T15:13:43.264Z",
-    "Ticketmaster": "2026-07-13T11:23:37.225Z",
+    "Ticketmaster": "2026-07-22T11:17:04.285Z",
     "Trimble": "2026-07-15T11:58:25.454Z",
     "Antares Underwriting": "2026-07-10T21:09:32.366Z",
     "EMBL": "2026-07-20T10:51:45.131Z",
