@@ -78,7 +78,8 @@
       "8076700",
       "8077068",
       "8059557",
-      "8015240"
+      "8015240",
+      "8081149"
     ],
     "GoCardless": [
       "7795791",
@@ -268,7 +269,8 @@
       "ddee2efd-01fd-4bee-82ca-2930503581e1",
       "6986e498-10b9-4d89-963b-ed5d06c27fcc",
       "3bf972cc-259d-4ac2-a2b7-8972b3c9b59e",
-      "5caeb27d-5a41-4909-a70f-158896ef6009"
+      "5caeb27d-5a41-4909-a70f-158896ef6009",
+      "5298220c-68b8-4063-a2b9-107e3aa61c69"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -817,7 +819,8 @@
       "fb7190d8-76aa-4047-ae71-cbe6ec1b4034",
       "fd3617a1-b117-417d-bee5-416ea9193150",
       "c3c071a1-f5e2-48b6-8d79-f76ce1d293fc",
-      "d4a59223-9669-48d5-ad5d-91a9e71370d0"
+      "d4a59223-9669-48d5-ad5d-91a9e71370d0",
+      "5ffc5856-abc0-4639-b4a7-a6d81e8f0814"
     ],
     "Attio": [
       "010b8206-5968-4a03-8052-d9339762f766",
@@ -1034,7 +1037,8 @@
       "4eb69710-f0fb-4f43-8c3c-16d080b63cd3",
       "0e7ff1f1-97e6-4792-86f4-299835d92099",
       "c3260cf6-9c2d-466f-82a9-15f95ff9acb3",
-      "938e53b2-cd8d-484d-881d-8de39aa964fd"
+      "938e53b2-cd8d-484d-881d-8de39aa964fd",
+      "39baf5d4-ad57-4d1f-8745-79960a4ef4e0"
     ],
     "Kraken": [
       "2bb8285f-d45a-441b-8628-983a101006ce",
@@ -1285,7 +1289,8 @@
     "Rolls-Royce": [
       "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Measurement-Lead_JR6154849-1",
       "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Manufacturing-Engineering_JR6156984",
-      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Electrical-Engineer-5_JR6141109"
+      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Electrical-Engineer-5_JR6141109",
+      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Control-System-Engineer_JR6156669"
     ],
     "TP ICAP": [
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Senior-Software-Engineer--Back-End-_R5242",
@@ -1395,7 +1400,10 @@
       "eb0f819a-d84a-401a-908a-6fc1b232fdef",
       "3c359c5d-99de-47c6-b73d-bcd47e60af52",
       "d1b16279-ed1c-4cdb-aaa7-c61f19d85f68",
-      "aa8a4c0b-81b8-4728-8298-c31dda48190a"
+      "aa8a4c0b-81b8-4728-8298-c31dda48190a",
+      "7d735efa-30d8-41de-b6c9-2d9e6dfec7f8",
+      "6e708c43-b7d3-4948-951e-c7875026d71f",
+      "d32cb49c-6dfe-4d61-992e-c6304a3e9750"
     ],
     "CircuitHub": [
       "394313d1-fb6d-44bc-a948-ccd9c9bec2db",
@@ -1501,10 +1509,10 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-07-22T17:44:37.425Z",
+    "Monzo": "2026-07-23T09:39:22.876Z",
     "GoCardless": "2026-07-21T15:12:45.500Z",
     "Barclays": "2026-07-22T11:16:37.466Z",
-    "Checkout.com": "2026-07-22T14:51:53.514Z",
+    "Checkout.com": "2026-07-23T09:39:23.873Z",
     "ClearBank": "2026-07-20T16:49:04.876Z",
     "Wayve": "2026-07-17T19:42:42.194Z",
     "Deliveroo": "2026-07-22T18:49:26.959Z",
@@ -1520,7 +1528,7 @@
     "Fanatics Betting": "2026-07-22T11:16:30.467Z",
     "Algolia": "2026-07-16T15:00:51.459Z",
     "Trainline": "2026-07-22T16:16:32.249Z",
-    "Synthesia": "2026-07-20T16:49:05.368Z",
+    "Synthesia": "2026-07-23T09:39:24.233Z",
     "Attio": "2026-07-10T21:08:58.907Z",
     "Paddle": "2026-07-10T21:08:58.949Z",
     "Multiverse": "2026-07-22T09:02:23.845Z",
@@ -1528,7 +1536,7 @@
     "monday.com": "2026-07-21T11:30:45.168Z",
     "Accurx": "2026-07-22T14:51:54.144Z",
     "Allica Bank": "2026-07-17T11:46:17.049Z",
-    "Lendable": "2026-07-22T16:16:32.806Z",
+    "Lendable": "2026-07-23T09:39:24.591Z",
     "Kraken": "2026-07-22T21:19:04.110Z",
     "Elliptic": "2026-07-21T15:13:09.011Z",
     "Improbable": "2026-07-14T15:10:05.782Z",
@@ -1545,7 +1553,7 @@
     "RELX": "2026-07-21T13:01:44.897Z",
     "NVIDIA": "2026-07-10T21:09:22.731Z",
     "Universal Music Group": "2026-07-10T21:09:24.276Z",
-    "Rolls-Royce": "2026-07-11T06:02:35.798Z",
+    "Rolls-Royce": "2026-07-23T09:39:51.149Z",
     "TP ICAP": "2026-07-21T11:31:14.788Z",
     "Ares Management": "2026-07-10T21:09:28.303Z",
     "Depop": "2026-07-22T12:50:24.088Z",
@@ -1558,7 +1566,7 @@
     "Eucalyptus": "2026-07-22T09:02:23.400Z",
     "Nearform": "2026-07-10T21:45:52.245Z",
     "Gearset": "2026-07-10T21:45:58.636Z",
-    "Omnea": "2026-07-22T12:49:54.566Z",
+    "Omnea": "2026-07-23T09:39:24.926Z",
     "CircuitHub": "2026-07-13T11:23:08.688Z",
     "Causaly": "2026-07-10T21:45:59.367Z",
     "Magentic": "2026-07-21T16:45:11.255Z",
