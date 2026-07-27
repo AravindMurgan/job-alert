@@ -106,7 +106,8 @@
       "8048176",
       "8066856",
       "8064518",
-      "8071633"
+      "8071633",
+      "8088493"
     ],
     "Barclays": [
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Senior-Engineer-VPN_JR-0000112919-1",
@@ -507,7 +508,8 @@
       "6bcf3490-e7a4-4f38-b9d3-3a5a7889d760",
       "8d5e9285-1de8-43ff-802c-5aac8a83dbe1",
       "e6b2f6ef-b4fc-4298-8d4d-fe728ce444c1",
-      "c21430ee-855d-4871-9844-8c5acc0ca593"
+      "c21430ee-855d-4871-9844-8c5acc0ca593",
+      "f98e772f-276a-4a8d-b69e-443d975d48f9"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -768,7 +770,8 @@
       "6009350004",
       "6115415004",
       "6103778004",
-      "6117535004"
+      "6117535004",
+      "6008981004"
     ],
     "Trainline": [
       "81489e31-d3a1-46ad-a909-f29ba2e8b199",
@@ -1115,7 +1118,8 @@
       "f0b3a00e-57a5-47eb-9d4c-9b2c1a3d9345",
       "7265ed54-fc8a-470f-be56-3f06c0c8a9f0",
       "7c697b76-8d13-4825-808d-0d1dcd98ffd0",
-      "ee900e35-1754-4237-9aa7-db7d8f98ca67"
+      "ee900e35-1754-4237-9aa7-db7d8f98ca67",
+      "74f74142-7eed-4222-a742-9abf03d3d078"
     ],
     "Elliptic": [
       "0fb6f165-8583-4caa-b964-69c1eeb5fdb5",
@@ -1215,7 +1219,8 @@
       "9b3134db-65ce-4684-9d2f-9eafb45a89d9",
       "918fa85d-3de0-40f8-b565-73c61dfcce27",
       "d1d1ad9c-7aa7-40d6-aca6-7443541c8ed1",
-      "b45d1d8f-d294-45a8-8330-b0682e631fed"
+      "b45d1d8f-d294-45a8-8330-b0682e631fed",
+      "1d86bd08-10a0-4973-80e5-56b26b63b65c"
     ],
     "Moonpig": [
       "947cbd4a-2183-47d2-a266-824f12f298ac",
@@ -1579,16 +1584,20 @@
     ],
     "TUI Group": [
       "https://travelhrportal.wd1.myworkdayjobs.com/Jobs/job/Manchester-United-Kingdom/Solutions-Engineer_J-83663"
+    ],
+    "Runa": [
+      "3bdcbef2-5bc1-487c-9b49-17457100ded1",
+      "703df287-0a6c-48b9-976f-9d90b8c50727"
     ]
   },
   "lastSeen": {
     "Monzo": "2026-07-27T10:57:51.620Z",
-    "GoCardless": "2026-07-21T15:12:45.500Z",
+    "GoCardless": "2026-07-27T16:04:01.190Z",
     "Barclays": "2026-07-22T11:16:37.466Z",
     "Checkout.com": "2026-07-24T15:48:35.226Z",
     "ClearBank": "2026-07-20T16:49:04.876Z",
     "Wayve": "2026-07-24T08:46:06.600Z",
-    "Deliveroo": "2026-07-24T17:16:30.265Z",
+    "Deliveroo": "2026-07-27T16:04:02.477Z",
     "Marshmallow": "2026-07-27T10:57:53.080Z",
     "OakNorth": "2026-07-23T15:25:13.560Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z",
@@ -1599,7 +1608,7 @@
     "Postman": "2026-07-10T21:45:51.305Z",
     "Dexory": "2026-07-10T21:08:57.097Z",
     "Fanatics Betting": "2026-07-24T08:46:05.634Z",
-    "Algolia": "2026-07-16T15:00:51.459Z",
+    "Algolia": "2026-07-27T16:04:01.733Z",
     "Trainline": "2026-07-27T10:57:53.154Z",
     "Synthesia": "2026-07-23T09:39:24.233Z",
     "Attio": "2026-07-10T21:08:58.907Z",
@@ -1610,13 +1619,13 @@
     "Accurx": "2026-07-27T10:57:53.281Z",
     "Allica Bank": "2026-07-27T13:42:37.980Z",
     "Lendable": "2026-07-24T18:51:06.576Z",
-    "Kraken": "2026-07-24T17:16:31.806Z",
+    "Kraken": "2026-07-27T16:04:03.261Z",
     "Elliptic": "2026-07-24T10:50:31.609Z",
     "Improbable": "2026-07-14T15:10:05.782Z",
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
     "Sophos": "2026-07-27T07:47:43.360Z",
-    "Octopus Energy": "2026-07-24T17:16:35.525Z",
+    "Octopus Energy": "2026-07-27T16:04:07.381Z",
     "Moonpig": "2026-07-10T21:09:04.108Z",
     "Spotify": "2026-07-22T12:49:58.270Z",
     "Motorola Solutions": "2026-07-27T10:58:11.738Z",
@@ -1657,7 +1666,8 @@
     "Computershare": "2026-07-20T16:49:53.275Z",
     "Wahed": "2026-07-23T16:58:23.338Z",
     "Stacks": "2026-07-27T10:57:53.605Z",
-    "TUI Group": "2026-07-27T13:43:12.226Z"
+    "TUI Group": "2026-07-27T13:43:12.226Z",
+    "Runa": "2026-07-27T16:04:04.346Z"
   },
   "lastSeenId": {
     "JP Morgan": 210755745,
