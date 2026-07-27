@@ -82,7 +82,9 @@
       "8081149",
       "8081503",
       "8083280",
-      "8076742"
+      "8076742",
+      "8079687",
+      "8074292"
     ],
     "GoCardless": [
       "7795791",
@@ -525,7 +527,8 @@
       "9c4c710f-6e8a-4081-84ad-325d58832e3b",
       "ecb457b5-1773-496c-a8b5-fabec42759e2",
       "697f0b2f-03a0-4e2f-abb0-aa14f1042187",
-      "107343cb-c01a-493b-8c8a-f65ab157812d"
+      "107343cb-c01a-493b-8c8a-f65ab157812d",
+      "9a80549e-dd35-4916-a0f2-8bae2c0dc282"
     ],
     "OakNorth": [
       "0920ded2-016a-4ed4-bc6b-498d46235e59",
@@ -818,7 +821,9 @@
       "747ddf88-4e13-40f2-9bd9-03777474315e",
       "8dfa2163-b946-4de3-9699-b1f05da97aa7",
       "027e336b-9ce4-4983-bcc5-a8c7ded90b3a",
-      "695a1eb0-b24e-425e-a26a-75044afba240"
+      "695a1eb0-b24e-425e-a26a-75044afba240",
+      "c252f025-e4bb-410e-9b94-a1f5e16e9edd",
+      "e94784dc-2198-4c61-b383-d34eaf79c10b"
     ],
     "Synthesia": [
       "0560eb00-0e85-47d4-9b66-f9af3033a85e",
@@ -991,7 +996,9 @@
       "9cbf2bed-cfbe-4246-8d1f-ef1253d02795",
       "028462ce-b305-48de-a5bf-c579ae72bb91",
       "d42c5911-5e86-40bf-8868-c8bc47f6132f",
-      "56935342-d564-4fed-9ac1-6dafb4b72ebe"
+      "56935342-d564-4fed-9ac1-6dafb4b72ebe",
+      "92c80ced-031a-4823-aecf-04eb3f58b480",
+      "c106f996-e0e9-4aeb-89a1-f330f3a605ad"
     ],
     "Allica Bank": [
       "114cb340-6190-4b6f-8b28-f46137d5dd86",
@@ -1015,7 +1022,8 @@
       "e7f550f0-6b13-4b66-9f7e-d4ebc836cb31",
       "5b0a1db4-5858-42ab-8525-3ce4b5f22922",
       "c967c68c-3d55-40c0-bb2f-735cfec31487",
-      "7ea24143-7719-4471-9543-a2f50d6fca8e"
+      "7ea24143-7719-4471-9543-a2f50d6fca8e",
+      "9873db71-674d-4a05-845e-22e7c65463c0"
     ],
     "Lendable": [
       "48c12376-9cc3-489e-8e47-073e1846260b",
@@ -1275,7 +1283,8 @@
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Software-Engineering-Manager_R65439",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Frontend-Software-Engineer_R62283",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Senior-Backend-Software-Engineer_R62824",
-      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineering-Manager_R62533"
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineering-Manager_R62533",
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Software-Engineer_R65878"
     ],
     "Darktrace": [
       "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Software-Engineer--Python-_JR100986",
@@ -1534,7 +1543,8 @@
     "Goldman Sachs": [
       "173971",
       "168774",
-      "165223"
+      "165223",
+      "178381"
     ],
     "Guardian": [
       "1152",
@@ -1562,17 +1572,20 @@
     ],
     "Wahed": [
       "da38c999-f647-495b-b019-31939bdfe1bd"
+    ],
+    "Stacks": [
+      "8dee80db-8a0e-4f86-b767-c0e443da27d8"
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-07-24T17:16:26.247Z",
+    "Monzo": "2026-07-27T10:57:51.620Z",
     "GoCardless": "2026-07-21T15:12:45.500Z",
     "Barclays": "2026-07-22T11:16:37.466Z",
     "Checkout.com": "2026-07-24T15:48:35.226Z",
     "ClearBank": "2026-07-20T16:49:04.876Z",
     "Wayve": "2026-07-24T08:46:06.600Z",
     "Deliveroo": "2026-07-24T17:16:30.265Z",
-    "Marshmallow": "2026-07-21T13:01:20.637Z",
+    "Marshmallow": "2026-07-27T10:57:53.080Z",
     "OakNorth": "2026-07-23T15:25:13.560Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z",
     "Grafana Labs": "2026-07-24T21:28:54.067Z",
@@ -1583,15 +1596,15 @@
     "Dexory": "2026-07-10T21:08:57.097Z",
     "Fanatics Betting": "2026-07-24T08:46:05.634Z",
     "Algolia": "2026-07-16T15:00:51.459Z",
-    "Trainline": "2026-07-24T14:14:38.347Z",
+    "Trainline": "2026-07-27T10:57:53.154Z",
     "Synthesia": "2026-07-23T09:39:24.233Z",
     "Attio": "2026-07-10T21:08:58.907Z",
     "Paddle": "2026-07-10T21:08:58.949Z",
     "Multiverse": "2026-07-24T14:14:38.561Z",
     "Motorway": "2026-07-23T11:32:30.857Z",
     "monday.com": "2026-07-21T11:30:45.168Z",
-    "Accurx": "2026-07-24T15:48:35.660Z",
-    "Allica Bank": "2026-07-24T14:14:38.746Z",
+    "Accurx": "2026-07-27T10:57:53.281Z",
+    "Allica Bank": "2026-07-27T10:57:53.299Z",
     "Lendable": "2026-07-24T18:51:06.576Z",
     "Kraken": "2026-07-24T17:16:31.806Z",
     "Elliptic": "2026-07-24T10:50:31.609Z",
@@ -1602,7 +1615,7 @@
     "Octopus Energy": "2026-07-24T17:16:35.525Z",
     "Moonpig": "2026-07-10T21:09:04.108Z",
     "Spotify": "2026-07-22T12:49:58.270Z",
-    "Motorola Solutions": "2026-07-15T05:57:45.422Z",
+    "Motorola Solutions": "2026-07-27T10:58:11.738Z",
     "Darktrace": "2026-07-10T21:09:16.714Z",
     "CrowdStrike": "2026-07-24T10:50:48.142Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
@@ -1634,15 +1647,16 @@
     "Pigment": "2026-07-13T11:23:13.096Z",
     "AVEVA": "2026-07-20T15:19:36.821Z",
     "Flexera": "2026-07-10T21:46:38.230Z",
-    "Goldman Sachs": "2026-07-20T15:19:43.200Z",
+    "Goldman Sachs": "2026-07-27T10:58:35.223Z",
     "Guardian": "2026-07-10T21:46:45.963Z",
     "Bank of New York Mellon": "2026-07-21T11:31:32.686Z",
     "Computershare": "2026-07-20T16:49:53.275Z",
-    "Wahed": "2026-07-23T16:58:23.338Z"
+    "Wahed": "2026-07-23T16:58:23.338Z",
+    "Stacks": "2026-07-27T10:57:53.605Z"
   },
   "lastSeenId": {
     "JP Morgan": 210755745,
-    "Goldman Sachs": 174453,
+    "Goldman Sachs": 178381,
     "Guardian": 1264,
     "Bank of New York Mellon": 79842,
     "Computershare": 12326,
