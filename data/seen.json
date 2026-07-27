@@ -1023,7 +1023,8 @@
       "5b0a1db4-5858-42ab-8525-3ce4b5f22922",
       "c967c68c-3d55-40c0-bb2f-735cfec31487",
       "7ea24143-7719-4471-9543-a2f50d6fca8e",
-      "9873db71-674d-4a05-845e-22e7c65463c0"
+      "9873db71-674d-4a05-845e-22e7c65463c0",
+      "1acc3db8-b708-45ba-976a-c0561938376e"
     ],
     "Lendable": [
       "48c12376-9cc3-489e-8e47-073e1846260b",
@@ -1575,6 +1576,9 @@
     ],
     "Stacks": [
       "8dee80db-8a0e-4f86-b767-c0e443da27d8"
+    ],
+    "TUI Group": [
+      "https://travelhrportal.wd1.myworkdayjobs.com/Jobs/job/Manchester-United-Kingdom/Solutions-Engineer_J-83663"
     ]
   },
   "lastSeen": {
@@ -1604,7 +1608,7 @@
     "Motorway": "2026-07-23T11:32:30.857Z",
     "monday.com": "2026-07-21T11:30:45.168Z",
     "Accurx": "2026-07-27T10:57:53.281Z",
-    "Allica Bank": "2026-07-27T10:57:53.299Z",
+    "Allica Bank": "2026-07-27T13:42:37.980Z",
     "Lendable": "2026-07-24T18:51:06.576Z",
     "Kraken": "2026-07-24T17:16:31.806Z",
     "Elliptic": "2026-07-24T10:50:31.609Z",
@@ -1652,7 +1656,8 @@
     "Bank of New York Mellon": "2026-07-21T11:31:32.686Z",
     "Computershare": "2026-07-20T16:49:53.275Z",
     "Wahed": "2026-07-23T16:58:23.338Z",
-    "Stacks": "2026-07-27T10:57:53.605Z"
+    "Stacks": "2026-07-27T10:57:53.605Z",
+    "TUI Group": "2026-07-27T13:43:12.226Z"
   },
   "lastSeenId": {
     "JP Morgan": 210755745,
