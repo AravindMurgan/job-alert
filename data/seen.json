@@ -148,7 +148,9 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/IFC---Data-Scientist_JR-0000101728",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior--Data-Platform-Developer_JR-0000099275-1",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Technical-Architect-Delivery-Manager_JR-0000110609-1",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Platform-Engineer_JR-0000116479-1"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Platform-Engineer_JR-0000116479-1",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer---Java_JR-0000114455",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Clyde-Place/Technology-Business-Analyst_JR-0000118139"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -1301,7 +1303,8 @@
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Frontend-Software-Engineer_R62283",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Senior-Backend-Software-Engineer_R62824",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineering-Manager_R62533",
-      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Software-Engineer_R65878"
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Software-Engineer_R65878",
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineer_R66979"
     ],
     "Darktrace": [
       "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Software-Engineer--Python-_JR100986",
@@ -1325,7 +1328,8 @@
       "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Sr-Software-Engineer--Cloud--Hybrid--London-_R29015",
       "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Regional-Alliances-Manager--GSI--Remote--GBR-_R29211",
       "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Sr-Software-Engineer---Cloud--Data-Platform_R29049",
-      "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Reading/Manager--Corporate-Sales-Engineering_R29492"
+      "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Reading/Manager--Corporate-Sales-Engineering_R29492",
+      "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/PPS-Solutions-Sr-Consultant--Remote--GBR-_R29528"
     ],
     "Beazley": [
       "https://bbinsurance.wd1.myworkdayjobs.com/Careers_Europe/job/Borehamwood-England-United-Kingdom/Software-Engineer_R26_0000001961-1",
@@ -1611,7 +1615,7 @@
   "lastSeen": {
     "Monzo": "2026-07-27T10:57:51.620Z",
     "GoCardless": "2026-07-27T16:04:01.190Z",
-    "Barclays": "2026-07-22T11:16:37.466Z",
+    "Barclays": "2026-07-28T13:11:54.522Z",
     "Checkout.com": "2026-07-24T15:48:35.226Z",
     "ClearBank": "2026-07-20T16:49:04.876Z",
     "Wayve": "2026-07-24T08:46:06.600Z",
@@ -1646,9 +1650,9 @@
     "Octopus Energy": "2026-07-27T16:04:07.381Z",
     "Moonpig": "2026-07-10T21:09:04.108Z",
     "Spotify": "2026-07-27T17:52:09.327Z",
-    "Motorola Solutions": "2026-07-27T10:58:11.738Z",
+    "Motorola Solutions": "2026-07-28T13:12:03.971Z",
     "Darktrace": "2026-07-10T21:09:16.714Z",
-    "CrowdStrike": "2026-07-24T10:50:48.142Z",
+    "CrowdStrike": "2026-07-28T13:12:06.246Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
     "RELX": "2026-07-21T13:01:44.897Z",
     "NVIDIA": "2026-07-10T21:09:22.731Z",
