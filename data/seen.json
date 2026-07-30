@@ -85,7 +85,8 @@
       "8076742",
       "8079687",
       "8074292",
-      "8071005"
+      "8071005",
+      "8092745"
     ],
     "GoCardless": [
       "7795791",
@@ -638,7 +639,8 @@
       "8053723",
       "8069036",
       "8022027",
-      "7591247"
+      "7591247",
+      "8094884"
     ],
     "Prolific": [
       "4924671101",
@@ -665,7 +667,8 @@
       "4933724101",
       "4934422101",
       "4937206101",
-      "4940702101"
+      "4940702101",
+      "4931989101"
     ],
     "Rightmove": [
       "4795023101",
@@ -1118,7 +1121,8 @@
       "04c1680a-462b-4ba6-a1ac-c9c361d755e0",
       "e3b6096f-1943-4bff-8c11-ab7175d5aaa4",
       "957e4b7a-9c0c-4b5f-9478-241641024e4f",
-      "265935cd-7b69-4621-9136-f2bb0955a438"
+      "265935cd-7b69-4621-9136-f2bb0955a438",
+      "5760704f-23e7-4b4e-928c-f9edb9dfafa6"
     ],
     "Kraken": [
       "2bb8285f-d45a-441b-8628-983a101006ce",
@@ -1378,7 +1382,8 @@
       "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/UK---London-London-Wall/Senior-UI-Software-Engineer-II_R111577",
       "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/UK---London-London-Wall/Senior-Software-Engineer-II_R110551",
       "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Cardiff/Full-Stack-PHP-Developer---Mid-level_R114838",
-      "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/UK---Grosvenor-House-Southampton/Software-Engineer-III_R114699-1"
+      "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/UK---Grosvenor-House-Southampton/Software-Engineer-III_R114699-1",
+      "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/UK---Grosvenor-House-Southampton/Director-Software-Engineering_R113446-1"
     ],
     "NVIDIA": [
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/Senior-Software-Engineer---Networking_JR2016674"
@@ -1652,10 +1657,13 @@
     "Runa": [
       "3bdcbef2-5bc1-487c-9b49-17457100ded1",
       "703df287-0a6c-48b9-976f-9d90b8c50727"
+    ],
+    "Electric Twin": [
+      "0de6e704-b367-485a-9db8-a4820675a81c"
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-07-29T07:24:00.355Z",
+    "Monzo": "2026-07-30T12:57:31.888Z",
     "GoCardless": "2026-07-27T16:04:01.190Z",
     "Barclays": "2026-07-28T13:11:54.522Z",
     "Checkout.com": "2026-07-29T12:18:29.158Z",
@@ -1666,8 +1674,8 @@
     "OakNorth": "2026-07-23T15:25:13.560Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z",
     "Grafana Labs": "2026-07-24T21:28:54.067Z",
-    "Intercom": "2026-07-29T17:36:55.782Z",
-    "Prolific": "2026-07-29T12:18:28.156Z",
+    "Intercom": "2026-07-30T12:57:32.314Z",
+    "Prolific": "2026-07-30T12:57:32.363Z",
     "Rightmove": "2026-07-29T10:07:00.817Z",
     "Postman": "2026-07-10T21:45:51.305Z",
     "Dexory": "2026-07-10T21:08:57.097Z",
@@ -1682,7 +1690,7 @@
     "monday.com": "2026-07-21T11:30:45.168Z",
     "Accurx": "2026-07-30T09:03:38.244Z",
     "Allica Bank": "2026-07-29T12:18:31.071Z",
-    "Lendable": "2026-07-29T14:35:54.260Z",
+    "Lendable": "2026-07-30T12:57:35.767Z",
     "Kraken": "2026-07-27T20:47:19.900Z",
     "Elliptic": "2026-07-24T10:50:31.609Z",
     "Improbable": "2026-07-14T15:10:05.782Z",
@@ -1696,7 +1704,7 @@
     "Darktrace": "2026-07-10T21:09:16.714Z",
     "CrowdStrike": "2026-07-28T23:38:32.115Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
-    "RELX": "2026-07-21T13:01:44.897Z",
+    "RELX": "2026-07-30T12:57:59.539Z",
     "NVIDIA": "2026-07-10T21:09:22.731Z",
     "Universal Music Group": "2026-07-10T21:09:24.276Z",
     "Rolls-Royce": "2026-07-30T09:04:02.028Z",
@@ -1731,7 +1739,8 @@
     "Wahed": "2026-07-23T16:58:23.338Z",
     "Stacks": "2026-07-27T10:57:53.605Z",
     "TUI Group": "2026-07-27T13:43:12.226Z",
-    "Runa": "2026-07-27T16:04:04.346Z"
+    "Runa": "2026-07-27T16:04:04.346Z",
+    "Electric Twin": "2026-07-30T12:57:43.196Z"
   },
   "lastSeenId": {
     "JP Morgan": 210755745,
