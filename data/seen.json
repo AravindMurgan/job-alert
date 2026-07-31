@@ -86,7 +86,10 @@
       "8079687",
       "8074292",
       "8071005",
-      "8092745"
+      "8092745",
+      "8098351",
+      "8094005",
+      "8071017"
     ],
     "GoCardless": [
       "7795791",
@@ -152,7 +155,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Technical-Architect-Delivery-Manager_JR-0000110609-1",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Platform-Engineer_JR-0000116479-1",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer---Java_JR-0000114455",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Clyde-Place/Technology-Business-Analyst_JR-0000118139"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Clyde-Place/Technology-Business-Analyst_JR-0000118139",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Junior-Full-Stack-Developer_JR-0000094728-1"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -283,7 +287,8 @@
       "5298220c-68b8-4063-a2b9-107e3aa61c69",
       "562a5f31-e3b7-43aa-a3de-cdd7706d8b0d",
       "23f8284a-22aa-400f-afa3-87093a15ab36",
-      "e39da561-1caa-4664-a327-8d59a122e7f1"
+      "e39da561-1caa-4664-a327-8d59a122e7f1",
+      "4e1c0b7b-230e-469d-bffd-a0e8cefcb554"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -524,7 +529,8 @@
       "ccb1fbf7-561d-4213-8211-6ec0e54e0711",
       "0143964a-a856-4b73-a3d8-40d251d30e37",
       "4021781c-9faf-4a99-8c6b-89bb638eb6f8",
-      "140f4935-9d86-422b-a0a1-544aa500f250"
+      "140f4935-9d86-422b-a0a1-544aa500f250",
+      "b6780670-c857-4820-baa6-9f2ce0db0e7c"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -1221,7 +1227,9 @@
       "753f6a36-be3e-4be0-a7a0-2981dc46cd22",
       "a7db556e-dd8d-404b-b1b2-9a2b57c2b5aa",
       "c7895b4a-e459-4021-8094-a9e7c1ac9410",
-      "30323dc0-2d82-4e8c-82b0-1bba634a1a4a"
+      "30323dc0-2d82-4e8c-82b0-1bba634a1a4a",
+      "a2f4c184-b51b-4dae-9457-96ba6659d1d1",
+      "f022a386-b0a6-47bd-88db-d94f65d190c5"
     ],
     "Octopus Energy": [
       "221e6a7a-4e02-4dd4-83d7-babe5361f21a",
@@ -1264,7 +1272,8 @@
       "b45d1d8f-d294-45a8-8330-b0682e631fed",
       "1d86bd08-10a0-4973-80e5-56b26b63b65c",
       "ffb91e03-9b6a-422b-a90b-701648af08da",
-      "13d1128a-ad67-49dc-afb2-1de1a2d58d8a"
+      "13d1128a-ad67-49dc-afb2-1de1a2d58d8a",
+      "8be22ddb-58a8-425b-b0cd-349e7b8818e7"
     ],
     "Moonpig": [
       "947cbd4a-2183-47d2-a266-824f12f298ac",
@@ -1388,7 +1397,8 @@
       "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/UK---London-London-Wall/Senior-Software-Engineer-II_R110551",
       "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Cardiff/Full-Stack-PHP-Developer---Mid-level_R114838",
       "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/UK---Grosvenor-House-Southampton/Software-Engineer-III_R114699-1",
-      "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/UK---Grosvenor-House-Southampton/Director-Software-Engineering_R113446-1"
+      "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/UK---Grosvenor-House-Southampton/Director-Software-Engineering_R113446-1",
+      "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/London-Wall/Customer-Support-Engineer_R114624"
     ],
     "NVIDIA": [
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/Senior-Software-Engineer---Networking_JR2016674"
@@ -1577,7 +1587,8 @@
       "43ce7bb3-1049-4195-9dca-6054bcab4d7b",
       "57b68fec-c11a-4cd8-a066-88b943645c01",
       "385710ca-ca48-4be3-8086-cddb35c12446",
-      "0853f205-6ac6-4074-9b67-f9f910f5a163"
+      "0853f205-6ac6-4074-9b67-f9f910f5a163",
+      "922876f8-c12d-40c2-8595-d051b0c6e296"
     ],
     "Lovable": [
       "3e1b49f4-5e07-4a41-8478-89b7a2e84610",
@@ -1587,7 +1598,8 @@
       "ef383f78-4d6b-4226-8902-8d4dab2f6a47",
       "32413614-22d9-4752-830d-6614e49ab28f",
       "2558ec41-ee0a-4e05-ad6f-936e20d9d657",
-      "e8f755fc-a015-493f-b19a-6c014c5e0269"
+      "e8f755fc-a015-493f-b19a-6c014c5e0269",
+      "722d4ea3-9aa7-460f-802e-ae1ec31170f4"
     ],
     "Lawhive": [
       "c68691f4-0fbb-45ac-a226-920cbde8847d",
@@ -1652,7 +1664,8 @@
       "12116",
       "12325",
       "12326",
-      "12434"
+      "12434",
+      "12321"
     ],
     "Wahed": [
       "da38c999-f647-495b-b019-31939bdfe1bd"
@@ -1675,13 +1688,13 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-07-30T12:57:31.888Z",
+    "Monzo": "2026-07-31T10:14:11.514Z",
     "GoCardless": "2026-07-27T16:04:01.190Z",
-    "Barclays": "2026-07-28T13:11:54.522Z",
-    "Checkout.com": "2026-07-29T12:18:29.158Z",
+    "Barclays": "2026-07-31T10:14:21.285Z",
+    "Checkout.com": "2026-07-31T10:14:12.940Z",
     "ClearBank": "2026-07-20T16:49:04.876Z",
     "Wayve": "2026-07-29T07:25:21.835Z",
-    "Deliveroo": "2026-07-30T15:17:49.590Z",
+    "Deliveroo": "2026-07-31T10:14:13.283Z",
     "Marshmallow": "2026-07-27T10:57:53.080Z",
     "OakNorth": "2026-07-23T15:25:13.560Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z",
@@ -1708,15 +1721,15 @@
     "Improbable": "2026-07-30T16:54:11.466Z",
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
-    "Sophos": "2026-07-27T17:52:08.133Z",
-    "Octopus Energy": "2026-07-30T09:03:40.881Z",
+    "Sophos": "2026-07-31T10:14:16.931Z",
+    "Octopus Energy": "2026-07-31T10:14:17.707Z",
     "Moonpig": "2026-07-10T21:09:04.108Z",
     "Spotify": "2026-07-29T17:37:00.555Z",
     "Motorola Solutions": "2026-07-28T13:12:03.971Z",
     "Darktrace": "2026-07-10T21:09:16.714Z",
     "CrowdStrike": "2026-07-28T23:38:32.115Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
-    "RELX": "2026-07-30T12:57:59.539Z",
+    "RELX": "2026-07-31T10:14:36.065Z",
     "NVIDIA": "2026-07-10T21:09:22.731Z",
     "Universal Music Group": "2026-07-30T15:18:16.437Z",
     "Rolls-Royce": "2026-07-30T09:04:02.028Z",
@@ -1738,8 +1751,8 @@
     "Magentic": "2026-07-29T17:36:57.636Z",
     "Cohere": "2026-07-29T20:01:40.189Z",
     "Capi Money": "2026-07-10T21:45:59.888Z",
-    "Ruby Labs": "2026-07-29T16:07:44.666Z",
-    "Lovable": "2026-07-25T19:58:06.091Z",
+    "Ruby Labs": "2026-07-31T10:14:15.561Z",
+    "Lovable": "2026-07-31T10:14:15.674Z",
     "Lawhive": "2026-07-25T12:56:40.848Z",
     "Pigment": "2026-07-13T11:23:13.096Z",
     "AVEVA": "2026-07-28T09:07:51.518Z",
@@ -1747,7 +1760,7 @@
     "Goldman Sachs": "2026-07-28T17:08:11.776Z",
     "Guardian": "2026-07-29T16:08:27.911Z",
     "Bank of New York Mellon": "2026-07-29T14:36:39.035Z",
-    "Computershare": "2026-07-28T11:27:38.354Z",
+    "Computershare": "2026-07-31T10:15:03.022Z",
     "Wahed": "2026-07-23T16:58:23.338Z",
     "Stacks": "2026-07-27T10:57:53.605Z",
     "TUI Group": "2026-07-27T13:43:12.226Z",
