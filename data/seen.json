@@ -290,7 +290,8 @@
       "e39da561-1caa-4664-a327-8d59a122e7f1",
       "4e1c0b7b-230e-469d-bffd-a0e8cefcb554",
       "9e7c9cb3-bb89-48fa-942b-048eaa7ded5c",
-      "cf659680-f2b2-4d79-92aa-8b3be7719040"
+      "cf659680-f2b2-4d79-92aa-8b3be7719040",
+      "82ec732c-ffb1-4c60-825e-a2c6203ad1a8"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -682,7 +683,8 @@
       "4934422101",
       "4937206101",
       "4940702101",
-      "4931989101"
+      "4931989101",
+      "4928993101"
     ],
     "Rightmove": [
       "4795023101",
@@ -1071,7 +1073,9 @@
       "7ea24143-7719-4471-9543-a2f50d6fca8e",
       "9873db71-674d-4a05-845e-22e7c65463c0",
       "1acc3db8-b708-45ba-976a-c0561938376e",
-      "6e446079-e13c-4ace-b537-f851e9a5cdf4"
+      "6e446079-e13c-4ace-b537-f851e9a5cdf4",
+      "4d594723-52d9-45d7-99b5-b605619594b3",
+      "9fb62d75-3cc7-4cb4-ba34-8b13eea27720"
     ],
     "Lendable": [
       "48c12376-9cc3-489e-8e47-073e1846260b",
@@ -1369,7 +1373,9 @@
       "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Machine-Learning-Integration-Engineer_JR101685-1",
       "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/QA-Engineer_JR101848",
       "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Specialist-Platform-Engineer_JR101446",
-      "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/London-Office-United-Kingdom/Senior-DevOps-Engineer_JR101567"
+      "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/London-Office-United-Kingdom/Senior-DevOps-Engineer_JR101567",
+      "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/London-Office-United-Kingdom/Cyber-Infrastructure-Engineer--Professional-Services_JR102110",
+      "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/London-Office-United-Kingdom/Senior-Cyber-Infrastructure-Engineer--Professional-Services_JR102111"
     ],
     "CrowdStrike": [
       "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Network-Engineer-III_R29233",
@@ -1702,7 +1708,7 @@
     "Monzo": "2026-07-31T10:14:11.514Z",
     "GoCardless": "2026-07-27T16:04:01.190Z",
     "Barclays": "2026-07-31T10:14:21.285Z",
-    "Checkout.com": "2026-07-31T14:44:25.085Z",
+    "Checkout.com": "2026-07-31T18:05:39.368Z",
     "ClearBank": "2026-07-20T16:49:04.876Z",
     "Wayve": "2026-07-29T07:25:21.835Z",
     "Deliveroo": "2026-07-31T16:27:23.283Z",
@@ -1711,7 +1717,7 @@
     "JP Morgan": "2026-07-03T14:56:53.726Z",
     "Grafana Labs": "2026-07-30T15:17:47.465Z",
     "Intercom": "2026-07-30T15:17:47.611Z",
-    "Prolific": "2026-07-30T12:57:32.363Z",
+    "Prolific": "2026-07-31T18:05:38.975Z",
     "Rightmove": "2026-07-31T16:27:22.145Z",
     "Postman": "2026-07-10T21:45:51.305Z",
     "Dexory": "2026-07-10T21:08:57.097Z",
@@ -1725,7 +1731,7 @@
     "Motorway": "2026-07-27T17:52:05.262Z",
     "monday.com": "2026-07-21T11:30:45.168Z",
     "Accurx": "2026-07-30T09:03:38.244Z",
-    "Allica Bank": "2026-07-29T12:18:31.071Z",
+    "Allica Bank": "2026-07-31T18:05:39.822Z",
     "Lendable": "2026-07-30T12:57:35.767Z",
     "Kraken": "2026-07-30T15:17:51.229Z",
     "Elliptic": "2026-07-24T10:50:31.609Z",
@@ -1737,7 +1743,7 @@
     "Moonpig": "2026-07-10T21:09:04.108Z",
     "Spotify": "2026-07-29T17:37:00.555Z",
     "Motorola Solutions": "2026-07-28T13:12:03.971Z",
-    "Darktrace": "2026-07-10T21:09:16.714Z",
+    "Darktrace": "2026-07-31T18:05:54.213Z",
     "CrowdStrike": "2026-07-28T23:38:32.115Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
     "RELX": "2026-07-31T10:14:36.065Z",
