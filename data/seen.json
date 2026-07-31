@@ -288,7 +288,9 @@
       "562a5f31-e3b7-43aa-a3de-cdd7706d8b0d",
       "23f8284a-22aa-400f-afa3-87093a15ab36",
       "e39da561-1caa-4664-a327-8d59a122e7f1",
-      "4e1c0b7b-230e-469d-bffd-a0e8cefcb554"
+      "4e1c0b7b-230e-469d-bffd-a0e8cefcb554",
+      "9e7c9cb3-bb89-48fa-942b-048eaa7ded5c",
+      "cf659680-f2b2-4d79-92aa-8b3be7719040"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -531,7 +533,8 @@
       "4021781c-9faf-4a99-8c6b-89bb638eb6f8",
       "140f4935-9d86-422b-a0a1-544aa500f250",
       "b6780670-c857-4820-baa6-9f2ce0db0e7c",
-      "480c9bde-2d49-454b-bc8f-30e2ddda04d4"
+      "480c9bde-2d49-454b-bc8f-30e2ddda04d4",
+      "9d50be7f-6e12-4b89-b3c5-1bef564a4e51"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -1694,10 +1697,10 @@
     "Monzo": "2026-07-31T10:14:11.514Z",
     "GoCardless": "2026-07-27T16:04:01.190Z",
     "Barclays": "2026-07-31T10:14:21.285Z",
-    "Checkout.com": "2026-07-31T10:14:12.940Z",
+    "Checkout.com": "2026-07-31T14:44:25.085Z",
     "ClearBank": "2026-07-20T16:49:04.876Z",
     "Wayve": "2026-07-29T07:25:21.835Z",
-    "Deliveroo": "2026-07-31T12:20:36.752Z",
+    "Deliveroo": "2026-07-31T14:44:25.334Z",
     "Marshmallow": "2026-07-27T10:57:53.080Z",
     "OakNorth": "2026-07-23T15:25:13.560Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z",
