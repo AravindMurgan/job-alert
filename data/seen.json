@@ -361,7 +361,9 @@
       "bd929b48-8174-4f24-a3fe-b3ad87cdf405",
       "6e4f44b4-8197-4fc6-8030-70c5a72098c3",
       "2900f9ab-c1aa-4ca8-bf55-6f6a847793dc",
-      "9490a20a-d56b-41d3-b03a-d12b385571a9"
+      "9490a20a-d56b-41d3-b03a-d12b385571a9",
+      "02ac81ab-1a81-40fc-9465-61f6f03eec7a",
+      "4b3da193-6ae0-4c5d-85a4-72d9d7749bf5"
     ],
     "Deliveroo": [
       "010a8eb8-5087-41b7-971d-c2813612210f",
@@ -551,7 +553,10 @@
       "9d50be7f-6e12-4b89-b3c5-1bef564a4e51",
       "eb83a36f-297a-4440-ac80-e85afbc76973",
       "025258c6-301e-462b-9927-61815277d9dc",
-      "e4e36bb0-6c20-44b8-a26b-7501cf2dd0ee"
+      "e4e36bb0-6c20-44b8-a26b-7501cf2dd0ee",
+      "af9c2c73-2896-4261-a2d4-fa381f6fad08",
+      "27e13a1b-ff84-4cfc-8182-f452084ceed8",
+      "0643a60d-9f31-41ca-81b7-f5f976787f9f"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -573,7 +578,8 @@
       "697f0b2f-03a0-4e2f-abb0-aa14f1042187",
       "107343cb-c01a-493b-8c8a-f65ab157812d",
       "9a80549e-dd35-4916-a0f2-8bae2c0dc282",
-      "034a8a61-e5ec-4aff-88db-da23473e4824"
+      "034a8a61-e5ec-4aff-88db-da23473e4824",
+      "3dee50f9-717b-4311-b1f3-1da2cef18c20"
     ],
     "OakNorth": [
       "0920ded2-016a-4ed4-bc6b-498d46235e59",
@@ -1101,7 +1107,9 @@
       "1acc3db8-b708-45ba-976a-c0561938376e",
       "6e446079-e13c-4ace-b537-f851e9a5cdf4",
       "4d594723-52d9-45d7-99b5-b605619594b3",
-      "9fb62d75-3cc7-4cb4-ba34-8b13eea27720"
+      "9fb62d75-3cc7-4cb4-ba34-8b13eea27720",
+      "41d49068-0c67-4613-817f-bdc28d8ce157",
+      "3715328e-9db7-4af7-8a34-df42fbc32a11"
     ],
     "Lendable": [
       "48c12376-9cc3-489e-8e47-073e1846260b",
@@ -1314,7 +1322,8 @@
       "8be22ddb-58a8-425b-b0cd-349e7b8818e7",
       "674f3949-42ae-4165-abcc-939398bf06bc",
       "7eed4010-f5c7-4e9d-86ec-299127c444de",
-      "dd834d16-32a0-4df1-8e8a-def8bf0aeaf8"
+      "dd834d16-32a0-4df1-8e8a-def8bf0aeaf8",
+      "88d09213-d4fe-4c85-92ce-954901559d92"
     ],
     "Moonpig": [
       "947cbd4a-2183-47d2-a266-824f12f298ac",
@@ -1405,7 +1414,8 @@
       "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Specialist-Platform-Engineer_JR101446",
       "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/London-Office-United-Kingdom/Senior-DevOps-Engineer_JR101567",
       "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/London-Office-United-Kingdom/Cyber-Infrastructure-Engineer--Professional-Services_JR102110",
-      "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/London-Office-United-Kingdom/Senior-Cyber-Infrastructure-Engineer--Professional-Services_JR102111"
+      "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/London-Office-United-Kingdom/Senior-Cyber-Infrastructure-Engineer--Professional-Services_JR102111",
+      "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Machine-Learning-Researcher_JR101970"
     ],
     "CrowdStrike": [
       "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Network-Engineer-III_R29233",
@@ -1464,7 +1474,8 @@
       "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Electrical-Engineer-5_JR6141109",
       "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Control-System-Engineer_JR6156669",
       "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Software-Engineer_JR6157836",
-      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Structural-Integrity-Engineer---E24S_JR6157859"
+      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Structural-Integrity-Engineer---E24S_JR6157859",
+      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Manufacturing-Engineer---Maintenance--Repair-and-Overhaul_JR6158049"
     ],
     "TP ICAP": [
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Senior-Software-Engineer--Back-End-_R5242",
@@ -1679,7 +1690,8 @@
       "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Senior-Cloud-Software-Engineer_R014530-1",
       "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Principal-Cloud-Software-Engineer_R014528-1",
       "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Principal-Cloud-Software-Engineer_R014527",
-      "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/XMLNAME-NET-Software-Developer_R013915"
+      "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/XMLNAME-NET-Software-Developer_R013915",
+      "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Product-Owner--Electrical-Engineering-Software_R014096"
     ],
     "Flexera": [
       "https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware/job/Home-United-Kingdom/Senior-Software-Engineer_17370",
@@ -1754,9 +1766,9 @@
     "Barclays": "2026-08-03T11:52:02.440Z",
     "Checkout.com": "2026-08-04T10:05:22.740Z",
     "ClearBank": "2026-08-03T11:51:52.104Z",
-    "Wayve": "2026-07-29T07:25:21.835Z",
-    "Deliveroo": "2026-08-04T10:05:23.008Z",
-    "Marshmallow": "2026-08-04T12:16:08.432Z",
+    "Wayve": "2026-08-04T14:45:08.516Z",
+    "Deliveroo": "2026-08-04T14:45:08.804Z",
+    "Marshmallow": "2026-08-04T14:45:08.907Z",
     "OakNorth": "2026-07-23T15:25:13.560Z",
     "JP Morgan": "2026-07-03T14:56:53.726Z",
     "Grafana Labs": "2026-07-30T15:17:47.465Z",
@@ -1775,7 +1787,7 @@
     "Motorway": "2026-07-27T17:52:05.262Z",
     "monday.com": "2026-07-21T11:30:45.168Z",
     "Accurx": "2026-07-30T09:03:38.244Z",
-    "Allica Bank": "2026-07-31T18:05:39.822Z",
+    "Allica Bank": "2026-08-04T14:45:09.890Z",
     "Lendable": "2026-08-03T11:51:53.331Z",
     "Kraken": "2026-07-30T15:17:51.229Z",
     "Elliptic": "2026-07-24T10:50:31.609Z",
@@ -1783,17 +1795,17 @@
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
     "Sophos": "2026-07-31T10:14:16.931Z",
-    "Octopus Energy": "2026-08-03T11:51:56.410Z",
+    "Octopus Energy": "2026-08-04T14:45:20.730Z",
     "Moonpig": "2026-07-10T21:09:04.108Z",
     "Spotify": "2026-07-31T21:53:24.039Z",
     "Motorola Solutions": "2026-08-04T12:16:24.398Z",
-    "Darktrace": "2026-07-31T18:05:54.213Z",
+    "Darktrace": "2026-08-04T14:45:35.039Z",
     "CrowdStrike": "2026-07-28T23:38:32.115Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
     "RELX": "2026-07-31T10:14:36.065Z",
     "NVIDIA": "2026-07-10T21:09:22.731Z",
     "Universal Music Group": "2026-07-30T15:18:16.437Z",
-    "Rolls-Royce": "2026-08-01T08:37:21.436Z",
+    "Rolls-Royce": "2026-08-04T14:45:45.418Z",
     "TP ICAP": "2026-07-24T10:50:57.117Z",
     "Ares Management": "2026-07-10T21:09:28.303Z",
     "Depop": "2026-07-23T15:25:44.373Z",
@@ -1816,7 +1828,7 @@
     "Lovable": "2026-08-03T14:21:15.145Z",
     "Lawhive": "2026-07-25T12:56:40.848Z",
     "Pigment": "2026-07-13T11:23:13.096Z",
-    "AVEVA": "2026-08-03T11:52:35.289Z",
+    "AVEVA": "2026-08-04T14:45:57.372Z",
     "Flexera": "2026-07-29T14:36:34.596Z",
     "Goldman Sachs": "2026-08-03T11:52:38.758Z",
     "Guardian": "2026-07-29T16:08:27.911Z",
