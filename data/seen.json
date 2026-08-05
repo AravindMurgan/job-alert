@@ -167,7 +167,9 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Clyde-Place/Technology-Business-Analyst_JR-0000118139",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Junior-Full-Stack-Developer_JR-0000094728-1",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Full-Stack-Developer_JR-0000120292",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Full-Stack-Developer_JR-0000125483"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Full-Stack-Developer_JR-0000125483",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-AWS-Developer_JR-0000116096-1",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Integrated-Financial-Crime---Model-Developer_JR-0000101722"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -306,7 +308,8 @@
       "7333709f-b144-4231-bf6c-835b5c509bce",
       "2fcb5327-577d-4929-bb2a-6bef43262178",
       "f5f62aa2-2b28-44d0-a3b7-43bfb8fe43a0",
-      "f0d111c3-888c-456f-a8da-0c622ed8daee"
+      "f0d111c3-888c-456f-a8da-0c622ed8daee",
+      "ca40cc26-d934-4caa-bd4a-f497b0890ab0"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -561,7 +564,8 @@
       "af9c2c73-2896-4261-a2d4-fa381f6fad08",
       "27e13a1b-ff84-4cfc-8182-f452084ceed8",
       "0643a60d-9f31-41ca-81b7-f5f976787f9f",
-      "79eacccd-e3f0-4f8f-97fc-38c4b6bccd59"
+      "79eacccd-e3f0-4f8f-97fc-38c4b6bccd59",
+      "add052e9-4b9c-475a-bae9-dde8fe9407ca"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -1252,7 +1256,8 @@
       "c0c6c96d-5611-4a27-9298-b55474f6a1f9",
       "a3c8813a-f2e0-4d12-a6ae-7bb8ace4f994",
       "b8bf44e1-db4a-43af-9afe-a3d32171d8a0",
-      "6562f4e6-c78d-49f2-ad82-68a00b1ab458"
+      "6562f4e6-c78d-49f2-ad82-68a00b1ab458",
+      "3986b0ab-73de-4ef8-9567-0f6c96d5c3a6"
     ],
     "Improbable": [
       "17e1d340-8e08-488d-bd68-29b5414abc96",
@@ -1791,11 +1796,11 @@
   "lastSeen": {
     "Monzo": "2026-08-05T10:00:40.752Z",
     "GoCardless": "2026-08-03T14:21:13.672Z",
-    "Barclays": "2026-08-03T11:52:02.440Z",
-    "Checkout.com": "2026-08-05T10:00:41.826Z",
+    "Barclays": "2026-08-05T14:31:11.848Z",
+    "Checkout.com": "2026-08-05T14:31:04.745Z",
     "ClearBank": "2026-08-05T12:07:54.403Z",
     "Wayve": "2026-08-04T14:45:08.516Z",
-    "Deliveroo": "2026-08-05T12:07:54.804Z",
+    "Deliveroo": "2026-08-05T14:31:04.932Z",
     "Marshmallow": "2026-08-04T14:45:08.907Z",
     "OakNorth": "2026-07-23T15:25:13.560Z",
     "JP Morgan": "2026-08-05T10:01:32.896Z",
@@ -1818,7 +1823,7 @@
     "Allica Bank": "2026-08-05T10:00:42.472Z",
     "Lendable": "2026-08-05T12:07:55.472Z",
     "Kraken": "2026-07-30T15:17:51.229Z",
-    "Elliptic": "2026-07-24T10:50:31.609Z",
+    "Elliptic": "2026-08-05T14:31:05.562Z",
     "Improbable": "2026-07-30T16:54:11.466Z",
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
