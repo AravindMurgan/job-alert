@@ -326,7 +326,8 @@
       "2f73ffa0-8b54-4926-a728-ef06ed3de5da",
       "e12abc3d-0026-4fa0-baeb-6996d284a138",
       "766995a3-d002-4ee1-b481-1cf33e3c249b",
-      "9c59b540-13af-4b1d-9ea6-0576f9abae5e"
+      "9c59b540-13af-4b1d-9ea6-0576f9abae5e",
+      "8a6dfa95-e8ff-40be-a8d7-3c3e3515bc3c"
     ],
     "Wayve": [
       "01b0ff59-b59a-4581-8164-93747a27a417",
@@ -559,7 +560,8 @@
       "e4e36bb0-6c20-44b8-a26b-7501cf2dd0ee",
       "af9c2c73-2896-4261-a2d4-fa381f6fad08",
       "27e13a1b-ff84-4cfc-8182-f452084ceed8",
-      "0643a60d-9f31-41ca-81b7-f5f976787f9f"
+      "0643a60d-9f31-41ca-81b7-f5f976787f9f",
+      "79eacccd-e3f0-4f8f-97fc-38c4b6bccd59"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -629,7 +631,8 @@
       "6123180004",
       "6123193004",
       "6126889004",
-      "6130623004"
+      "6130623004",
+      "6134516004"
     ],
     "Intercom": [
       "6922266",
@@ -1187,7 +1190,8 @@
       "265935cd-7b69-4621-9136-f2bb0955a438",
       "5760704f-23e7-4b4e-928c-f9edb9dfafa6",
       "86986e80-6c12-48db-82c7-cc763739cae3",
-      "6981baa3-56a6-4e6c-8cc1-30603e2a1555"
+      "6981baa3-56a6-4e6c-8cc1-30603e2a1555",
+      "29b6fa0a-dea7-46b7-8249-9cc81a6da570"
     ],
     "Kraken": [
       "2bb8285f-d45a-441b-8628-983a101006ce",
@@ -1334,7 +1338,8 @@
       "674f3949-42ae-4165-abcc-939398bf06bc",
       "7eed4010-f5c7-4e9d-86ec-299127c444de",
       "dd834d16-32a0-4df1-8e8a-def8bf0aeaf8",
-      "88d09213-d4fe-4c85-92ce-954901559d92"
+      "88d09213-d4fe-4c85-92ce-954901559d92",
+      "00a5e0a0-5210-40f7-8454-5989633e0705"
     ],
     "Moonpig": [
       "947cbd4a-2183-47d2-a266-824f12f298ac",
@@ -1464,7 +1469,8 @@
       "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Cardiff/Full-Stack-PHP-Developer---Mid-level_R114838",
       "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/UK---Grosvenor-House-Southampton/Software-Engineer-III_R114699-1",
       "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/UK---Grosvenor-House-Southampton/Director-Software-Engineering_R113446-1",
-      "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/London-Wall/Customer-Support-Engineer_R114624"
+      "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/London-Wall/Customer-Support-Engineer_R114624",
+      "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/UK---Grosvenor-House-Southampton/Junior-Software-Engineer_R115585"
     ],
     "NVIDIA": [
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/Senior-Software-Engineer---Networking_JR2016674"
@@ -1600,7 +1606,8 @@
       "583e4579-3ff7-4fec-b3d0-23942e117b17",
       "65385d9a-bd2e-470a-9b0a-ce10d30b5cc2",
       "beceedbe-c855-4f0f-a03e-981f064035e2",
-      "585c5d50-83ce-4e94-bb8d-11346bfa7860"
+      "585c5d50-83ce-4e94-bb8d-11346bfa7860",
+      "4584873d-9645-4241-84bc-36cc4c504e7e"
     ],
     "Omnea": [
       "1adfb275-0882-4b2e-9044-2b735a5d2e2d",
@@ -1731,7 +1738,8 @@
       "1264",
       "1238",
       "1243",
-      "1283"
+      "1283",
+      "1165"
     ],
     "Bank of New York Mellon": [
       "79806",
@@ -1785,13 +1793,13 @@
     "GoCardless": "2026-08-03T14:21:13.672Z",
     "Barclays": "2026-08-03T11:52:02.440Z",
     "Checkout.com": "2026-08-05T10:00:41.826Z",
-    "ClearBank": "2026-08-03T11:51:52.104Z",
+    "ClearBank": "2026-08-05T12:07:54.403Z",
     "Wayve": "2026-08-04T14:45:08.516Z",
-    "Deliveroo": "2026-08-04T14:45:08.804Z",
+    "Deliveroo": "2026-08-05T12:07:54.804Z",
     "Marshmallow": "2026-08-04T14:45:08.907Z",
     "OakNorth": "2026-07-23T15:25:13.560Z",
     "JP Morgan": "2026-08-05T10:01:32.896Z",
-    "Grafana Labs": "2026-07-30T15:17:47.465Z",
+    "Grafana Labs": "2026-08-05T12:07:53.331Z",
     "Intercom": "2026-08-04T10:05:21.563Z",
     "Prolific": "2026-08-04T10:05:21.638Z",
     "Rightmove": "2026-08-04T12:16:07.069Z",
@@ -1808,21 +1816,21 @@
     "monday.com": "2026-07-21T11:30:45.168Z",
     "Accurx": "2026-07-30T09:03:38.244Z",
     "Allica Bank": "2026-08-05T10:00:42.472Z",
-    "Lendable": "2026-08-04T16:43:00.006Z",
+    "Lendable": "2026-08-05T12:07:55.472Z",
     "Kraken": "2026-07-30T15:17:51.229Z",
     "Elliptic": "2026-07-24T10:50:31.609Z",
     "Improbable": "2026-07-30T16:54:11.466Z",
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
     "Sophos": "2026-08-05T04:26:29.549Z",
-    "Octopus Energy": "2026-08-04T14:45:20.730Z",
+    "Octopus Energy": "2026-08-05T12:08:00.207Z",
     "Moonpig": "2026-07-10T21:09:04.108Z",
     "Spotify": "2026-07-31T21:53:24.039Z",
     "Motorola Solutions": "2026-08-04T12:16:24.398Z",
     "Darktrace": "2026-08-04T14:45:35.039Z",
     "CrowdStrike": "2026-07-28T23:38:32.115Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
-    "RELX": "2026-07-31T10:14:36.065Z",
+    "RELX": "2026-08-05T12:08:17.429Z",
     "NVIDIA": "2026-07-10T21:09:22.731Z",
     "Universal Music Group": "2026-07-30T15:18:16.437Z",
     "Rolls-Royce": "2026-08-04T18:19:08.191Z",
@@ -1837,7 +1845,7 @@
     "Modo Energy": "2026-07-30T21:15:48.332Z",
     "Eucalyptus": "2026-07-29T20:01:38.431Z",
     "Nearform": "2026-07-10T21:45:52.245Z",
-    "Gearset": "2026-07-30T15:17:51.752Z",
+    "Gearset": "2026-08-05T12:07:56.087Z",
     "Omnea": "2026-08-03T20:15:46.310Z",
     "CircuitHub": "2026-07-24T12:11:29.374Z",
     "Causaly": "2026-07-29T10:07:04.348Z",
@@ -1851,7 +1859,7 @@
     "AVEVA": "2026-08-04T16:43:38.894Z",
     "Flexera": "2026-07-29T14:36:34.596Z",
     "Goldman Sachs": "2026-08-03T11:52:38.758Z",
-    "Guardian": "2026-07-29T16:08:27.911Z",
+    "Guardian": "2026-08-05T12:08:39.281Z",
     "Bank of New York Mellon": "2026-08-04T01:10:52.602Z",
     "Computershare": "2026-07-31T10:15:03.022Z",
     "Wahed": "2026-08-04T10:05:27.677Z",
