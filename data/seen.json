@@ -97,7 +97,8 @@
       "8102814",
       "8098960",
       "8102830",
-      "8105783"
+      "8105783",
+      "8110827"
     ],
     "GoCardless": [
       "7795791",
@@ -169,7 +170,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Full-Stack-Developer_JR-0000120292",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Full-Stack-Developer_JR-0000125483",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-AWS-Developer_JR-0000116096-1",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Integrated-Financial-Crime---Model-Developer_JR-0000101722"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Integrated-Financial-Crime---Model-Developer_JR-0000101722",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Engineer_JR-0000113698-1"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -1132,7 +1134,8 @@
       "41d49068-0c67-4613-817f-bdc28d8ce157",
       "3715328e-9db7-4af7-8a34-df42fbc32a11",
       "3be1fbf8-78c7-4969-b3c2-b61908d3cb38",
-      "98262342-562e-4cd6-8ea5-99041d1c1d00"
+      "98262342-562e-4cd6-8ea5-99041d1c1d00",
+      "848d9837-ce34-4a83-a613-9952e27f25fb"
     ],
     "Lendable": [
       "48c12376-9cc3-489e-8e47-073e1846260b",
@@ -1203,7 +1206,12 @@
       "86986e80-6c12-48db-82c7-cc763739cae3",
       "6981baa3-56a6-4e6c-8cc1-30603e2a1555",
       "29b6fa0a-dea7-46b7-8249-9cc81a6da570",
-      "eb217993-5f94-480d-a7e3-41c4bfaae2c9"
+      "eb217993-5f94-480d-a7e3-41c4bfaae2c9",
+      "0b377a5f-240f-46ac-a807-9a780258e73a",
+      "995021d5-2a45-432b-a66a-f25ab91273df",
+      "93612ba5-fc02-4744-90a7-61fc7c3ac89c",
+      "44df0ce7-1274-4d10-844b-ecd138e136c1",
+      "d9effa9b-07c2-4075-a350-2f84fc580e8d"
     ],
     "Kraken": [
       "2bb8285f-d45a-441b-8628-983a101006ce",
@@ -1703,7 +1711,9 @@
       "e8f755fc-a015-493f-b19a-6c014c5e0269",
       "722d4ea3-9aa7-460f-802e-ae1ec31170f4",
       "6971bf2b-5873-4817-b886-ad6d63358a71",
-      "b346e4d6-f082-4428-bb60-ce4961108dfd"
+      "b346e4d6-f082-4428-bb60-ce4961108dfd",
+      "df79d83b-e366-4998-afdd-694d06183d75",
+      "f7ffd722-a5bc-4229-9a9f-1d2c952dd7ba"
     ],
     "Lawhive": [
       "c68691f4-0fbb-45ac-a226-920cbde8847d",
@@ -1804,9 +1814,9 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-08-05T10:00:40.752Z",
+    "Monzo": "2026-08-06T09:13:40.999Z",
     "GoCardless": "2026-08-03T14:21:13.672Z",
-    "Barclays": "2026-08-05T14:31:11.848Z",
+    "Barclays": "2026-08-06T09:13:48.378Z",
     "Checkout.com": "2026-08-05T16:17:57.216Z",
     "ClearBank": "2026-08-05T12:07:54.403Z",
     "Wayve": "2026-08-04T14:45:08.516Z",
@@ -1830,8 +1840,8 @@
     "Motorway": "2026-07-27T17:52:05.262Z",
     "monday.com": "2026-07-21T11:30:45.168Z",
     "Accurx": "2026-07-30T09:03:38.244Z",
-    "Allica Bank": "2026-08-05T16:17:58.479Z",
-    "Lendable": "2026-08-05T16:17:58.676Z",
+    "Allica Bank": "2026-08-06T09:13:43.482Z",
+    "Lendable": "2026-08-06T09:13:43.529Z",
     "Kraken": "2026-07-30T15:17:51.229Z",
     "Elliptic": "2026-08-05T14:31:05.562Z",
     "Improbable": "2026-07-30T16:54:11.466Z",
@@ -1868,7 +1878,7 @@
     "Cohere": "2026-07-31T19:49:11.617Z",
     "Capi Money": "2026-07-10T21:45:59.888Z",
     "Ruby Labs": "2026-08-04T18:18:42.941Z",
-    "Lovable": "2026-08-04T16:43:01.044Z",
+    "Lovable": "2026-08-06T09:13:45.179Z",
     "Lawhive": "2026-07-25T12:56:40.848Z",
     "Pigment": "2026-08-04T16:43:08.452Z",
     "AVEVA": "2026-08-04T16:43:38.894Z",
