@@ -98,7 +98,8 @@
       "8098960",
       "8102830",
       "8105783",
-      "8110827"
+      "8110827",
+      "8111546"
     ],
     "GoCardless": [
       "7795791",
@@ -172,7 +173,10 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-AWS-Developer_JR-0000116096-1",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Integrated-Financial-Crime---Model-Developer_JR-0000101722",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Engineer_JR-0000113698-1",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Assistant-Vice-President-Solutions-Architect_JR-0000104629"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Assistant-Vice-President-Solutions-Architect_JR-0000104629",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Engineering-Lead_JR-0000113693",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Service-Engineer_JR-0000116815",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Service-Engineer_JR-0000116805"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -915,7 +919,8 @@
       "20a8a318-136e-44c7-844d-7d305e416671",
       "0c38bb1c-b583-46df-bbfe-1e15d8b66d05",
       "ec6fabd8-dc31-4ffe-877c-165d2ebb040f",
-      "455941fd-3123-4f67-af1a-5687a5d0635a"
+      "455941fd-3123-4f67-af1a-5687a5d0635a",
+      "3a1b4ef1-88d8-423e-9360-00ab6566c81d"
     ],
     "Synthesia": [
       "0560eb00-0e85-47d4-9b66-f9af3033a85e",
@@ -1030,7 +1035,8 @@
       "5e2c6d02-a513-451b-a486-3405841a0e40",
       "45bed8fa-033c-49f2-af51-eade17c16083",
       "516fcc55-6457-4b9c-91ca-37a3a8ae5545",
-      "c740b8ff-4300-48f9-838a-92d1994501d7"
+      "c740b8ff-4300-48f9-838a-92d1994501d7",
+      "ec8163a2-e2ec-40c0-8992-91484ce6eed1"
     ],
     "Motorway": [
       "31ed0baa-66e4-4ce1-8686-cdc7a33493f7",
@@ -1820,9 +1826,9 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-08-06T09:13:40.999Z",
+    "Monzo": "2026-08-06T13:15:31.008Z",
     "GoCardless": "2026-08-03T14:21:13.672Z",
-    "Barclays": "2026-08-06T11:34:52.431Z",
+    "Barclays": "2026-08-06T13:15:54.009Z",
     "Checkout.com": "2026-08-05T16:17:57.216Z",
     "ClearBank": "2026-08-05T12:07:54.403Z",
     "Wayve": "2026-08-04T14:45:08.516Z",
@@ -1838,11 +1844,11 @@
     "Dexory": "2026-07-10T21:08:57.097Z",
     "Fanatics Betting": "2026-07-24T08:46:05.634Z",
     "Algolia": "2026-07-27T16:04:01.733Z",
-    "Trainline": "2026-08-05T10:00:42.139Z",
+    "Trainline": "2026-08-06T13:15:48.877Z",
     "Synthesia": "2026-07-23T09:39:24.233Z",
     "Attio": "2026-08-04T12:16:08.920Z",
     "Paddle": "2026-08-05T10:00:42.246Z",
-    "Multiverse": "2026-07-29T16:07:42.941Z",
+    "Multiverse": "2026-08-06T13:15:49.048Z",
     "Motorway": "2026-07-27T17:52:05.262Z",
     "monday.com": "2026-07-21T11:30:45.168Z",
     "Accurx": "2026-07-30T09:03:38.244Z",
