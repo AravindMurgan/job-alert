@@ -176,7 +176,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Assistant-Vice-President-Solutions-Architect_JR-0000104629",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Engineering-Lead_JR-0000113693",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Service-Engineer_JR-0000116815",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Service-Engineer_JR-0000116805"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Service-Engineer_JR-0000116805",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AWS-Developer_JR-0000102936"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -1372,7 +1373,8 @@
       "7eed4010-f5c7-4e9d-86ec-299127c444de",
       "dd834d16-32a0-4df1-8e8a-def8bf0aeaf8",
       "88d09213-d4fe-4c85-92ce-954901559d92",
-      "00a5e0a0-5210-40f7-8454-5989633e0705"
+      "00a5e0a0-5210-40f7-8454-5989633e0705",
+      "51de498d-938d-4053-91b0-8d13ed77b09f"
     ],
     "Moonpig": [
       "947cbd4a-2183-47d2-a266-824f12f298ac",
@@ -1383,7 +1385,8 @@
       "2f5fbc82-9627-4f81-81ce-fac4f5b35b41",
       "51c59ba7-a31b-4b86-ae9c-29a607facae6",
       "a1d5aa88-ba6b-43d6-99d4-f87bb50ef6a4",
-      "a2dc9e53-7bec-4800-b1b0-80f6fb63f3d1"
+      "a2dc9e53-7bec-4800-b1b0-80f6fb63f3d1",
+      "6c37b608-cf94-4250-af73-06b0df3b2a8a"
     ],
     "Spotify": [
       "66acb66f-de37-4d95-a353-874db92838ef",
@@ -1776,7 +1779,8 @@
       "1238",
       "1243",
       "1283",
-      "1165"
+      "1165",
+      "1300"
     ],
     "Bank of New York Mellon": [
       "79806",
@@ -1828,7 +1832,7 @@
   "lastSeen": {
     "Monzo": "2026-08-06T13:15:31.008Z",
     "GoCardless": "2026-08-03T14:21:13.672Z",
-    "Barclays": "2026-08-06T13:15:54.009Z",
+    "Barclays": "2026-08-06T15:33:35.476Z",
     "Checkout.com": "2026-08-05T16:17:57.216Z",
     "ClearBank": "2026-08-05T12:07:54.403Z",
     "Wayve": "2026-08-04T14:45:08.516Z",
@@ -1860,8 +1864,8 @@
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
     "Sophos": "2026-08-05T04:26:29.549Z",
-    "Octopus Energy": "2026-08-05T12:08:00.207Z",
-    "Moonpig": "2026-08-05T17:57:45.941Z",
+    "Octopus Energy": "2026-08-06T15:33:30.285Z",
+    "Moonpig": "2026-08-06T15:33:34.027Z",
     "Spotify": "2026-07-31T21:53:24.039Z",
     "Motorola Solutions": "2026-08-04T12:16:24.398Z",
     "Darktrace": "2026-08-04T14:45:35.039Z",
@@ -1896,7 +1900,7 @@
     "AVEVA": "2026-08-04T16:43:38.894Z",
     "Flexera": "2026-07-29T14:36:34.596Z",
     "Goldman Sachs": "2026-08-05T16:18:33.818Z",
-    "Guardian": "2026-08-05T12:08:39.281Z",
+    "Guardian": "2026-08-06T15:34:18.086Z",
     "Bank of New York Mellon": "2026-08-04T01:10:52.602Z",
     "Computershare": "2026-07-31T10:15:03.022Z",
     "Wahed": "2026-08-04T10:05:27.677Z",
@@ -1910,7 +1914,7 @@
   "lastSeenId": {
     "JP Morgan": 210768518,
     "Goldman Sachs": 180562,
-    "Guardian": 1283,
+    "Guardian": 1300,
     "Bank of New York Mellon": 79842,
     "Computershare": 12434,
     "Pearson": 24362
