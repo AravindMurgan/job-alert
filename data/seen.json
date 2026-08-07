@@ -181,7 +181,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Service-Engineer_JR-0000116815",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Service-Engineer_JR-0000116805",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AWS-Developer_JR-0000102936",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Engineering-Lead_JR-0000121019"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Engineering-Lead_JR-0000121019",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Lead-Data-Platform-Engineer_JR-0000099453"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -324,7 +325,8 @@
       "ca40cc26-d934-4caa-bd4a-f497b0890ab0",
       "61ed6dfb-780e-4ec1-86cc-2398ed0671ab",
       "ec22667a-971f-41ba-9cec-9eb45585ed87",
-      "52155ca0-ad5d-4373-b64d-a49eed6af1cd"
+      "52155ca0-ad5d-4373-b64d-a49eed6af1cd",
+      "74fca80f-7ff4-4baa-aaae-e3e42f7ba09d"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -1297,7 +1299,8 @@
       "3986b0ab-73de-4ef8-9567-0f6c96d5c3a6",
       "2785c937-6cbd-45f4-b210-48c6a650b249",
       "59d5880d-2b79-4a60-8499-79c30a9a9b89",
-      "245d45fd-1a63-45dd-a854-85d94e9789fe"
+      "245d45fd-1a63-45dd-a854-85d94e9789fe",
+      "795d49f2-8eff-414f-bf30-2a0fd9996f0e"
     ],
     "Improbable": [
       "17e1d340-8e08-488d-bd68-29b5414abc96",
@@ -1845,8 +1848,8 @@
   "lastSeen": {
     "Monzo": "2026-08-07T13:14:16.856Z",
     "GoCardless": "2026-08-03T14:21:13.672Z",
-    "Barclays": "2026-08-07T09:12:12.915Z",
-    "Checkout.com": "2026-08-07T00:33:05.980Z",
+    "Barclays": "2026-08-07T14:27:00.985Z",
+    "Checkout.com": "2026-08-07T14:26:53.009Z",
     "ClearBank": "2026-08-07T00:33:05.999Z",
     "Wayve": "2026-08-04T14:45:08.516Z",
     "Deliveroo": "2026-08-07T10:11:29.630Z",
@@ -1872,7 +1875,7 @@
     "Allica Bank": "2026-08-06T09:13:43.482Z",
     "Lendable": "2026-08-06T11:34:45.568Z",
     "Kraken": "2026-08-06T11:34:45.600Z",
-    "Elliptic": "2026-08-07T13:14:20.058Z",
+    "Elliptic": "2026-08-07T14:26:54.919Z",
     "Improbable": "2026-07-30T16:54:11.466Z",
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
