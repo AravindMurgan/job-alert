@@ -326,7 +326,8 @@
       "61ed6dfb-780e-4ec1-86cc-2398ed0671ab",
       "ec22667a-971f-41ba-9cec-9eb45585ed87",
       "52155ca0-ad5d-4373-b64d-a49eed6af1cd",
-      "74fca80f-7ff4-4baa-aaae-e3e42f7ba09d"
+      "74fca80f-7ff4-4baa-aaae-e3e42f7ba09d",
+      "fb480665-77af-4f73-a554-3121ace2e4a4"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -589,7 +590,8 @@
       "38092caf-ab64-4885-ac9f-0b5d8549ae1d",
       "3e2b8be5-dfc1-4fe6-bcb8-e05643f6b405",
       "9a6b2a69-ade3-42d4-b70a-5e95d1c9a4d6",
-      "fda9ab67-bef8-4304-910e-62d8a818448a"
+      "fda9ab67-bef8-4304-910e-62d8a818448a",
+      "318c7baf-a4e0-4dfd-a5ca-132fbdce6069"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -746,7 +748,8 @@
       "4931989101",
       "4928993101",
       "4944169101",
-      "4948331101"
+      "4948331101",
+      "4949373101"
     ],
     "Rightmove": [
       "4795023101",
@@ -1554,7 +1557,8 @@
       "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Software-Engineer_JR6157836",
       "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Structural-Integrity-Engineer---E24S_JR6157859",
       "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Manufacturing-Engineer---Maintenance--Repair-and-Overhaul_JR6158049",
-      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Component-Design-Engineer_JR6154375-2"
+      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Component-Design-Engineer_JR6154375-2",
+      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Development-Assembly-Manufacturing-Engineer_JR6154940-2"
     ],
     "TP ICAP": [
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Senior-Software-Engineer--Back-End-_R5242",
@@ -1862,16 +1866,16 @@
     "Monzo": "2026-08-07T13:14:16.856Z",
     "GoCardless": "2026-08-03T14:21:13.672Z",
     "Barclays": "2026-08-07T14:27:00.985Z",
-    "Checkout.com": "2026-08-07T14:26:53.009Z",
+    "Checkout.com": "2026-08-10T09:43:08.478Z",
     "ClearBank": "2026-08-07T00:33:05.999Z",
     "Wayve": "2026-08-04T14:45:08.516Z",
-    "Deliveroo": "2026-08-10T08:00:24.240Z",
+    "Deliveroo": "2026-08-10T09:43:08.687Z",
     "Marshmallow": "2026-08-04T14:45:08.907Z",
     "OakNorth": "2026-07-23T15:25:13.560Z",
     "JP Morgan": "2026-08-05T10:01:32.896Z",
     "Grafana Labs": "2026-08-05T23:13:45.753Z",
     "Intercom": "2026-08-04T10:05:21.563Z",
-    "Prolific": "2026-08-07T07:59:59.480Z",
+    "Prolific": "2026-08-10T09:43:07.839Z",
     "Rightmove": "2026-08-07T16:26:12.209Z",
     "Postman": "2026-07-10T21:45:51.305Z",
     "Dexory": "2026-07-10T21:08:57.097Z",
@@ -1903,7 +1907,7 @@
     "RELX": "2026-08-05T12:08:17.429Z",
     "NVIDIA": "2026-07-10T21:09:22.731Z",
     "Universal Music Group": "2026-07-30T15:18:16.437Z",
-    "Rolls-Royce": "2026-08-04T18:19:08.191Z",
+    "Rolls-Royce": "2026-08-10T09:43:36.380Z",
     "TP ICAP": "2026-07-24T10:50:57.117Z",
     "Ares Management": "2026-07-10T21:09:28.303Z",
     "Depop": "2026-07-23T15:25:44.373Z",
