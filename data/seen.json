@@ -108,7 +108,8 @@
       "8121259",
       "8098716",
       "8121253",
-      "8108738"
+      "8108738",
+      "8127822"
     ],
     "GoCardless": [
       "7795791",
@@ -340,7 +341,8 @@
       "d072370d-13d1-4b9c-9c5d-7a24d30af7ec",
       "15c1193c-635f-40aa-bfd2-959e13431232",
       "2c00736e-d948-4697-86f4-f15aa7fa4dba",
-      "88b8b0d7-d76f-414b-9203-2765ecaf3eb3"
+      "88b8b0d7-d76f-414b-9203-2765ecaf3eb3",
+      "9e47404d-ae39-4080-b054-4b5bdd35cec7"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -617,7 +619,8 @@
       "fa780410-c7f3-4dce-8fed-819436951bc4",
       "25c51e84-817d-48e2-bcfd-c4da309d9d28",
       "a0c072d1-d589-49c4-b375-26a789d7f582",
-      "67cc7e3d-13d2-4a28-86ff-e2989d5c1659"
+      "67cc7e3d-13d2-4a28-86ff-e2989d5c1659",
+      "49901a8e-3585-4649-b9f6-3e5a781d2f6b"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -862,7 +865,9 @@
       "4865766101",
       "4751390101",
       "4949429101",
-      "4949484101"
+      "4949484101",
+      "4952531101",
+      "4952544101"
     ],
     "Fanatics Betting": [
       "4248557009",
@@ -977,7 +982,8 @@
       "46dd16c5-ac6c-4f82-9f2e-c6467078f38a",
       "31e61c03-35b8-4f21-ba3c-d44292ca44c2",
       "1fe5d1b4-427a-47c6-baed-f1e65db06be3",
-      "a1a86682-be98-4dba-bc64-6a9f69b860ec"
+      "a1a86682-be98-4dba-bc64-6a9f69b860ec",
+      "c6c3bad6-05ad-4a6b-90ad-561d29a1b444"
     ],
     "Synthesia": [
       "0560eb00-0e85-47d4-9b66-f9af3033a85e",
@@ -1636,7 +1642,8 @@
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Associate-Software-Engineer--C--NET-_R5294",
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Engineer-C---Full-Stack-_R5595",
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Principal-Software-Engineer---C-_R5616",
-      "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Associate-Software-Engineer--Full-stack-_R5641"
+      "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Associate-Software-Engineer--Full-stack-_R5641",
+      "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/AI-Engineering-Lead_R5422-1"
     ],
     "Ares Management": [
       "https://aresmgmt.wd1.myworkdayjobs.com/External/job/London-UK/Associate-Senior-Associate--Systems-Engineer_R8016",
@@ -1941,13 +1948,13 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-08-13T13:38:27.236Z",
+    "Monzo": "2026-08-13T16:37:14.584Z",
     "GoCardless": "2026-08-03T14:21:13.672Z",
     "Barclays": "2026-08-07T14:27:00.985Z",
-    "Checkout.com": "2026-08-13T13:38:27.879Z",
+    "Checkout.com": "2026-08-13T16:37:15.478Z",
     "ClearBank": "2026-08-12T11:33:12.257Z",
     "Wayve": "2026-08-13T10:16:54.957Z",
-    "Deliveroo": "2026-08-13T14:43:02.913Z",
+    "Deliveroo": "2026-08-13T16:37:15.989Z",
     "Marshmallow": "2026-08-04T14:45:08.907Z",
     "OakNorth": "2026-07-23T15:25:13.560Z",
     "JP Morgan": "2026-08-05T10:01:32.896Z",
@@ -1956,10 +1963,10 @@
     "Prolific": "2026-08-10T09:43:07.839Z",
     "Rightmove": "2026-08-11T17:41:46.142Z",
     "Postman": "2026-07-10T21:45:51.305Z",
-    "Dexory": "2026-08-10T11:37:51.542Z",
+    "Dexory": "2026-08-13T16:37:14.965Z",
     "Fanatics Betting": "2026-08-12T16:07:42.519Z",
     "Algolia": "2026-08-12T08:25:32.060Z",
-    "Trainline": "2026-08-13T08:57:46.956Z",
+    "Trainline": "2026-08-13T16:37:16.327Z",
     "Synthesia": "2026-08-12T15:07:43.505Z",
     "Attio": "2026-08-04T12:16:08.920Z",
     "Paddle": "2026-08-13T14:43:03.785Z",
@@ -1986,7 +1993,7 @@
     "NVIDIA": "2026-07-10T21:09:22.731Z",
     "Universal Music Group": "2026-08-10T19:11:26.471Z",
     "Rolls-Royce": "2026-08-10T09:43:36.380Z",
-    "TP ICAP": "2026-07-24T10:50:57.117Z",
+    "TP ICAP": "2026-08-13T16:37:46.649Z",
     "Ares Management": "2026-07-10T21:09:28.303Z",
     "Depop": "2026-08-10T17:08:55.016Z",
     "Ticketmaster": "2026-07-31T16:27:52.941Z",
