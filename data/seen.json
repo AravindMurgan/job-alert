@@ -1888,7 +1888,8 @@
       "178381",
       "180562",
       "170008",
-      "161025"
+      "161025",
+      "181259"
     ],
     "Guardian": [
       "1152",
@@ -2026,7 +2027,7 @@
     "Pigment": "2026-08-04T16:43:08.452Z",
     "AVEVA": "2026-08-04T16:43:38.894Z",
     "Flexera": "2026-07-29T14:36:34.596Z",
-    "Goldman Sachs": "2026-08-05T16:18:33.818Z",
+    "Goldman Sachs": "2026-08-14T11:22:37.597Z",
     "Guardian": "2026-08-12T16:08:26.166Z",
     "Bank of New York Mellon": "2026-08-13T08:58:33.045Z",
     "Computershare": "2026-07-31T10:15:03.022Z",
@@ -2042,7 +2043,7 @@
   },
   "lastSeenId": {
     "JP Morgan": 210768518,
-    "Goldman Sachs": 180562,
+    "Goldman Sachs": 181259,
     "Guardian": 1308,
     "Bank of New York Mellon": 79842,
     "Computershare": 12434,
