@@ -190,7 +190,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Service-Engineer_JR-0000116805",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AWS-Developer_JR-0000102936",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Engineering-Lead_JR-0000121019",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Lead-Data-Platform-Engineer_JR-0000099453"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Lead-Data-Platform-Engineer_JR-0000099453",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000121692"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -346,7 +347,8 @@
       "9e47404d-ae39-4080-b054-4b5bdd35cec7",
       "a9c7f587-abf2-4675-a721-37cd7e1048fe",
       "907ad921-9284-42de-ab6a-1a27ecf98b61",
-      "105cca3d-9d30-4db7-8e4f-3a546ec8a056"
+      "105cca3d-9d30-4db7-8e4f-3a546ec8a056",
+      "7fcdd08a-659e-404b-954b-2c887ad9ed90"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -369,7 +371,8 @@
       "9c59b540-13af-4b1d-9ea6-0576f9abae5e",
       "8a6dfa95-e8ff-40be-a8d7-3c3e3515bc3c",
       "5653173d-0672-4323-9cbd-2bd5ca516177",
-      "abd0b2bd-1fe0-43b2-b59f-b56c0b04d472"
+      "abd0b2bd-1fe0-43b2-b59f-b56c0b04d472",
+      "30274c26-037e-454c-99f7-66a4483fa2e1"
     ],
     "Wayve": [
       "01b0ff59-b59a-4581-8164-93747a27a417",
@@ -1070,7 +1073,8 @@
       "7980293e-ec67-4f7d-bd13-eb16abc7a679",
       "e8297f02-7942-4772-a04d-3bdb61a1231d",
       "56ff8f29-ad57-4553-821c-bc0a192bee13",
-      "938c6fbe-3167-4264-bca5-3b4ad104adee"
+      "938c6fbe-3167-4264-bca5-3b4ad104adee",
+      "723f3346-c36e-43fa-bd37-703eb42dde66"
     ],
     "Multiverse": [
       "05092cac-c950-4c74-ae40-ea36332b6511",
@@ -1418,7 +1422,8 @@
       "a2f4c184-b51b-4dae-9457-96ba6659d1d1",
       "f022a386-b0a6-47bd-88db-d94f65d190c5",
       "1dbc9b99-332d-46d7-8c72-5adeba5b0573",
-      "7b8ef0b2-ef43-4459-8d43-ae492b163287"
+      "7b8ef0b2-ef43-4459-8d43-ae492b163287",
+      "6452218c-407c-4ba4-a450-e1466b79c546"
     ],
     "Octopus Energy": [
       "221e6a7a-4e02-4dd4-83d7-babe5361f21a",
@@ -1960,14 +1965,17 @@
     ],
     "Coursera": [
       "6143211004"
+    ],
+    "Biogen": [
+      "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Manager--Commercial-Data-Management_REQ22864-1"
     ]
   },
   "lastSeen": {
     "Monzo": "2026-08-14T09:17:49.731Z",
     "GoCardless": "2026-08-03T14:21:13.672Z",
-    "Barclays": "2026-08-07T14:27:00.985Z",
-    "Checkout.com": "2026-08-14T13:37:02.369Z",
-    "ClearBank": "2026-08-12T11:33:12.257Z",
+    "Barclays": "2026-08-14T14:37:30.194Z",
+    "Checkout.com": "2026-08-14T14:37:25.056Z",
+    "ClearBank": "2026-08-14T14:37:25.076Z",
     "Wayve": "2026-08-13T10:16:54.957Z",
     "Deliveroo": "2026-08-14T09:17:51.472Z",
     "Marshmallow": "2026-08-04T14:45:08.907Z",
@@ -1984,7 +1992,7 @@
     "Trainline": "2026-08-14T10:28:56.314Z",
     "Synthesia": "2026-08-12T15:07:43.505Z",
     "Attio": "2026-08-04T12:16:08.920Z",
-    "Paddle": "2026-08-13T14:43:03.785Z",
+    "Paddle": "2026-08-14T14:37:25.332Z",
     "Multiverse": "2026-08-06T13:15:49.048Z",
     "Motorway": "2026-08-11T09:42:17.893Z",
     "monday.com": "2026-07-21T11:30:45.168Z",
@@ -1996,7 +2004,7 @@
     "Improbable": "2026-07-30T16:54:11.466Z",
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
-    "Sophos": "2026-08-11T08:40:09.878Z",
+    "Sophos": "2026-08-14T14:37:27.342Z",
     "Octopus Energy": "2026-08-12T10:43:37.084Z",
     "Moonpig": "2026-08-12T12:28:18.731Z",
     "Spotify": "2026-08-12T02:01:02.267Z",
@@ -2044,7 +2052,8 @@
     "MyEdSpace": "2026-07-30T15:17:52.940Z",
     "Super Payments": "2026-08-04T22:35:08.563Z",
     "Firstup": "2026-08-07T20:53:33.043Z",
-    "Coursera": "2026-08-13T20:23:44.671Z"
+    "Coursera": "2026-08-13T20:23:44.671Z",
+    "Biogen": "2026-08-14T14:37:55.455Z"
   },
   "lastSeenId": {
     "JP Morgan": 210768518,
