@@ -194,7 +194,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AWS-Developer_JR-0000102936",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Engineering-Lead_JR-0000121019",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Lead-Data-Platform-Engineer_JR-0000099453",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000121692"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000121692",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Data-Products-Engineer_JR-0000114809-1"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -1488,7 +1489,8 @@
       "3b5502ca-ab06-4dbb-9570-3ee651286521",
       "de32c9d4-0c82-4140-8ed6-7a73725d3f07",
       "9c001204-ae0d-42be-916d-6e9c34ca4e3f",
-      "f1b65e09-5922-44bb-954a-35ee86324e4d"
+      "f1b65e09-5922-44bb-954a-35ee86324e4d",
+      "ab8edf29-ef1a-41da-a982-cd453ffd8fbd"
     ],
     "Moonpig": [
       "947cbd4a-2183-47d2-a266-824f12f298ac",
@@ -1993,7 +1995,7 @@
   "lastSeen": {
     "Monzo": "2026-08-17T10:27:06.527Z",
     "GoCardless": "2026-08-03T14:21:13.672Z",
-    "Barclays": "2026-08-14T14:37:30.194Z",
+    "Barclays": "2026-08-17T13:28:35.637Z",
     "Checkout.com": "2026-08-14T17:30:05.801Z",
     "ClearBank": "2026-08-14T14:37:25.076Z",
     "Wayve": "2026-08-14T21:05:07.708Z",
@@ -2025,7 +2027,7 @@
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
     "Sophos": "2026-08-14T14:37:27.342Z",
-    "Octopus Energy": "2026-08-14T21:57:40.360Z",
+    "Octopus Energy": "2026-08-17T13:28:34.233Z",
     "Moonpig": "2026-08-12T12:28:18.731Z",
     "Spotify": "2026-08-14T20:06:00.688Z",
     "Motorola Solutions": "2026-08-11T12:12:28.696Z",
