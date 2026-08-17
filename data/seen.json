@@ -111,7 +111,8 @@
       "8108738",
       "8127822",
       "8124470",
-      "8129722"
+      "8129722",
+      "8016243"
     ],
     "GoCardless": [
       "7795791",
@@ -1603,7 +1604,8 @@
       "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Engineering-Manager---Data-Platform_R28869",
       "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Manager--Engineering---Managed-Services--Hybrid-_R26977",
       "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Platform-Professional-Services--Consultant--Remote--GBR-_R29141",
-      "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Engineer-II--Site-Reliability--Remote--GBR-_R29729"
+      "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Engineer-II--Site-Reliability--Remote--GBR-_R29729",
+      "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Sr-Engineer--Remote--GBR-_R29737"
     ],
     "Beazley": [
       "https://bbinsurance.wd1.myworkdayjobs.com/Careers_Europe/job/Borehamwood-England-United-Kingdom/Software-Engineer_R26_0000001961-1",
@@ -1986,7 +1988,7 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-08-14T15:29:59.873Z",
+    "Monzo": "2026-08-17T09:52:57.325Z",
     "GoCardless": "2026-08-03T14:21:13.672Z",
     "Barclays": "2026-08-14T14:37:30.194Z",
     "Checkout.com": "2026-08-14T17:30:05.801Z",
@@ -2025,7 +2027,7 @@
     "Spotify": "2026-08-14T20:06:00.688Z",
     "Motorola Solutions": "2026-08-11T12:12:28.696Z",
     "Darktrace": "2026-08-04T14:45:35.039Z",
-    "CrowdStrike": "2026-08-14T17:30:54.011Z",
+    "CrowdStrike": "2026-08-17T09:53:16.538Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
     "RELX": "2026-08-10T14:01:28.933Z",
     "NVIDIA": "2026-07-10T21:09:22.731Z",
