@@ -2007,6 +2007,9 @@
     ],
     "Biogen": [
       "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Manager--Commercial-Data-Management_REQ22864-1"
+    ],
+    "Northumbria University": [
+      "4195"
     ]
   },
   "lastSeen": {
@@ -2092,7 +2095,8 @@
     "Super Payments": "2026-08-04T22:35:08.563Z",
     "Firstup": "2026-08-07T20:53:33.043Z",
     "Coursera": "2026-08-13T20:23:44.671Z",
-    "Biogen": "2026-08-14T14:37:55.455Z"
+    "Biogen": "2026-08-14T14:37:55.455Z",
+    "Northumbria University": "2026-08-18T08:33:45.529Z"
   },
   "lastSeenId": {
     "JP Morgan": 210768518,
@@ -2100,6 +2104,7 @@
     "Guardian": 1308,
     "Bank of New York Mellon": 79842,
     "Computershare": 12434,
-    "Pearson": 24362
+    "Pearson": 24362,
+    "Northumbria University": 4195
   }
 }
