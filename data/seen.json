@@ -115,7 +115,8 @@
       "8016243",
       "8132026",
       "8132044",
-      "8121572"
+      "8121572",
+      "8141335"
     ],
     "GoCardless": [
       "7795791",
@@ -1994,7 +1995,8 @@
       "74743",
       "74736",
       "74718",
-      "74737"
+      "74737",
+      "81130"
     ],
     "Computershare": [
       "12070",
@@ -2051,7 +2053,7 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-08-19T13:04:12.554Z",
+    "Monzo": "2026-08-19T13:53:53.757Z",
     "GoCardless": "2026-08-03T14:21:13.672Z",
     "Barclays": "2026-08-17T15:34:54.647Z",
     "Checkout.com": "2026-08-17T22:35:15.912Z",
@@ -2122,7 +2124,7 @@
     "Flexera": "2026-07-29T14:36:34.596Z",
     "Goldman Sachs": "2026-08-19T11:11:51.140Z",
     "Guardian": "2026-08-12T16:08:26.166Z",
-    "Bank of New York Mellon": "2026-08-13T08:58:33.045Z",
+    "Bank of New York Mellon": "2026-08-19T13:55:03.669Z",
     "Computershare": "2026-08-19T11:42:24.537Z",
     "Wahed": "2026-08-04T10:05:27.677Z",
     "Stacks": "2026-07-27T10:57:53.605Z",
@@ -2141,7 +2143,7 @@
     "JP Morgan": 210768518,
     "Goldman Sachs": 182120,
     "Guardian": 1308,
-    "Bank of New York Mellon": 79842,
+    "Bank of New York Mellon": 81130,
     "Computershare": 12523,
     "Pearson": 24362,
     "Northumbria University": 4195
