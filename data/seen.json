@@ -1077,7 +1077,10 @@
       "98e8228d-661f-4795-8c6b-a4caedb03c2c",
       "0dc1c85e-6240-4fe7-8e59-106fb876c34c",
       "86caf0e3-5a14-41f8-988c-b62c359a292a",
-      "df8fe2cf-b2f7-47b8-a4ab-656e86fbfb90"
+      "df8fe2cf-b2f7-47b8-a4ab-656e86fbfb90",
+      "1e6c62e8-d50e-49ab-a7b2-4e54b2e7bcbb",
+      "88050a69-b889-43e2-875b-fe8bfcdb8763",
+      "7e30ecb6-db60-45b0-8132-d48169f7b964"
     ],
     "Paddle": [
       "f0a9f480-26c1-489c-bb26-310ca8c7dabb",
@@ -2000,7 +2003,8 @@
       "12325",
       "12326",
       "12434",
-      "12321"
+      "12321",
+      "12523"
     ],
     "Wahed": [
       "da38c999-f647-495b-b019-31939bdfe1bd",
@@ -2065,7 +2069,7 @@
     "Algolia": "2026-08-18T15:43:22.456Z",
     "Trainline": "2026-08-14T10:28:56.314Z",
     "Synthesia": "2026-08-12T15:07:43.505Z",
-    "Attio": "2026-08-19T11:11:04.412Z",
+    "Attio": "2026-08-19T11:41:38.286Z",
     "Paddle": "2026-08-14T14:37:25.332Z",
     "Multiverse": "2026-08-14T16:26:56.653Z",
     "Motorway": "2026-08-18T11:12:43.222Z",
@@ -2117,7 +2121,7 @@
     "Goldman Sachs": "2026-08-19T11:11:51.140Z",
     "Guardian": "2026-08-12T16:08:26.166Z",
     "Bank of New York Mellon": "2026-08-13T08:58:33.045Z",
-    "Computershare": "2026-07-31T10:15:03.022Z",
+    "Computershare": "2026-08-19T11:42:24.537Z",
     "Wahed": "2026-08-04T10:05:27.677Z",
     "Stacks": "2026-07-27T10:57:53.605Z",
     "TUI Group": "2026-07-27T13:43:12.226Z",
@@ -2136,7 +2140,7 @@
     "Goldman Sachs": 182120,
     "Guardian": 1308,
     "Bank of New York Mellon": 79842,
-    "Computershare": 12434,
+    "Computershare": 12523,
     "Pearson": 24362,
     "Northumbria University": 4195
   }
