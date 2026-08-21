@@ -119,7 +119,8 @@
       "8141335",
       "8143610",
       "8143641",
-      "8133342"
+      "8133342",
+      "8146871"
     ],
     "GoCardless": [
       "7795791",
@@ -203,7 +204,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Lead-Data-Platform-Engineer_JR-0000099453",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000121692",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Data-Products-Engineer_JR-0000114809-1",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Principal-Engineer---Wealth-Management_JR-0000103214"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Principal-Engineer---Wealth-Management_JR-0000103214",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Principal-Engineer---Wealth-Management_JR-0000102873"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -668,7 +670,8 @@
       "88f94481-67d3-4e2a-bfa9-cb5eaf833e33",
       "8cb301cc-2939-4c18-9427-a69913d8d6d3",
       "05492d53-cb22-477b-b2cb-4294985d2718",
-      "79f30888-c201-44d2-b98e-3641a9b7733d"
+      "79f30888-c201-44d2-b98e-3641a9b7733d",
+      "c70a6a8e-3c16-4480-85d4-a3aeee0892c8"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -1864,7 +1867,8 @@
       "beceedbe-c855-4f0f-a03e-981f064035e2",
       "585c5d50-83ce-4e94-bb8d-11346bfa7860",
       "4584873d-9645-4241-84bc-36cc4c504e7e",
-      "3b45f162-a83a-40b3-9342-fb3d13db3b63"
+      "3b45f162-a83a-40b3-9342-fb3d13db3b63",
+      "44c1cef9-2001-4894-a5f8-7cd8f28879af"
     ],
     "Omnea": [
       "1adfb275-0882-4b2e-9044-2b735a5d2e2d",
@@ -2093,13 +2097,13 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-08-20T14:43:36.327Z",
+    "Monzo": "2026-08-21T13:05:55.395Z",
     "GoCardless": "2026-08-20T09:28:28.796Z",
-    "Barclays": "2026-08-17T15:34:54.647Z",
+    "Barclays": "2026-08-21T13:06:01.222Z",
     "Checkout.com": "2026-08-20T20:38:29.803Z",
     "ClearBank": "2026-08-19T18:02:41.369Z",
     "Wayve": "2026-08-20T20:38:30.646Z",
-    "Deliveroo": "2026-08-21T11:07:21.060Z",
+    "Deliveroo": "2026-08-21T13:05:56.542Z",
     "Marshmallow": "2026-08-04T14:45:08.907Z",
     "OakNorth": "2026-07-23T15:25:13.560Z",
     "JP Morgan": "2026-08-05T10:01:32.896Z",
@@ -2149,7 +2153,7 @@
     "Modo Energy": "2026-08-17T23:51:07.009Z",
     "Eucalyptus": "2026-08-20T13:07:29.164Z",
     "Nearform": "2026-07-10T21:45:52.245Z",
-    "Gearset": "2026-08-13T14:43:06.487Z",
+    "Gearset": "2026-08-21T13:05:57.519Z",
     "Omnea": "2026-08-13T10:16:56.048Z",
     "CircuitHub": "2026-07-24T12:11:29.374Z",
     "Causaly": "2026-07-29T10:07:04.348Z",
