@@ -125,7 +125,8 @@
       "8143930",
       "8152756",
       "8156058",
-      "8156063"
+      "8156063",
+      "8158933"
     ],
     "GoCardless": [
       "7795791",
@@ -212,7 +213,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Principal-Engineer---Wealth-Management_JR-0000103214",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Principal-Engineer---Wealth-Management_JR-0000102873",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000120394-1",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000096427-1"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000096427-1",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000122793-1"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -880,7 +882,8 @@
       "4948331101",
       "4949373101",
       "4952774101",
-      "4955761101"
+      "4955761101",
+      "4961391101"
     ],
     "Rightmove": [
       "4795023101",
@@ -1809,7 +1812,8 @@
       "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Structural-Integrity-Engineer---E24S_JR6157859",
       "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Manufacturing-Engineer---Maintenance--Repair-and-Overhaul_JR6158049",
       "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Component-Design-Engineer_JR6154375-2",
-      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Development-Assembly-Manufacturing-Engineer_JR6154940-2"
+      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Development-Assembly-Manufacturing-Engineer_JR6154940-2",
+      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Process-Safety-Engineer_JR6154921-1"
     ],
     "TP ICAP": [
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Senior-Software-Engineer--Back-End-_R5242",
@@ -2186,9 +2190,9 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-08-25T14:01:30.801Z",
+    "Monzo": "2026-08-26T14:59:26.936Z",
     "GoCardless": "2026-08-20T09:28:28.796Z",
-    "Barclays": "2026-08-24T10:45:50.207Z",
+    "Barclays": "2026-08-26T14:59:38.396Z",
     "Checkout.com": "2026-08-26T09:52:12.292Z",
     "ClearBank": "2026-08-19T18:02:41.369Z",
     "Wayve": "2026-08-26T14:05:31.002Z",
@@ -2198,7 +2202,7 @@
     "JP Morgan": "2026-08-05T10:01:32.896Z",
     "Grafana Labs": "2026-08-25T14:57:44.521Z",
     "Intercom": "2026-08-26T09:52:11.701Z",
-    "Prolific": "2026-08-19T08:59:56.761Z",
+    "Prolific": "2026-08-26T14:59:28.217Z",
     "Rightmove": "2026-08-26T13:12:16.572Z",
     "Postman": "2026-08-18T05:06:37.007Z",
     "Dexory": "2026-08-21T10:42:27.176Z",
@@ -2230,7 +2234,7 @@
     "RELX": "2026-08-18T16:11:25.443Z",
     "NVIDIA": "2026-07-10T21:09:22.731Z",
     "Universal Music Group": "2026-08-10T19:11:26.471Z",
-    "Rolls-Royce": "2026-08-10T09:43:36.380Z",
+    "Rolls-Royce": "2026-08-26T15:00:01.200Z",
     "TP ICAP": "2026-08-13T16:37:46.649Z",
     "Ares Management": "2026-07-10T21:09:28.303Z",
     "Depop": "2026-08-19T16:47:37.940Z",
