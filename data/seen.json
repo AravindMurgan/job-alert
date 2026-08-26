@@ -467,7 +467,9 @@
       "416f25d2-3c7e-4e46-94d1-3eb377ea93f8",
       "18b964e9-7fe6-4a57-8782-22bee7204a50",
       "b5b994fc-4161-4439-85fa-1517456b29db",
-      "4161fc82-d465-4dee-9f0c-bdd54a743a49"
+      "4161fc82-d465-4dee-9f0c-bdd54a743a49",
+      "4289fd4a-d019-46e1-8b0a-09b5667baf62",
+      "85446093-07bf-4eec-8c39-ffe4c1f37721"
     ],
     "Deliveroo": [
       "010a8eb8-5087-41b7-971d-c2813612210f",
@@ -938,7 +940,8 @@
       "4956267101",
       "4959679101",
       "4947578101",
-      "4947878101"
+      "4947878101",
+      "4947997101"
     ],
     "Postman": [
       "7491395003",
@@ -1715,7 +1718,8 @@
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineer_R66979",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Software-Engineering-Manager_R66922",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Mid-Level-Software-Engineer_R66331",
-      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineering-Manager_R67575"
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineering-Manager_R67575",
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/C--Software--Engineer_R67750"
     ],
     "Darktrace": [
       "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Software-Engineer--Python-_JR100986",
@@ -2186,7 +2190,7 @@
     "Barclays": "2026-08-24T10:45:50.207Z",
     "Checkout.com": "2026-08-26T09:52:12.292Z",
     "ClearBank": "2026-08-19T18:02:41.369Z",
-    "Wayve": "2026-08-26T09:00:34.821Z",
+    "Wayve": "2026-08-26T13:12:17.471Z",
     "Deliveroo": "2026-08-26T06:21:54.176Z",
     "Marshmallow": "2026-08-04T14:45:08.907Z",
     "OakNorth": "2026-07-23T15:25:13.560Z",
@@ -2194,7 +2198,7 @@
     "Grafana Labs": "2026-08-25T14:57:44.521Z",
     "Intercom": "2026-08-26T09:52:11.701Z",
     "Prolific": "2026-08-19T08:59:56.761Z",
-    "Rightmove": "2026-08-26T09:52:11.750Z",
+    "Rightmove": "2026-08-26T13:12:16.572Z",
     "Postman": "2026-08-18T05:06:37.007Z",
     "Dexory": "2026-08-21T10:42:27.176Z",
     "Fanatics Betting": "2026-08-12T16:07:42.519Z",
@@ -2218,7 +2222,7 @@
     "Octopus Energy": "2026-08-24T15:02:09.930Z",
     "Moonpig": "2026-08-25T17:42:24.943Z",
     "Spotify": "2026-08-26T02:49:05.984Z",
-    "Motorola Solutions": "2026-08-11T12:12:28.696Z",
+    "Motorola Solutions": "2026-08-26T13:12:34.616Z",
     "Darktrace": "2026-08-21T15:14:24.126Z",
     "CrowdStrike": "2026-08-25T20:02:35.867Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
