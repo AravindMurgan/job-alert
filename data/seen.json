@@ -216,7 +216,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Principal-Engineer---Wealth-Management_JR-0000102873",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000120394-1",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000096427-1",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000122793-1"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000122793-1",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Software-Engineer_JR-0000098060-1"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -386,7 +387,8 @@
       "5a40e1e3-c6b7-4494-a7f9-d689d77795d8",
       "3b221ecf-3764-4b85-82d0-09bb4792179a",
       "cc0a084c-2d4a-4577-8309-dda3d8ec18b8",
-      "b8fd9bcf-c58c-47fe-8399-c8bf7edd79d5"
+      "b8fd9bcf-c58c-47fe-8399-c8bf7edd79d5",
+      "28f47f7b-328f-464e-bee2-030ad6e76f2c"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -1277,7 +1279,9 @@
       "2d3e8888-1ce5-481d-b926-9ee329daf3ec",
       "6f7c89f5-4d90-4ea4-9908-6e86630c66bd",
       "0244cefb-8d53-4de5-bf66-f9aff518128b",
-      "71e13c75-adbf-470b-ac1a-e703389c9394"
+      "71e13c75-adbf-470b-ac1a-e703389c9394",
+      "b0ffef80-8ba9-4b7d-87cb-f9008b8e397d",
+      "76b45b13-0a12-4f19-b839-7bfc5d634961"
     ],
     "monday.com": [
       "b048d08d-8ae8-4c1b-9a73-3309fb29b3cc",
@@ -1743,7 +1747,8 @@
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Mid-Level-Software-Engineer_R66331",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineering-Manager_R67575",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/C--Software--Engineer_R67750",
-      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/Senior-Software-Engineer_R61201"
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/Senior-Software-Engineer_R61201",
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/Software-Engineering-Manager_R67838"
     ],
     "Darktrace": [
       "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Software-Engineer--Python-_JR100986",
@@ -2178,7 +2183,8 @@
     "Stacks": [
       "8dee80db-8a0e-4f86-b767-c0e443da27d8",
       "1cf8cddf-2f11-49f0-b7fb-3a6160862215",
-      "7ef05126-9c6f-4a6f-8fa0-6055860850c7"
+      "7ef05126-9c6f-4a6f-8fa0-6055860850c7",
+      "ffcebbec-84c4-4342-94bc-a8245aa35fa4"
     ],
     "TUI Group": [
       "https://travelhrportal.wd1.myworkdayjobs.com/Jobs/job/Manchester-United-Kingdom/Solutions-Engineer_J-83663"
@@ -2222,8 +2228,8 @@
   "lastSeen": {
     "Monzo": "2026-08-26T14:59:26.936Z",
     "GoCardless": "2026-08-27T16:24:30.035Z",
-    "Barclays": "2026-08-26T14:59:38.396Z",
-    "Checkout.com": "2026-08-27T16:24:31.081Z",
+    "Barclays": "2026-08-28T12:42:48.877Z",
+    "Checkout.com": "2026-08-28T12:42:32.533Z",
     "ClearBank": "2026-08-19T18:02:41.369Z",
     "Wayve": "2026-08-28T01:03:03.189Z",
     "Deliveroo": "2026-08-27T16:24:31.475Z",
@@ -2243,7 +2249,7 @@
     "Attio": "2026-08-27T16:24:31.830Z",
     "Paddle": "2026-08-24T15:01:57.696Z",
     "Multiverse": "2026-08-19T16:10:53.843Z",
-    "Motorway": "2026-08-26T11:03:52.011Z",
+    "Motorway": "2026-08-28T12:42:33.842Z",
     "monday.com": "2026-08-20T13:07:30.633Z",
     "Accurx": "2026-08-17T11:33:24.841Z",
     "Allica Bank": "2026-08-24T09:58:30.926Z",
@@ -2257,7 +2263,7 @@
     "Octopus Energy": "2026-08-27T16:24:45.042Z",
     "Moonpig": "2026-08-27T16:24:45.129Z",
     "Spotify": "2026-08-26T02:49:05.984Z",
-    "Motorola Solutions": "2026-08-28T01:03:30.031Z",
+    "Motorola Solutions": "2026-08-28T12:42:59.315Z",
     "Darktrace": "2026-08-21T15:14:24.126Z",
     "CrowdStrike": "2026-08-25T20:02:35.867Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
@@ -2294,7 +2300,7 @@
     "Bank of New York Mellon": "2026-08-20T12:03:56.094Z",
     "Computershare": "2026-08-26T09:52:51.094Z",
     "Wahed": "2026-08-04T10:05:27.677Z",
-    "Stacks": "2026-08-27T16:24:33.264Z",
+    "Stacks": "2026-08-28T12:42:35.624Z",
     "TUI Group": "2026-07-27T13:43:12.226Z",
     "Runa": "2026-07-27T16:04:04.346Z",
     "Electric Twin": "2026-07-30T12:57:43.196Z",
