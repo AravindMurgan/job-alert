@@ -126,7 +126,8 @@
       "8152756",
       "8156058",
       "8156063",
-      "8158933"
+      "8158933",
+      "8163979"
     ],
     "GoCardless": [
       "7795791",
@@ -217,7 +218,8 @@
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000120394-1",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000096427-1",
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000122793-1",
-      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Software-Engineer_JR-0000098060-1"
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Software-Engineer_JR-0000098060-1",
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Full-Stack-Developer_JR-0000117485"
     ],
     "Checkout.com": [
       "012b5fbe-b230-4ee4-84b1-72b35daa92e9",
@@ -956,7 +958,10 @@
       "4959679101",
       "4947578101",
       "4947878101",
-      "4947997101"
+      "4947997101",
+      "4956699101",
+      "4960565101",
+      "4737059101"
     ],
     "Postman": [
       "7491395003",
@@ -1470,7 +1475,10 @@
       "00c74291-9bd3-4e6e-97b5-81a2217d045f",
       "bd20e1a3-bc89-41f4-a0ad-faa2496b707f",
       "d3cb6074-f380-43d5-93f3-cc1b7a9b8674",
-      "45bc4709-524c-4eaf-aeb4-c844fde6d446"
+      "45bc4709-524c-4eaf-aeb4-c844fde6d446",
+      "a2214edc-39e3-4c70-8a09-875bb991062f",
+      "e001dc0b-6e0f-46a7-95ba-38a3733db2f4",
+      "a0ed2d2c-1c24-4d53-8ab4-af7e7ac06e20"
     ],
     "Kraken": [
       "2bb8285f-d45a-441b-8628-983a101006ce",
@@ -1651,7 +1659,9 @@
       "4bbe4275-21b6-429e-ae30-6c87cace95c9",
       "907d9945-be59-42f6-9876-b87b9a64dfec",
       "dcc88593-4354-4835-bf2c-73cfdeeb991d",
-      "58d1f78b-1dd0-4821-bb5b-b41b6791549f"
+      "58d1f78b-1dd0-4821-bb5b-b41b6791549f",
+      "19b2e57e-0901-497b-bac0-e6b340aea440",
+      "7ab5ffb5-635f-4c6c-9dd9-cae829dc2196"
     ],
     "Moonpig": [
       "947cbd4a-2183-47d2-a266-824f12f298ac",
@@ -1726,7 +1736,8 @@
       "c3f6ea23-97d0-4a9a-a9ad-04f1e745d916",
       "204f6cd7-98a3-4360-87e3-8876adf087da",
       "a4b0ebfd-86e2-4fe4-8c3e-3773220224d0",
-      "9d90d15c-541b-4360-bdaf-c6a5e9479e8a"
+      "9d90d15c-541b-4360-bdaf-c6a5e9479e8a",
+      "34e3828f-db98-486f-a077-cd67ece45be0"
     ],
     "Motorola Solutions": [
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Software-Engineer_R62587",
@@ -2001,7 +2012,8 @@
       "55478d98-7a69-4386-a57b-ecf6d88087c0",
       "ef8ef388-4473-41b1-bfc5-60be8e42e817",
       "c8116dae-c206-4cc3-9355-1f9a18ad6d40",
-      "3ee3d842-e07c-4d6b-b379-b9df7586c94f"
+      "3ee3d842-e07c-4d6b-b379-b9df7586c94f",
+      "cad3c348-68c6-47e9-bd23-14d9d16858f4"
     ],
     "CircuitHub": [
       "394313d1-fb6d-44bc-a948-ccd9c9bec2db",
@@ -2213,7 +2225,8 @@
       "6143211004"
     ],
     "Biogen": [
-      "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Manager--Commercial-Data-Management_REQ22864-1"
+      "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Manager--Commercial-Data-Management_REQ22864-1",
+      "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Senior-Engineer-II--Device-Development_REQ24008"
     ],
     "Northumbria University": [
       "4195"
@@ -2226,9 +2239,9 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-08-26T14:59:26.936Z",
+    "Monzo": "2026-08-28T22:42:36.811Z",
     "GoCardless": "2026-08-27T16:24:30.035Z",
-    "Barclays": "2026-08-28T12:42:48.877Z",
+    "Barclays": "2026-08-28T22:42:44.412Z",
     "Checkout.com": "2026-08-28T12:42:32.533Z",
     "ClearBank": "2026-08-19T18:02:41.369Z",
     "Wayve": "2026-08-28T01:03:03.189Z",
@@ -2239,7 +2252,7 @@
     "Grafana Labs": "2026-08-25T14:57:44.521Z",
     "Intercom": "2026-08-26T09:52:11.701Z",
     "Prolific": "2026-08-26T14:59:28.217Z",
-    "Rightmove": "2026-08-26T13:12:16.572Z",
+    "Rightmove": "2026-08-28T22:42:37.132Z",
     "Postman": "2026-08-18T05:06:37.007Z",
     "Dexory": "2026-08-21T10:42:27.176Z",
     "Fanatics Betting": "2026-08-26T18:15:16.900Z",
@@ -2253,16 +2266,16 @@
     "monday.com": "2026-08-20T13:07:30.633Z",
     "Accurx": "2026-08-17T11:33:24.841Z",
     "Allica Bank": "2026-08-24T09:58:30.926Z",
-    "Lendable": "2026-08-21T15:14:06.577Z",
+    "Lendable": "2026-08-28T22:42:38.901Z",
     "Kraken": "2026-08-26T16:24:35.595Z",
     "Elliptic": "2026-08-27T16:24:32.493Z",
     "Improbable": "2026-07-30T16:54:11.466Z",
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
     "Sophos": "2026-08-19T19:15:11.986Z",
-    "Octopus Energy": "2026-08-27T16:24:45.042Z",
+    "Octopus Energy": "2026-08-28T22:42:40.867Z",
     "Moonpig": "2026-08-27T16:24:45.129Z",
-    "Spotify": "2026-08-26T02:49:05.984Z",
+    "Spotify": "2026-08-28T22:42:43.131Z",
     "Motorola Solutions": "2026-08-28T12:42:59.315Z",
     "Darktrace": "2026-08-21T15:14:24.126Z",
     "CrowdStrike": "2026-08-25T20:02:35.867Z",
@@ -2283,7 +2296,7 @@
     "Eucalyptus": "2026-08-26T09:52:11.993Z",
     "Nearform": "2026-07-10T21:45:52.245Z",
     "Gearset": "2026-08-21T13:05:57.519Z",
-    "Omnea": "2026-08-28T01:03:05.356Z",
+    "Omnea": "2026-08-28T22:42:39.511Z",
     "CircuitHub": "2026-07-24T12:11:29.374Z",
     "Causaly": "2026-07-29T10:07:04.348Z",
     "Magentic": "2026-07-29T17:36:57.636Z",
@@ -2308,7 +2321,7 @@
     "Super Payments": "2026-08-04T22:35:08.563Z",
     "Firstup": "2026-08-24T18:15:09.624Z",
     "Coursera": "2026-08-13T20:23:44.671Z",
-    "Biogen": "2026-08-14T14:37:55.455Z",
+    "Biogen": "2026-08-28T22:43:11.369Z",
     "Northumbria University": "2026-08-18T08:33:45.529Z",
     "Lunar Energy": "2026-08-18T22:53:53.372Z",
     "Pearson": "2026-08-28T01:04:06.354Z"
