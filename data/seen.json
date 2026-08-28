@@ -477,7 +477,8 @@
       "85446093-07bf-4eec-8c39-ffe4c1f37721",
       "47a46245-8a13-4f94-aec3-f708c0178a65",
       "c682d019-1502-48aa-802a-976f741a965f",
-      "7b9d9537-f53d-4ab3-801a-9697bd3998dc"
+      "7b9d9537-f53d-4ab3-801a-9697bd3998dc",
+      "6148dcf2-41fb-4cc5-bf6d-248f1f89cfd4"
     ],
     "Deliveroo": [
       "010a8eb8-5087-41b7-971d-c2813612210f",
@@ -1741,7 +1742,8 @@
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Software-Engineering-Manager_R66922",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Mid-Level-Software-Engineer_R66331",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineering-Manager_R67575",
-      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/C--Software--Engineer_R67750"
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/C--Software--Engineer_R67750",
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/Senior-Software-Engineer_R61201"
     ],
     "Darktrace": [
       "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Software-Engineer--Python-_JR100986",
@@ -1993,7 +1995,8 @@
       "317a6a7d-ba31-45b2-894a-e333b94e0df0",
       "55478d98-7a69-4386-a57b-ecf6d88087c0",
       "ef8ef388-4473-41b1-bfc5-60be8e42e817",
-      "c8116dae-c206-4cc3-9355-1f9a18ad6d40"
+      "c8116dae-c206-4cc3-9355-1f9a18ad6d40",
+      "3ee3d842-e07c-4d6b-b379-b9df7586c94f"
     ],
     "CircuitHub": [
       "394313d1-fb6d-44bc-a948-ccd9c9bec2db",
@@ -2211,6 +2214,9 @@
     ],
     "Lunar Energy": [
       "6146606004"
+    ],
+    "Pearson": [
+      "25078"
     ]
   },
   "lastSeen": {
@@ -2219,7 +2225,7 @@
     "Barclays": "2026-08-26T14:59:38.396Z",
     "Checkout.com": "2026-08-27T16:24:31.081Z",
     "ClearBank": "2026-08-19T18:02:41.369Z",
-    "Wayve": "2026-08-26T23:36:11.415Z",
+    "Wayve": "2026-08-28T01:03:03.189Z",
     "Deliveroo": "2026-08-27T16:24:31.475Z",
     "Marshmallow": "2026-08-04T14:45:08.907Z",
     "OakNorth": "2026-07-23T15:25:13.560Z",
@@ -2251,7 +2257,7 @@
     "Octopus Energy": "2026-08-27T16:24:45.042Z",
     "Moonpig": "2026-08-27T16:24:45.129Z",
     "Spotify": "2026-08-26T02:49:05.984Z",
-    "Motorola Solutions": "2026-08-26T13:12:34.616Z",
+    "Motorola Solutions": "2026-08-28T01:03:30.031Z",
     "Darktrace": "2026-08-21T15:14:24.126Z",
     "CrowdStrike": "2026-08-25T20:02:35.867Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
@@ -2271,7 +2277,7 @@
     "Eucalyptus": "2026-08-26T09:52:11.993Z",
     "Nearform": "2026-07-10T21:45:52.245Z",
     "Gearset": "2026-08-21T13:05:57.519Z",
-    "Omnea": "2026-08-27T16:24:32.883Z",
+    "Omnea": "2026-08-28T01:03:05.356Z",
     "CircuitHub": "2026-07-24T12:11:29.374Z",
     "Causaly": "2026-07-29T10:07:04.348Z",
     "Magentic": "2026-07-29T17:36:57.636Z",
@@ -2298,7 +2304,8 @@
     "Coursera": "2026-08-13T20:23:44.671Z",
     "Biogen": "2026-08-14T14:37:55.455Z",
     "Northumbria University": "2026-08-18T08:33:45.529Z",
-    "Lunar Energy": "2026-08-18T22:53:53.372Z"
+    "Lunar Energy": "2026-08-18T22:53:53.372Z",
+    "Pearson": "2026-08-28T01:04:06.354Z"
   },
   "lastSeenId": {
     "JP Morgan": 210768518,
@@ -2306,7 +2313,7 @@
     "Guardian": 1308,
     "Bank of New York Mellon": 81144,
     "Computershare": 12758,
-    "Pearson": 24362,
+    "Pearson": 25078,
     "Northumbria University": 4195
   }
 }
