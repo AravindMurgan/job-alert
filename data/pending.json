@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "company": "Magentic",
+    "title": "Senior Frontend Engineer",
+    "url": "https://jobs.ashbyhq.com/magentic/31cdb166-52cd-4313-8d1f-8cc8052a8878",
+    "location": "London",
+    "foundAt": "2026-09-02T16:11:51.257+00:00"
+  },
+  {
+    "company": "Motorola Solutions",
+    "title": "Software Engineer, Frontend (TypeScript)",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/London-UK/Software-Engineer--Frontend_R65422",
+    "location": "London, UK",
+    "foundAt": "2026-08-03T17:21:48.717Z"
+  },
+  {
+    "company": "Goldman Sachs",
+    "title": "The Core Engineering - Software Engineer - Vice President - London",
+    "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/174453",
+    "location": "London, Greater London, England, United Kingdom",
+    "foundAt": "2026-09-02T00:00:00.000Z"
+  }
+]

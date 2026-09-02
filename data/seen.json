@@ -127,7 +127,8 @@
       "8156058",
       "8156063",
       "8158933",
-      "8163979"
+      "8163979",
+      "8170780"
     ],
     "GoCardless": [
       "7795791",
@@ -1200,7 +1201,8 @@
       "1e6c62e8-d50e-49ab-a7b2-4e54b2e7bcbb",
       "88050a69-b889-43e2-875b-fe8bfcdb8763",
       "7e30ecb6-db60-45b0-8132-d48169f7b964",
-      "792c4476-49aa-46eb-a77a-01e821531806"
+      "792c4476-49aa-46eb-a77a-01e821531806",
+      "d1f3257c-7bcc-4281-99da-3e21f86b0502"
     ],
     "Paddle": [
       "f0a9f480-26c1-489c-bb26-310ca8c7dabb",
@@ -1763,7 +1765,8 @@
       "a4b0ebfd-86e2-4fe4-8c3e-3773220224d0",
       "9d90d15c-541b-4360-bdaf-c6a5e9479e8a",
       "34e3828f-db98-486f-a077-cd67ece45be0",
-      "9d0ac2f3-1bef-4e8d-a3cb-a3c855d2b2bd"
+      "9d0ac2f3-1bef-4e8d-a3cb-a3c855d2b2bd",
+      "7f0a8faa-f4f5-4db9-9f51-4101d6a29b34"
     ],
     "Motorola Solutions": [
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Software-Engineer_R62587",
@@ -1786,7 +1789,8 @@
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/C--Software--Engineer_R67750",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/Senior-Software-Engineer_R61201",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/Software-Engineering-Manager_R67838",
-      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R68006"
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R68006",
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/London-UK/Software-Engineer--Frontend_R65422"
     ],
     "Darktrace": [
       "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Software-Engineer--Python-_JR100986",
@@ -1927,7 +1931,8 @@
       "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Remote---United-Kingdom/Lead-Site-Reliability-Developer---CSRE-Consulting_JR-89934-4",
       "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Remote---United-Kingdom/Principal-Engineer--CSRE--Remote--United-Kingdom-_JR-91815",
       "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/London-United-Kingdom/Senior-Product-Designer--Marketplace-Global-App_JR-89440",
-      "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Remote---United-Kingdom/Lead-AI-Experience-Engineer--Remote--United-Kingdom-_JR-92429"
+      "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Remote---United-Kingdom/Lead-AI-Experience-Engineer--Remote--United-Kingdom-_JR-92429",
+      "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Remote---United-Kingdom/Principal-Engineer--Foundational-Services--Remote--United-Kingdom-_JR-92150"
     ],
     "Trimble": [
       "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Remote/Software-Engineer_R56506",
@@ -2065,7 +2070,8 @@
     "Magentic": [
       "5b8ba7a9-4354-495d-913d-45cce01691ac",
       "5cc0c959-6ef5-4759-b9d2-395757b4d9e1",
-      "2f40339d-16f8-4733-8b77-2e45005af5e9"
+      "2f40339d-16f8-4733-8b77-2e45005af5e9",
+      "31cdb166-52cd-4313-8d1f-8cc8052a8878"
     ],
     "Cohere": [
       "4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e",
@@ -2182,7 +2188,8 @@
       "181256",
       "182120",
       "182982",
-      "180698"
+      "180698",
+      "174453"
     ],
     "Guardian": [
       "1152",
@@ -2275,7 +2282,7 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-08-28T22:42:36.811Z",
+    "Monzo": "2026-09-02T17:21:29.268Z",
     "GoCardless": "2026-09-02T09:07:33.566Z",
     "Barclays": "2026-09-01T16:59:56.708Z",
     "Checkout.com": "2026-08-28T12:42:32.533Z",
@@ -2295,7 +2302,7 @@
     "Algolia": "2026-08-25T15:51:29.116Z",
     "Trainline": "2026-08-27T16:24:31.706Z",
     "Synthesia": "2026-08-26T23:36:11.889Z",
-    "Attio": "2026-08-27T16:24:31.830Z",
+    "Attio": "2026-09-02T17:21:32.054Z",
     "Paddle": "2026-08-24T15:01:57.696Z",
     "Multiverse": "2026-08-19T16:10:53.843Z",
     "Motorway": "2026-09-02T13:37:53.419Z",
@@ -2311,8 +2318,8 @@
     "Sophos": "2026-08-19T19:15:11.986Z",
     "Octopus Energy": "2026-09-02T13:37:56.687Z",
     "Moonpig": "2026-08-27T16:24:45.129Z",
-    "Spotify": "2026-09-01T16:59:54.293Z",
-    "Motorola Solutions": "2026-09-02T13:38:08.082Z",
+    "Spotify": "2026-09-02T17:21:36.832Z",
+    "Motorola Solutions": "2026-09-02T17:21:48.718Z",
     "Darktrace": "2026-08-21T15:14:24.126Z",
     "CrowdStrike": "2026-08-31T06:18:16.788Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
@@ -2323,7 +2330,7 @@
     "TP ICAP": "2026-09-02T13:38:20.230Z",
     "Ares Management": "2026-07-10T21:09:28.303Z",
     "Depop": "2026-08-19T16:47:37.940Z",
-    "Ticketmaster": "2026-09-01T22:17:11.512Z",
+    "Ticketmaster": "2026-09-02T17:22:02.285Z",
     "Trimble": "2026-08-30T19:56:34.074Z",
     "Antares Underwriting": "2026-07-10T21:09:32.366Z",
     "EMBL": "2026-09-02T09:08:11.510Z",
@@ -2335,7 +2342,7 @@
     "Omnea": "2026-08-28T22:42:39.511Z",
     "CircuitHub": "2026-07-24T12:11:29.374Z",
     "Causaly": "2026-07-29T10:07:04.348Z",
-    "Magentic": "2026-07-29T17:36:57.636Z",
+    "Magentic": "2026-09-02T17:21:33.360Z",
     "Cohere": "2026-08-24T02:52:52.639Z",
     "Capi Money": "2026-08-13T15:41:23.762Z",
     "Ruby Labs": "2026-09-01T12:48:15.126Z",
@@ -2344,7 +2351,7 @@
     "Pigment": "2026-08-18T11:43:40.230Z",
     "AVEVA": "2026-08-04T16:43:38.894Z",
     "Flexera": "2026-07-29T14:36:34.596Z",
-    "Goldman Sachs": "2026-08-27T16:25:21.741Z",
+    "Goldman Sachs": "2026-09-02T17:22:18.464Z",
     "Guardian": "2026-08-12T16:08:26.166Z",
     "Bank of New York Mellon": "2026-08-20T12:03:56.094Z",
     "Computershare": "2026-08-26T09:52:51.094Z",
