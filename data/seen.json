@@ -495,7 +495,9 @@
       "50d4c4d2-2100-4c76-a2b0-70787f66af42",
       "6ce654d2-5233-4217-8185-9d28bcbd84a7",
       "8fb4112e-a3cf-4bd2-afdb-f2ee93c414bb",
-      "d4240f89-e3d6-49ee-b081-e10600c16cd1"
+      "d4240f89-e3d6-49ee-b081-e10600c16cd1",
+      "77436be1-aaae-4b10-8c33-3cbf6bb48ab2",
+      "d7fefd65-f6b7-4262-923f-879fe56a4203"
     ],
     "Deliveroo": [
       "010a8eb8-5087-41b7-971d-c2813612210f",
@@ -748,7 +750,8 @@
       "a5cde44e-ab35-450b-bdce-4dd515fa5c95",
       "07d5262d-254d-4ae6-b8cc-f35e30f8f700",
       "45ca2122-7112-4e1a-ac23-706357e258f9",
-      "c9d28c79-b733-410d-8241-f2cd210582c7"
+      "c9d28c79-b733-410d-8241-f2cd210582c7",
+      "7e173914-296f-408f-b8ad-a2fb02738bb3"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -801,7 +804,9 @@
       "210588623",
       "210591504",
       "210705851",
-      "210768518"
+      "210768518",
+      "210785383",
+      "210786547"
     ],
     "Grafana Labs": [
       "6100581004",
@@ -1509,7 +1514,9 @@
       "a0ed2d2c-1c24-4d53-8ab4-af7e7ac06e20",
       "716a9b01-8201-4e92-bba6-a52f1dae6552",
       "fa0f7e29-a7cf-4ce7-bf20-9a07ee2b5272",
-      "6dea2f5b-c664-4262-8a94-646e83ebfd4c"
+      "6dea2f5b-c664-4262-8a94-646e83ebfd4c",
+      "12cb77a0-cfca-4af8-a4f3-71d2c12e6743",
+      "aa9d1364-fcd5-4830-907e-7ec3bc8eb6fa"
     ],
     "Kraken": [
       "2bb8285f-d45a-441b-8628-983a101006ce",
@@ -1586,7 +1593,8 @@
       "245d45fd-1a63-45dd-a854-85d94e9789fe",
       "795d49f2-8eff-414f-bf30-2a0fd9996f0e",
       "0b5cbd30-2b4a-4bee-a1ea-207571708b00",
-      "819610a1-33ee-4514-9099-8d699146b1ba"
+      "819610a1-33ee-4514-9099-8d699146b1ba",
+      "f5913c4a-7afd-41ea-bd77-06b692ef6e5f"
     ],
     "Improbable": [
       "17e1d340-8e08-488d-bd68-29b5414abc96",
@@ -1627,7 +1635,8 @@
       "1dbc9b99-332d-46d7-8c72-5adeba5b0573",
       "7b8ef0b2-ef43-4459-8d43-ae492b163287",
       "6452218c-407c-4ba4-a450-e1466b79c546",
-      "145b48f3-4f16-4b3f-ac58-e4284473d5ce"
+      "145b48f3-4f16-4b3f-ac58-e4284473d5ce",
+      "febc2bc7-6fc9-427d-b3bd-dc4dd799538b"
     ],
     "Octopus Energy": [
       "221e6a7a-4e02-4dd4-83d7-babe5361f21a",
@@ -1699,7 +1708,9 @@
       "e0274bd2-929e-4ab5-b082-ab55078f6ec8",
       "21e73034-96d2-4d72-bc76-0cc339f5a5d7",
       "e1de05f5-39fe-4cb8-a632-d98f30a3816f",
-      "ebab81a7-1a8e-4d69-b814-29b33bdb70a9"
+      "ebab81a7-1a8e-4d69-b814-29b33bdb70a9",
+      "dd8fc42f-9c31-4bf0-9c18-a17965d611f3",
+      "1505ba93-f9d5-41ba-bcba-e5cbf7d8c5c0"
     ],
     "Moonpig": [
       "947cbd4a-2183-47d2-a266-824f12f298ac",
@@ -1944,7 +1955,8 @@
       "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Remote---United-Kingdom/Principal-Engineer--CSRE--Remote--United-Kingdom-_JR-91815",
       "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/London-United-Kingdom/Senior-Product-Designer--Marketplace-Global-App_JR-89440",
       "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Remote---United-Kingdom/Lead-AI-Experience-Engineer--Remote--United-Kingdom-_JR-92429",
-      "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Remote---United-Kingdom/Principal-Engineer--Foundational-Services--Remote--United-Kingdom-_JR-92150"
+      "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Remote---United-Kingdom/Principal-Engineer--Foundational-Services--Remote--United-Kingdom-_JR-92150",
+      "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Remote---United-Kingdom/Lead-Data---AI-Platform-Engineer--Remote--United-Kingdom-_JR-90837-4"
     ],
     "Trimble": [
       "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Remote/Software-Engineer_R56506",
@@ -2155,7 +2167,8 @@
     ],
     "Lawhive": [
       "c68691f4-0fbb-45ac-a226-920cbde8847d",
-      "5ff1adea-b308-4604-a7ae-6621f1383de7"
+      "5ff1adea-b308-4604-a7ae-6621f1383de7",
+      "483b37c1-fa45-4b33-83e6-dd8b4fc8e872"
     ],
     "Pigment": [
       "b0e6f446-27dd-40d2-a89a-327cf5146314",
@@ -2300,11 +2313,11 @@
     "Barclays": "2026-09-01T16:59:56.708Z",
     "Checkout.com": "2026-09-02T22:28:13.807Z",
     "ClearBank": "2026-09-02T09:07:35.189Z",
-    "Wayve": "2026-09-01T19:52:07.073Z",
-    "Deliveroo": "2026-09-03T13:52:33.427Z",
+    "Wayve": "2026-09-03T17:27:20.383Z",
+    "Deliveroo": "2026-09-03T17:27:20.473Z",
     "Marshmallow": "2026-09-02T13:37:52.922Z",
     "OakNorth": "2026-07-23T15:25:13.560Z",
-    "JP Morgan": "2026-08-05T10:01:32.896Z",
+    "JP Morgan": "2026-09-03T17:28:12.088Z",
     "Grafana Labs": "2026-08-25T14:57:44.521Z",
     "Intercom": "2026-08-26T09:52:11.701Z",
     "Prolific": "2026-08-26T14:59:28.217Z",
@@ -2322,14 +2335,14 @@
     "monday.com": "2026-08-20T13:07:30.633Z",
     "Accurx": "2026-08-17T11:33:24.841Z",
     "Allica Bank": "2026-08-24T09:58:30.926Z",
-    "Lendable": "2026-09-03T13:52:33.765Z",
+    "Lendable": "2026-09-03T17:27:21.700Z",
     "Kraken": "2026-08-26T16:24:35.595Z",
-    "Elliptic": "2026-09-02T13:37:53.784Z",
+    "Elliptic": "2026-09-03T17:27:21.928Z",
     "Improbable": "2026-07-30T16:54:11.466Z",
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
-    "Sophos": "2026-08-19T19:15:11.986Z",
-    "Octopus Energy": "2026-09-03T13:52:37.082Z",
+    "Sophos": "2026-09-03T17:27:28.455Z",
+    "Octopus Energy": "2026-09-03T17:27:35.159Z",
     "Moonpig": "2026-08-27T16:24:45.129Z",
     "Spotify": "2026-09-02T17:21:36.832Z",
     "Motorola Solutions": "2026-09-03T00:33:36.273Z",
@@ -2343,7 +2356,7 @@
     "TP ICAP": "2026-09-02T13:38:20.230Z",
     "Ares Management": "2026-07-10T21:09:28.303Z",
     "Depop": "2026-08-19T16:47:37.940Z",
-    "Ticketmaster": "2026-09-02T17:22:02.285Z",
+    "Ticketmaster": "2026-09-03T17:28:00.082Z",
     "Trimble": "2026-08-30T19:56:34.074Z",
     "Antares Underwriting": "2026-07-10T21:09:32.366Z",
     "EMBL": "2026-09-02T09:08:11.510Z",
@@ -2360,7 +2373,7 @@
     "Capi Money": "2026-08-13T15:41:23.762Z",
     "Ruby Labs": "2026-09-01T12:48:15.126Z",
     "Lovable": "2026-08-31T20:03:15.957Z",
-    "Lawhive": "2026-07-25T12:56:40.848Z",
+    "Lawhive": "2026-09-03T17:27:23.362Z",
     "Pigment": "2026-08-18T11:43:40.230Z",
     "AVEVA": "2026-08-04T16:43:38.894Z",
     "Flexera": "2026-07-29T14:36:34.596Z",
@@ -2383,7 +2396,7 @@
     "Pearson": "2026-08-28T01:04:06.354Z"
   },
   "lastSeenId": {
-    "JP Morgan": 210768518,
+    "JP Morgan": 210786547,
     "Goldman Sachs": 182982,
     "Guardian": 1308,
     "Bank of New York Mellon": 81144,
