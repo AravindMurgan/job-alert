@@ -754,7 +754,9 @@
       "45ca2122-7112-4e1a-ac23-706357e258f9",
       "c9d28c79-b733-410d-8241-f2cd210582c7",
       "7e173914-296f-408f-b8ad-a2fb02738bb3",
-      "f42a2dbb-c9f2-4b30-9da5-33059c2881d1"
+      "f42a2dbb-c9f2-4b30-9da5-33059c2881d1",
+      "fa58f03f-af7b-4914-b131-0cfc5bebaed5",
+      "0eabd2f9-ab30-4599-819a-281007272958"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -1322,7 +1324,8 @@
       "76b45b13-0a12-4f19-b839-7bfc5d634961",
       "79a0ff82-9350-47de-a8a3-24d86cdd0fee",
       "64e7a546-c2a7-4ad1-8e1d-be4b1e5c1ddd",
-      "85582e6d-8ad4-4a90-8cbd-eba288b44bc8"
+      "85582e6d-8ad4-4a90-8cbd-eba288b44bc8",
+      "0cbab758-349f-4c5b-b313-8f6dc0979948"
     ],
     "monday.com": [
       "b048d08d-8ae8-4c1b-9a73-3309fb29b3cc",
@@ -1562,7 +1565,8 @@
       "00d30138-3f9e-4db8-aff0-47fec63080e2",
       "506de4d6-4f93-4db6-89c0-8539edbae4ae",
       "e71e1c0b-166c-4acf-9269-b9ab79aee686",
-      "24cb6a23-0ac4-4198-baf0-d8099067300d"
+      "24cb6a23-0ac4-4198-baf0-d8099067300d",
+      "da8b1179-9caa-464c-8eee-395132814f91"
     ],
     "Elliptic": [
       "0fb6f165-8583-4caa-b964-69c1eeb5fdb5",
@@ -1713,7 +1717,8 @@
       "e1de05f5-39fe-4cb8-a632-d98f30a3816f",
       "ebab81a7-1a8e-4d69-b814-29b33bdb70a9",
       "dd8fc42f-9c31-4bf0-9c18-a17965d611f3",
-      "1505ba93-f9d5-41ba-bcba-e5cbf7d8c5c0"
+      "1505ba93-f9d5-41ba-bcba-e5cbf7d8c5c0",
+      "466ac356-6383-496f-8434-076af3d4c42b"
     ],
     "Moonpig": [
       "947cbd4a-2183-47d2-a266-824f12f298ac",
@@ -1816,7 +1821,8 @@
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/Software-Engineering-Manager_R67838",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R68006",
       "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/London-UK/Software-Engineer--Frontend_R65422",
-      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/London-UK/Software-Engineer--Frontend--TypeScript-_R65530"
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/London-UK/Software-Engineer--Frontend--TypeScript-_R65530",
+      "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Software-Engineer--Frontend--TypeScript-_R65536"
     ],
     "Darktrace": [
       "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Software-Engineer--Python-_JR100986",
@@ -2318,7 +2324,7 @@
     "Checkout.com": "2026-09-02T22:28:13.807Z",
     "ClearBank": "2026-09-02T09:07:35.189Z",
     "Wayve": "2026-09-03T20:04:34.577Z",
-    "Deliveroo": "2026-09-03T20:04:34.668Z",
+    "Deliveroo": "2026-09-04T09:07:20.000Z",
     "Marshmallow": "2026-09-02T13:37:52.922Z",
     "OakNorth": "2026-07-23T15:25:13.560Z",
     "JP Morgan": "2026-09-03T17:28:12.088Z",
@@ -2335,21 +2341,21 @@
     "Attio": "2026-09-02T17:21:32.054Z",
     "Paddle": "2026-08-24T15:01:57.696Z",
     "Multiverse": "2026-09-03T13:52:33.623Z",
-    "Motorway": "2026-09-02T13:37:53.419Z",
+    "Motorway": "2026-09-04T09:07:20.238Z",
     "monday.com": "2026-08-20T13:07:30.633Z",
     "Accurx": "2026-08-17T11:33:24.841Z",
     "Allica Bank": "2026-08-24T09:58:30.926Z",
     "Lendable": "2026-09-03T17:27:21.700Z",
-    "Kraken": "2026-08-26T16:24:35.595Z",
+    "Kraken": "2026-09-04T09:07:20.425Z",
     "Elliptic": "2026-09-03T17:27:21.928Z",
     "Improbable": "2026-07-30T16:54:11.466Z",
     "Sensat": "2026-07-14T16:38:50.675Z",
     "Ledger": "2026-07-10T21:09:00.382Z",
     "Sophos": "2026-09-03T17:27:28.455Z",
-    "Octopus Energy": "2026-09-03T17:27:35.159Z",
+    "Octopus Energy": "2026-09-04T09:07:23.287Z",
     "Moonpig": "2026-08-27T16:24:45.129Z",
     "Spotify": "2026-09-02T17:21:36.832Z",
-    "Motorola Solutions": "2026-09-03T00:33:36.273Z",
+    "Motorola Solutions": "2026-09-04T09:07:33.181Z",
     "Darktrace": "2026-08-21T15:14:24.126Z",
     "CrowdStrike": "2026-08-31T06:18:16.788Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
