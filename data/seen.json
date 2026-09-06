@@ -398,7 +398,8 @@
       "b8fd9bcf-c58c-47fe-8399-c8bf7edd79d5",
       "28f47f7b-328f-464e-bee2-030ad6e76f2c",
       "b5fb3c66-d4cb-4f8f-a363-d59c7f4264fb",
-      "8c9bd2fa-6f20-4c4e-afb8-622a4d1f9adb"
+      "8c9bd2fa-6f20-4c4e-afb8-622a4d1f9adb",
+      "3096709e-2076-4d04-98cd-eebdbcb3d4ac"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -2350,7 +2351,7 @@
     "Monzo": "2026-09-04T17:01:15.262Z",
     "GoCardless": "2026-09-02T09:07:33.566Z",
     "Barclays": "2026-09-01T16:59:56.708Z",
-    "Checkout.com": "2026-09-04T17:01:19.645Z",
+    "Checkout.com": "2026-09-06T17:15:22.148Z",
     "ClearBank": "2026-09-02T09:07:35.189Z",
     "Wayve": "2026-09-04T17:01:19.791Z",
     "Deliveroo": "2026-09-04T17:01:19.977Z",
