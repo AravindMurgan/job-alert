@@ -130,7 +130,8 @@
       "8163979",
       "8170780",
       "8125389",
-      "8179466"
+      "8179466",
+      "8180014"
     ],
     "GoCardless": [
       "7795791",
@@ -399,7 +400,8 @@
       "28f47f7b-328f-464e-bee2-030ad6e76f2c",
       "b5fb3c66-d4cb-4f8f-a363-d59c7f4264fb",
       "8c9bd2fa-6f20-4c4e-afb8-622a4d1f9adb",
-      "3096709e-2076-4d04-98cd-eebdbcb3d4ac"
+      "3096709e-2076-4d04-98cd-eebdbcb3d4ac",
+      "e200cc24-1a45-4595-9108-97d2ae1778bb"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -767,7 +769,8 @@
       "6ab652ee-01d0-4ad9-8e9f-f332d1371592",
       "7635c6fb-03a6-4e55-a886-7db8b0018dc1",
       "08e282d2-7792-4a3c-b44c-348626e9e50a",
-      "904a39c3-f251-4c43-8495-92c27bf5a874"
+      "904a39c3-f251-4c43-8495-92c27bf5a874",
+      "47c95453-0fe7-4408-a10f-ef587986d537"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -1008,7 +1011,9 @@
       "4947997101",
       "4956699101",
       "4960565101",
-      "4737059101"
+      "4737059101",
+      "4961881101",
+      "4968218101"
     ],
     "Postman": [
       "7491395003",
@@ -1174,7 +1179,8 @@
       "1a19b465-ec05-40f0-bdd0-87d7fadf8306",
       "bbdd3c1d-a6d0-42cb-bd28-756a7d916003",
       "6a0ec24b-2752-4e96-9e64-2d896d93d721",
-      "258354ae-88b7-405a-9e06-686aadef7407"
+      "258354ae-88b7-405a-9e06-686aadef7407",
+      "21e28b56-5a6e-428f-9be4-775fa2ffb989"
     ],
     "Synthesia": [
       "0560eb00-0e85-47d4-9b66-f9af3033a85e",
@@ -1764,7 +1770,10 @@
       "ecf72d6e-89fc-4537-bafe-4c144f2289ac",
       "88f7a902-05db-4dfa-a38f-1f7c1ee44496",
       "5e3a349a-63b1-4a03-b2c8-f583e612ffea",
-      "822a13c6-a16d-404f-9f6c-816f7714303d"
+      "822a13c6-a16d-404f-9f6c-816f7714303d",
+      "5415792a-e7ad-4dfd-bdc7-c8c997fc81ec",
+      "c5f71a16-f1fe-4f86-9edf-e405477d8701",
+      "4b354f4b-46f0-464f-82ce-f9cbe1305f2c"
     ],
     "Spotify": [
       "66acb66f-de37-4d95-a353-874db92838ef",
@@ -1943,7 +1952,8 @@
       "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Component-Design-Engineer_JR6154375-2",
       "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Development-Assembly-Manufacturing-Engineer_JR6154940-2",
       "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Process-Safety-Engineer_JR6154921-1",
-      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Repair-Design-Engineer_JR6149363"
+      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Repair-Design-Engineer_JR6149363",
+      "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Electrical-Design-Engineer_JR6139064-1"
     ],
     "TP ICAP": [
       "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Senior-Software-Engineer--Back-End-_R5242",
@@ -2237,7 +2247,8 @@
       "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Principal-Cloud-Software-Engineer_R014527",
       "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/XMLNAME-NET-Software-Developer_R013915",
       "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Product-Owner--Electrical-Engineering-Software_R014096",
-      "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Principal-Software-Engineer_R014661"
+      "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Principal-Software-Engineer_R014661",
+      "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Development-Engineer_R014879"
     ],
     "Flexera": [
       "https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware/job/Home-United-Kingdom/Senior-Software-Engineer_17370",
@@ -2291,7 +2302,8 @@
       "81130",
       "81144",
       "79172",
-      "81149"
+      "81149",
+      "81152"
     ],
     "Computershare": [
       "12070",
@@ -2358,25 +2370,25 @@
     ]
   },
   "lastSeen": {
-    "Monzo": "2026-09-04T17:01:15.262Z",
+    "Monzo": "2026-09-07T16:25:42.405Z",
     "GoCardless": "2026-09-02T09:07:33.566Z",
     "Barclays": "2026-09-01T16:59:56.708Z",
-    "Checkout.com": "2026-09-06T17:15:22.148Z",
+    "Checkout.com": "2026-09-07T16:25:43.278Z",
     "ClearBank": "2026-09-02T09:07:35.189Z",
     "Wayve": "2026-09-07T11:05:18.397Z",
-    "Deliveroo": "2026-09-07T11:05:18.476Z",
+    "Deliveroo": "2026-09-07T16:25:43.474Z",
     "Marshmallow": "2026-09-02T13:37:52.922Z",
     "OakNorth": "2026-09-07T11:05:18.510Z",
     "JP Morgan": "2026-09-03T17:28:12.088Z",
     "Grafana Labs": "2026-08-25T14:57:44.521Z",
     "Intercom": "2026-09-04T17:01:18.644Z",
     "Prolific": "2026-08-26T14:59:28.217Z",
-    "Rightmove": "2026-08-28T22:42:37.132Z",
+    "Rightmove": "2026-09-07T16:25:42.681Z",
     "Postman": "2026-08-18T05:06:37.007Z",
     "Dexory": "2026-09-04T17:01:19.232Z",
     "Fanatics Betting": "2026-09-07T11:05:17.997Z",
     "Algolia": "2026-08-25T15:51:29.116Z",
-    "Trainline": "2026-09-04T13:30:39.261Z",
+    "Trainline": "2026-09-07T16:25:43.535Z",
     "Synthesia": "2026-08-26T23:36:11.889Z",
     "Attio": "2026-09-02T17:21:32.054Z",
     "Paddle": "2026-08-24T15:01:57.696Z",
@@ -2393,7 +2405,7 @@
     "Ledger": "2026-07-10T21:09:00.382Z",
     "Sophos": "2026-09-03T17:27:28.455Z",
     "Octopus Energy": "2026-09-07T11:05:21.585Z",
-    "Moonpig": "2026-09-04T13:30:43.862Z",
+    "Moonpig": "2026-09-07T16:25:46.595Z",
     "Spotify": "2026-09-04T17:01:23.665Z",
     "Motorola Solutions": "2026-09-04T09:07:33.181Z",
     "Darktrace": "2026-08-21T15:14:24.126Z",
@@ -2402,7 +2414,7 @@
     "RELX": "2026-08-18T16:11:25.443Z",
     "NVIDIA": "2026-07-10T21:09:22.731Z",
     "Universal Music Group": "2026-09-07T11:05:38.904Z",
-    "Rolls-Royce": "2026-09-02T13:38:19.648Z",
+    "Rolls-Royce": "2026-09-07T16:26:06.384Z",
     "TP ICAP": "2026-09-02T13:38:20.230Z",
     "Ares Management": "2026-07-10T21:09:28.303Z",
     "Depop": "2026-08-19T16:47:37.940Z",
@@ -2425,11 +2437,11 @@
     "Lovable": "2026-08-31T20:03:15.957Z",
     "Lawhive": "2026-09-04T17:01:20.998Z",
     "Pigment": "2026-09-07T11:05:22.174Z",
-    "AVEVA": "2026-08-04T16:43:38.894Z",
+    "AVEVA": "2026-09-07T16:26:17.076Z",
     "Flexera": "2026-09-04T13:31:17.604Z",
     "Goldman Sachs": "2026-09-02T17:22:18.464Z",
     "Guardian": "2026-09-04T17:02:01.849Z",
-    "Bank of New York Mellon": "2026-09-07T11:05:57.955Z",
+    "Bank of New York Mellon": "2026-09-07T16:26:22.885Z",
     "Computershare": "2026-08-26T09:52:51.094Z",
     "Wahed": "2026-08-04T10:05:27.677Z",
     "Stacks": "2026-08-28T12:42:35.624Z",
@@ -2449,7 +2461,7 @@
     "JP Morgan": 210786547,
     "Goldman Sachs": 182982,
     "Guardian": 1330,
-    "Bank of New York Mellon": 81149,
+    "Bank of New York Mellon": 81152,
     "Computershare": 12758,
     "Pearson": 25078,
     "Northumbria University": 4195
