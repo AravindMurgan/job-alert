@@ -164,7 +164,8 @@
       "8141651",
       "8156316",
       "8127884",
-      "8172904"
+      "8172904",
+      "8188573"
     ],
     "Barclays": [
       "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Senior-Engineer-VPN_JR-0000112919-1",
@@ -415,7 +416,8 @@
       "0f8781a1-05cc-45c9-85d3-debee156e36d",
       "2725c4d2-8f3c-49fc-b2d0-2af4618fae24",
       "4779cebf-e190-4c43-ad76-3e1a0a92823a",
-      "0b1b7462-8cf3-4d67-a24f-fd8a902797da"
+      "0b1b7462-8cf3-4d67-a24f-fd8a902797da",
+      "dd71eb3a-a368-4f96-9520-76ded6687036"
     ],
     "ClearBank": [
       "1cb820a2-f16b-4610-badd-2b03fc7eb91a",
@@ -797,7 +799,8 @@
       "568908c0-aa80-44f2-80c9-ba1299a73a4c",
       "2f150334-e915-42ee-b35f-f0576d4c8168",
       "ee388fb4-0af6-4da2-a636-b381b6032b87",
-      "d030c3ca-c596-4542-89a0-4d24cd173c63"
+      "d030c3ca-c596-4542-89a0-4d24cd173c63",
+      "ac5a4c06-c591-48e1-b4a3-73dc8c9d7039"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -1216,7 +1219,8 @@
       "258354ae-88b7-405a-9e06-686aadef7407",
       "21e28b56-5a6e-428f-9be4-775fa2ffb989",
       "1e3151f3-fa2d-47cf-832b-264fc4a89cc4",
-      "d3f05d01-d762-4cbc-b3c4-bd7a5f293363"
+      "d3f05d01-d762-4cbc-b3c4-bd7a5f293363",
+      "83d9f888-d262-4ec2-a69c-dbbeadb685e0"
     ],
     "Synthesia": [
       "0560eb00-0e85-47d4-9b66-f9af3033a85e",
@@ -1982,7 +1986,8 @@
       "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/London-Wall/Customer-Support-Engineer_R114624",
       "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/UK---Grosvenor-House-Southampton/Junior-Software-Engineer_R115585",
       "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/London-Wall/Software-Engineering-Lead---Applied-AI-Engineering_R112486",
-      "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/London-Wall/Senior-Software-Developer-II---Full-Stack_R114108-1"
+      "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/London-Wall/Senior-Software-Developer-II---Full-Stack_R114108-1",
+      "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/London-Wall/Manager-Software-Engineering_R117231"
     ],
     "NVIDIA": [
       "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/Senior-Software-Engineer---Networking_JR2016674"
@@ -2444,12 +2449,12 @@
   },
   "lastSeen": {
     "Monzo": "2026-09-09T18:35:27.906Z",
-    "GoCardless": "2026-09-02T09:07:33.566Z",
+    "GoCardless": "2026-09-10T11:07:46.276Z",
     "Barclays": "2026-09-09T18:35:35.435Z",
-    "Checkout.com": "2026-09-09T18:35:28.590Z",
+    "Checkout.com": "2026-09-10T11:07:46.829Z",
     "ClearBank": "2026-09-02T09:07:35.189Z",
     "Wayve": "2026-09-09T18:35:28.679Z",
-    "Deliveroo": "2026-09-09T15:08:43.863Z",
+    "Deliveroo": "2026-09-10T11:07:47.077Z",
     "Marshmallow": "2026-09-07T20:05:23.608Z",
     "OakNorth": "2026-09-07T11:05:18.510Z",
     "JP Morgan": "2026-09-03T17:28:12.088Z",
@@ -2461,7 +2466,7 @@
     "Dexory": "2026-09-04T17:01:19.232Z",
     "Fanatics Betting": "2026-09-07T11:05:17.997Z",
     "Algolia": "2026-08-25T15:51:29.116Z",
-    "Trainline": "2026-09-09T11:12:41.437Z",
+    "Trainline": "2026-09-10T11:07:47.183Z",
     "Synthesia": "2026-09-09T15:08:44.242Z",
     "Attio": "2026-09-02T17:21:32.054Z",
     "Paddle": "2026-09-08T00:44:46.012Z",
@@ -2484,7 +2489,7 @@
     "Darktrace": "2026-08-21T15:14:24.126Z",
     "CrowdStrike": "2026-09-09T11:13:12.739Z",
     "Beazley": "2026-07-14T13:28:58.212Z",
-    "RELX": "2026-08-18T16:11:25.443Z",
+    "RELX": "2026-09-10T11:08:05.953Z",
     "NVIDIA": "2026-07-10T21:09:22.731Z",
     "Universal Music Group": "2026-09-09T11:13:18.818Z",
     "Rolls-Royce": "2026-09-07T16:26:06.384Z",
