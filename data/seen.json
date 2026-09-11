@@ -815,7 +815,9 @@
       "1e327260-d5d2-491a-9e80-0cdf93356949",
       "c3d5ae73-63ba-462c-87e5-0ddc6177fda4",
       "606206fd-007f-44db-b05e-d82ecd0c02ef",
-      "5bf2c59d-84bd-4d41-a156-99bfc803d6a7"
+      "5bf2c59d-84bd-4d41-a156-99bfc803d6a7",
+      "b00fdb09-4861-4b4b-bf79-4403c7d4062d",
+      "8bb552d7-1d0b-4e8c-85d2-f9848e4db3f3"
     ],
     "Marshmallow": [
       "18438fc6-8354-4bbc-8230-bee6f03038b6",
@@ -1521,7 +1523,9 @@
       "726ea8ef-f41d-406e-9b7b-13b75a430692",
       "7f296c96-7a11-4952-8f4d-e7979300fee5",
       "71fb22e2-750b-4208-add0-aeaa73c0cd25",
-      "c77c3623-bdb0-48ad-939f-933c927c06f0"
+      "c77c3623-bdb0-48ad-939f-933c927c06f0",
+      "49662162-bc63-4f29-8191-36bdb813722d",
+      "d1ba2af2-16da-4b8d-9014-fc5ba63f0b63"
     ],
     "Lendable": [
       "48c12376-9cc3-489e-8e47-073e1846260b",
@@ -2103,7 +2107,9 @@
       "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Remote/Software-Engineer_R56505",
       "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---London/Front-End-Angular-Software-Engineer_R55590",
       "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Milton-Keynes/Electrical-Software-Support-Engineer_R54527",
-      "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Leeds/Technical-Training-Specialist---Electrical-Design-Software-_R57368"
+      "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Leeds/Technical-Training-Specialist---Electrical-Design-Software-_R57368",
+      "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Remote/React-Frontend-Engineer_R57662-1",
+      "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Remote/Frontend-React-Engineer-with-NET-knowledge_R57661"
     ],
     "Antares Underwriting": [
       "https://antaresunderwriting.wd3.myworkdayjobs.com/Antares/job/London/Systems-Developer_JR172",
@@ -2179,7 +2185,8 @@
       "4729952005",
       "4729936005",
       "4643404005",
-      "4730584005"
+      "4730584005",
+      "4733130005"
     ],
     "Nearform": [
       "7799525003",
@@ -2244,7 +2251,8 @@
       "5cc0c959-6ef5-4759-b9d2-395757b4d9e1",
       "2f40339d-16f8-4733-8b77-2e45005af5e9",
       "31cdb166-52cd-4313-8d1f-8cc8052a8878",
-      "75e21cc8-934f-48f1-948f-3f907bd6adc5"
+      "75e21cc8-934f-48f1-948f-3f907bd6adc5",
+      "3806dff4-54e6-41aa-a45a-ada01c87e714"
     ],
     "Cohere": [
       "4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e",
@@ -2485,7 +2493,7 @@
     "Checkout.com": "2026-09-10T11:07:46.829Z",
     "ClearBank": "2026-09-02T09:07:35.189Z",
     "Wayve": "2026-09-09T18:35:28.679Z",
-    "Deliveroo": "2026-09-11T14:29:18.688Z",
+    "Deliveroo": "2026-09-11T17:51:45.540Z",
     "Marshmallow": "2026-09-10T14:58:43.197Z",
     "OakNorth": "2026-09-07T11:05:18.510Z",
     "JP Morgan": "2026-09-03T17:28:12.088Z",
@@ -2505,7 +2513,7 @@
     "Motorway": "2026-09-09T11:12:41.543Z",
     "monday.com": "2026-08-20T13:07:30.633Z",
     "Accurx": "2026-08-17T11:33:24.841Z",
-    "Allica Bank": "2026-09-09T18:35:29.145Z",
+    "Allica Bank": "2026-09-11T17:51:46.797Z",
     "Lendable": "2026-09-11T14:29:19.696Z",
     "Kraken": "2026-09-09T15:08:45.085Z",
     "Elliptic": "2026-09-09T06:00:21.891Z",
@@ -2528,18 +2536,18 @@
     "Ares Management": "2026-07-10T21:09:28.303Z",
     "Depop": "2026-08-19T16:47:37.940Z",
     "Ticketmaster": "2026-09-10T20:58:56.498Z",
-    "Trimble": "2026-08-30T19:56:34.074Z",
+    "Trimble": "2026-09-11T17:52:19.772Z",
     "Antares Underwriting": "2026-07-10T21:09:32.366Z",
     "EMBL": "2026-09-09T18:36:04.903Z",
     "Zoom": "2026-07-10T21:45:05.365Z",
     "Modo Energy": "2026-08-17T23:51:07.009Z",
-    "Eucalyptus": "2026-09-08T09:52:54.403Z",
+    "Eucalyptus": "2026-09-11T17:51:44.807Z",
     "Nearform": "2026-07-10T21:45:52.245Z",
     "Gearset": "2026-09-08T17:53:36.915Z",
     "Omnea": "2026-08-28T22:42:39.511Z",
     "CircuitHub": "2026-07-24T12:11:29.374Z",
     "Causaly": "2026-07-29T10:07:04.348Z",
-    "Magentic": "2026-09-11T14:29:20.633Z",
+    "Magentic": "2026-09-11T17:51:48.092Z",
     "Cohere": "2026-09-10T05:58:42.274Z",
     "Capi Money": "2026-08-13T15:41:23.762Z",
     "Ruby Labs": "2026-09-01T12:48:15.126Z",
