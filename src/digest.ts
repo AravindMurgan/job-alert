@@ -1,7 +1,10 @@
 import 'dotenv/config'
+import fs from 'fs'
+import path from 'path'
 import nodemailer from 'nodemailer'
-import { getAllPending, clearPending } from './store'
+import { getAllPending, setPending, getAllHistory } from './store'
 import { PendingJob } from './types/company'
+import { buildReportHtml } from './report'
 
 function formatPostedDate(isoString: string): string {
   const d = new Date(isoString)
@@ -67,19 +70,25 @@ function buildHtml(grouped: Record<string, PendingJob[]>, total: number): string
 </html>`
 }
 
-const MAX_JOB_AGE_MS = 5 * 24 * 60 * 60 * 1000
+const MAX_JOB_AGE_MS = 30 * 24 * 60 * 60 * 1000
 
 async function sendDigest(): Promise<void> {
   const cutoff = Date.now() - MAX_JOB_AGE_MS
-  const jobs = getAllPending().filter(job => new Date(job.foundAt).getTime() >= cutoff)
+  const all = getAllPending()
+  const active = all.filter(job => new Date(job.foundAt).getTime() >= cutoff)
+  const expired = all.length - active.length
 
-  if (jobs.length === 0) {
-    console.log('[digest] No jobs in queue — skipping')
-    clearPending()
+  if (expired > 0) setPending(active)
+
+  const activeHistory = getAllHistory().filter(job => new Date(job.foundAt).getTime() >= cutoff)
+  fs.writeFileSync(path.resolve(__dirname, '../report.html'), buildReportHtml(activeHistory))
+
+  if (active.length === 0) {
+    console.log('[digest] No active jobs — skipping')
     return
   }
 
-  const grouped = jobs.reduce<Record<string, PendingJob[]>>((acc, job) => {
+  const grouped = active.reduce<Record<string, PendingJob[]>>((acc, job) => {
     acc[job.company] = [...(acc[job.company] ?? []), job]
     return acc
   }, {})
@@ -88,7 +97,7 @@ async function sendDigest(): Promise<void> {
     companyJobs.sort((a, b) => new Date(b.foundAt).getTime() - new Date(a.foundAt).getTime())
   }
 
-  const total = jobs.length
+  const total = active.length
   const companyCount = Object.keys(grouped).length
   const dateLabel = new Date().toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short' })
   const subject = `${total} new ${total === 1 ? 'job' : 'jobs'} — ${dateLabel}`
@@ -108,7 +117,6 @@ async function sendDigest(): Promise<void> {
     html: buildHtml(grouped, total),
   })
 
-  clearPending()
   console.log(`[digest] Sent — ${total} jobs across ${companyCount} companies → ${process.env.DIGEST_TO}`)
 }
 

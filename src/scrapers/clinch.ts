@@ -1,7 +1,7 @@
 import { chromium } from 'playwright'
 import { ClinchConfig } from '../types/company'
 import { passesFilter, isUK } from '../filter'
-import { isNew, save } from '../store'
+import { isNew } from '../store'
 import { queueJob } from '../notify'
 
 const CARD_SELECTOR = '.job-search-results-card'
@@ -44,13 +44,12 @@ export async function scrapeClinch(config: ClinchConfig): Promise<void> {
           : undefined
 
         if (config.sponsorshipBlockText && snippet?.includes(config.sponsorshipBlockText)) {
-          save(config.name, href); skipped++; continue
+          skipped++; continue
         }
 
-        if (!passesFilter(title, snippet)) { save(config.name, href); skipped++; continue }
+        if (!passesFilter(title, snippet)) { skipped++; continue }
 
         queueJob({ company: config.name, title, url: href, location, foundAt: new Date().toISOString() })
-        save(config.name, href)
         queued++
       }
 

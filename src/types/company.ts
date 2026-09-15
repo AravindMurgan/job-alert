@@ -33,6 +33,11 @@ export type LeverConfig = BaseConfig & {
   slug: string
 }
 
+export type WorkableConfig = BaseConfig & {
+  type: 'workable'
+  slug: string
+}
+
 export type OracleConfig = BaseConfig & {
   type: 'oracle'
   domain: string
@@ -43,7 +48,8 @@ export type OracleConfig = BaseConfig & {
 
 export type WorkdayConfig = BaseConfig & {
   type: 'workday'
-  tenant: string   // e.g. "barclays"
+  tenant: string   // e.g. "barclays" — used in the hostname
+  apiTenant?: string // override for the /wday/cxs/{apiTenant}/ path, if it differs from tenant (rare)
   subdomain: string // e.g. "wd3"
   board: string    // e.g. "External_Career_Site_Barclays"
   searchTerm: string
@@ -84,6 +90,7 @@ export type CompanyConfig =
   | GreenhouseConfig
   | AshbyConfig
   | LeverConfig
+  | WorkableConfig
   | OracleConfig
   | WorkdayConfig
   | ClinchConfig

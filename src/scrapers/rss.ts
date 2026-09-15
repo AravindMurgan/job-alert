@@ -1,6 +1,6 @@
 import { GreenhouseConfig, AshbyConfig, LeverConfig } from '../types/company'
 import { passesFilter, isUK, isRecent } from '../filter'
-import { isNew, save } from '../store'
+import { isNew } from '../store'
 import { queueJob } from '../notify'
 
 type RssConfig = GreenhouseConfig | AshbyConfig | LeverConfig
@@ -25,17 +25,15 @@ async function scrapeGreenhouse(config: GreenhouseConfig): Promise<void> {
   let queued = 0, skipped = 0
 
   for (const job of data.jobs) {
-    const id = String(job.id)
     const location = job.location?.name ?? ''
     const foundAt = job.first_published ?? job.updated_at ?? new Date().toISOString()
 
     if (!isUK(location)) { skipped++; continue }
     if (!isRecent(foundAt)) { skipped++; continue }
-    if (!isNew(config.name, id)) { skipped++; continue }
-    if (!passesFilter(job.title)) { save(config.name, id); skipped++; continue }
+    if (!isNew(config.name, job.absolute_url)) { skipped++; continue }
+    if (!passesFilter(job.title)) { skipped++; continue }
 
     queueJob({ company: config.name, title: job.title, url: job.absolute_url, location, foundAt })
-    save(config.name, id)
     queued++
   }
 
@@ -70,11 +68,10 @@ async function scrapeAshby(config: AshbyConfig): Promise<void> {
 
     if (!isUK(location)) { skipped++; continue }
     if (!isRecent(foundAt)) { skipped++; continue }
-    if (!isNew(config.name, id)) { skipped++; continue }
-    if (!passesFilter(job.title)) { save(config.name, id); skipped++; continue }
+    if (!isNew(config.name, jobUrl)) { skipped++; continue }
+    if (!passesFilter(job.title)) { skipped++; continue }
 
     queueJob({ company: config.name, title: job.title, url: jobUrl, location, foundAt })
-    save(config.name, id)
     queued++
   }
 
@@ -100,17 +97,15 @@ async function scrapeLever(config: LeverConfig): Promise<void> {
   let queued = 0, skipped = 0
 
   for (const p of postings) {
-    const id = p.id
     const location = p.categories?.location ?? ''
     const foundAt = p.createdAt ? new Date(p.createdAt).toISOString() : new Date().toISOString()
 
     if (!isUK(location)) { skipped++; continue }
     if (!isRecent(foundAt)) { skipped++; continue }
-    if (!isNew(config.name, id)) { skipped++; continue }
-    if (!passesFilter(p.text)) { save(config.name, id); skipped++; continue }
+    if (!isNew(config.name, p.hostedUrl)) { skipped++; continue }
+    if (!passesFilter(p.text)) { skipped++; continue }
 
     queueJob({ company: config.name, title: p.text, url: p.hostedUrl, location, foundAt })
-    save(config.name, id)
     queued++
   }
 

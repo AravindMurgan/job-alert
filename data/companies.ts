@@ -67,6 +67,10 @@ export const companies: CompanyConfig[] = [
   { type: 'lever', name: 'Electric Twin',  slug: 'electric-twin', enabled: true, schedule: 'fast' },
   { type: 'lever', name: 'Flock',          slug: 'flock',      enabled: true, schedule: 'fast' },
   { type: 'lever', name: 'Wahed',          slug: 'wahed.com',  enabled: true, schedule: 'fast' },
+  { type: 'lever', name: 'MOO',            slug: 'moo',        enabled: true, schedule: 'fast' },
+
+  // ── Workable ──────────────────────────────────────────────────────────────
+  { type: 'workable', name: 'Starling Bank', slug: 'starling-bank', enabled: true, schedule: 'fast' },
 
   // ── Workday (REST API) ────────────────────────────────────────────────────
   {
@@ -177,6 +181,16 @@ export const companies: CompanyConfig[] = [
   {
     type: 'workday', name: 'Flexera', schedule: 'fast', enabled: true,
     tenant: 'flexerasoftware', subdomain: 'wd1', board: 'FlexeraSoftware',
+    searchTerm: 'software engineer',
+  },
+  {
+    type: 'workday', name: 'Capital One', schedule: 'fast', enabled: true,
+    tenant: 'capitalone', subdomain: 'wd12', board: 'Capital_One',
+    searchTerm: 'software engineer',
+  },
+  {
+    type: 'workday', name: 'Magnite', schedule: 'fast', enabled: true,
+    tenant: 'osv-rubicon', apiTenant: 'osv_rubicon', subdomain: 'wd5', board: 'MagniteCareers',
     searchTerm: 'software engineer',
   },
 

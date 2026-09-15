@@ -3,6 +3,7 @@ import { scrapeRss } from './scrapers/rss'
 import { scrapeOracle } from './scrapers/oracle'
 import { scrapeWorkday } from './scrapers/workday'
 import { scrapeClinch } from './scrapers/clinch'
+import { scrapeWorkable } from './scrapers/workable'
 
 export async function scrape(config: CompanyConfig): Promise<void> {
   if (!config.enabled) return
@@ -12,6 +13,9 @@ export async function scrape(config: CompanyConfig): Promise<void> {
     case 'ashby':
     case 'lever':
       await scrapeRss(config)
+      break
+    case 'workable':
+      await scrapeWorkable(config)
       break
     case 'oracle':
       await scrapeOracle(config)

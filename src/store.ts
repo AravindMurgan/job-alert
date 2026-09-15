@@ -10,9 +10,11 @@ type SeenDb = {
 }
 
 type PendingDb = PendingJob[]
+type HistoryDb = PendingJob[]
 
 const seenPath = path.resolve(__dirname, '../data/seen.json')
 const pendingPath = path.resolve(__dirname, '../data/pending.json')
+const historyPath = path.resolve(__dirname, '../data/history.json')
 
 const seenAdapter = new JSONFileSync<SeenDb>(seenPath)
 const seenDb = new LowSync<SeenDb>(seenAdapter, {
@@ -24,6 +26,9 @@ const seenDb = new LowSync<SeenDb>(seenAdapter, {
 const pendingAdapter = new JSONFileSync<PendingDb>(pendingPath)
 const pendingDb = new LowSync<PendingDb>(pendingAdapter, [])
 
+const historyAdapter = new JSONFileSync<HistoryDb>(historyPath)
+const historyDb = new LowSync<HistoryDb>(historyAdapter, [])
+
 function readSeen(): void {
   seenDb.read()
 }
@@ -32,20 +37,18 @@ function readPending(): void {
   pendingDb.read()
 }
 
-export function isNew(company: string, id: string): boolean {
-  readSeen()
-  const ids = seenDb.data.seenIds[company] ?? []
-  return !ids.includes(id)
+function readHistory(): void {
+  historyDb.read()
 }
 
-export function save(company: string, id: string): void {
-  readSeen()
-  if (!seenDb.data.seenIds[company]) {
-    seenDb.data.seenIds[company] = []
-  }
-  seenDb.data.seenIds[company].push(id)
-  seenDb.data.lastSeen[company] = new Date().toISOString()
-  seenDb.write()
+const MAX_JOB_AGE_MS = 30 * 24 * 60 * 60 * 1000
+
+export function isNew(company: string, url: string): boolean {
+  readPending()
+  const cutoff = Date.now() - MAX_JOB_AGE_MS
+  return !pendingDb.data.some(j =>
+    j.company === company && j.url === url && new Date(j.foundAt).getTime() >= cutoff
+  )
 }
 
 export function getLastSeen(company: string): string | undefined {
@@ -68,6 +71,18 @@ export function addToPending(job: PendingJob): void {
   readPending()
   pendingDb.data.push(job)
   pendingDb.write()
+  appendToHistory(job)
+}
+
+export function appendToHistory(job: PendingJob): void {
+  readHistory()
+  historyDb.data.push(job)
+  historyDb.write()
+}
+
+export function getAllHistory(): PendingJob[] {
+  readHistory()
+  return historyDb.data
 }
 
 export function getAllPending(): PendingJob[] {
@@ -77,5 +92,10 @@ export function getAllPending(): PendingJob[] {
 
 export function clearPending(): void {
   pendingDb.data = []
+  pendingDb.write()
+}
+
+export function setPending(jobs: PendingJob[]): void {
+  pendingDb.data = jobs
   pendingDb.write()
 }

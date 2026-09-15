@@ -11,16 +11,22 @@ const TECH = [
   'node.js', 'nodejs', 'node js',
   '.net', 'dotnet', 'c#', 'asp.net',
   'product engineer', 'software engineer', 'software developer',
+  'development engineer', 'software development engineer', 'sde',
+  'software', 'engineer'
 ]
 
 // Seniority — only relevant when combined with a TECH match in title
-const SENIORITY = ['senior', 'lead', 'staff', 'principal', 'tech lead', 'technical lead']
+const SENIORITY = ['senior', 'lead', 'tech lead', 'technical lead']
 
 export const INCLUDE = [...TECH, ...SENIORITY]
 
 export const EXCLUDE = [
   // Level
   'junior', 'graduate', 'intern', 'internship', 'apprentice',
+
+  // Excluded seniority levels
+  'staff', 'principal',
+  'lead software engineer', 'lead engineer', 'lead developer',
 
   // Wrong discipline — backend / infrastructure / ops
   'backend engineer', 'backend developer', 'backend engineering',
@@ -73,12 +79,74 @@ export const EXCLUDE = [
   'ruby on rails engineer',  // note: rails is acceptable as secondary
   'scala engineer',
   'kotlin engineer',
+
+  //senior
+  'director',
+  'electrical engineer',
+  'quantitative',
+
+  // Wrong discipline — hardware / mechanical / manufacturing / ops
+  'mechanical engineer', 'manufacturing engineer', 'manufacturing engineering',
+  'automation engineer', 'factory automation', 'robotics',
+  'systems engineer', 'system build engineer',
+
+  // Wrong discipline — IT support / non-dev
+  'it support', 'support engineer', 'help desk',
+
+  // Management-track, not IC engineering
+  'engineering manager',
 ]
 
-const UK_LOCATIONS = [
-  'uk', 'united kingdom', 'england', 'london', 'manchester', 'birmingham',
-  'bristol', 'edinburgh', 'glasgow', 'leeds', 'cambridge', 'oxford',
-  'cardiff', 'sheffield', 'remote (uk)', 'hybrid (uk)',
+// Country/nation-level phrases — the primary safety net, since almost
+// every ATS location string includes one of these regardless of city
+const UK_COUNTRY_PHRASES = [
+  'uk', 'united kingdom', 'great britain',
+  'england', 'scotland', 'wales', 'northern ireland', 'n. ireland',
+  'remote (uk)', 'hybrid (uk)',
+]
+
+// Short country abbreviations (e.g. Workday's "Nottingham,  Eng" or
+// "Belfast, NI") — matched as whole words only, since plain substring
+// matching would false-positive on unrelated text ("eng" inside
+// "Bengaluru", "ni" inside "California")
+const UK_ABBREVIATIONS = ['eng', 'scot', 'ni', 'gb']
+
+// City/town names alone are NOT a reliable UK signal — several share a
+// name with a place elsewhere (York/New York, Cambridge/MA, Birmingham/AL,
+// Bristol/CT, Manchester/NH). These only count as UK if nothing in
+// NON_UK_MARKERS also appears in the same location string.
+const UK_CITIES = [
+  'london', 'manchester', 'birmingham', 'bristol', 'edinburgh', 'glasgow',
+  'leeds', 'cambridge', 'oxford', 'cardiff', 'sheffield',
+  'nottingham', 'newcastle', 'liverpool', 'leicester', 'coventry',
+  'belfast', 'southampton', 'portsmouth', 'brighton', 'reading',
+  'milton keynes', 'derby', 'hull', 'york', 'bath', 'exeter', 'plymouth',
+  'norwich', 'ipswich', 'swansea', 'aberdeen', 'dundee', 'inverness',
+  'watford', 'luton', 'peterborough', 'chester', 'preston', 'sunderland',
+  'middlesbrough', 'durham', 'gloucester', 'swindon', 'bournemouth',
+  'colchester', 'chelmsford', 'canterbury', 'stevenage', 'northampton',
+  'warwick', 'guildford', 'slough', 'wolverhampton', 'blackpool',
+  'bradford', 'stoke', 'basingstoke', 'croydon', 'wokingham',
+  'knutsford', 'radbroke hall',
+]
+
+// Non-UK countries and US states that share a name with a UK city —
+// overrides a city-only match (a genuine UK country phrase/abbreviation
+// match above always wins regardless of these)
+const NON_UK_MARKERS = [
+  'usa', 'united states', 'u.s.a', 'canada', 'australia', 'singapore',
+  'india', 'germany', 'france', 'netherlands', 'poland', 'spain', 'italy',
+  'japan', 'china', 'brazil', 'mexico',
+  'alabama', 'alaska', 'arizona', 'arkansas', 'california', 'colorado',
+  'connecticut', 'delaware', 'florida', 'georgia', 'hawaii', 'idaho',
+  'illinois', 'indiana', 'iowa', 'kansas', 'kentucky', 'louisiana',
+  'maine', 'maryland', 'massachusetts', 'michigan', 'minnesota',
+  'mississippi', 'missouri', 'montana', 'nebraska', 'nevada',
+  'new hampshire', 'new jersey', 'new mexico', 'new york',
+  'north carolina', 'north dakota', 'ohio', 'oklahoma', 'oregon',
+  'pennsylvania', 'rhode island', 'south carolina', 'south dakota',
+  'tennessee', 'texas', 'utah', 'vermont', 'virginia', 'washington',
+  'west virginia', 'wisconsin', 'wyoming',
 ]
 
 function matchesAny(text: string, keywords: string[]): boolean {
@@ -86,9 +154,27 @@ function matchesAny(text: string, keywords: string[]): boolean {
   return keywords.some(kw => lower.includes(kw))
 }
 
+function matchesWholeWord(text: string, word: string): boolean {
+  return new RegExp(`\\b${word}\\b`, 'i').test(text)
+}
+
+// Republic of Ireland is not UK, but "Northern Ireland" is — checked
+// separately since bare "ireland" is also a substring of "northern ireland"
+function isRepublicOfIreland(text: string): boolean {
+  const lower = text.toLowerCase()
+  return matchesWholeWord(lower, 'ireland') && !lower.includes('northern ireland') && !lower.includes('n. ireland')
+}
+
 export function isUK(location: string): boolean {
   if (!location) return false
-  return matchesAny(location, UK_LOCATIONS)
+
+  const hasCountrySignal =
+    matchesAny(location, UK_COUNTRY_PHRASES) || UK_ABBREVIATIONS.some(w => matchesWholeWord(location, w))
+  if (hasCountrySignal) return true
+
+  if (!matchesAny(location, UK_CITIES)) return false
+  if (isRepublicOfIreland(location)) return false
+  return !matchesAny(location, NON_UK_MARKERS)
 }
 
 export function passesFilter(title: string, snippet?: string): boolean {
