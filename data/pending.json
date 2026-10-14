@@ -1433,5 +1433,145 @@
     "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26132",
     "location": "London, United Kingdom",
     "foundAt": "2026-10-14T00:00:00.000Z"
+  },
+  {
+    "company": "Checkout.com",
+    "title": "Engineer I, Finance Technology (Workday Financials)",
+    "url": "https://jobs.ashbyhq.com/checkout.com/497cb129-d8af-4ec7-9879-2b3b4b9302cf",
+    "location": "London",
+    "foundAt": "2026-10-14T17:54:12.867+00:00"
+  },
+  {
+    "company": "Barclays",
+    "title": "Developer Platform Engineer",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Developer-Platform-Engineer_JR-0000092605",
+    "location": "Glasgow Campus",
+    "foundAt": "2026-09-14T20:55:58.245Z"
+  },
+  {
+    "company": "Barclays",
+    "title": "Java Developer",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Java-Developer_JR-0000086282",
+    "location": "Glasgow Campus",
+    "foundAt": "2026-09-14T20:56:02.959Z"
+  },
+  {
+    "company": "Motorola Solutions",
+    "title": "Senior Backend Software Engineer",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Senior-Backend-Software-Engineer_R62824",
+    "location": "Uxbridge, UK (ZUK131), More...",
+    "foundAt": "2026-09-14T20:56:04.863Z"
+  },
+  {
+    "company": "Motorola Solutions",
+    "title": "Software Engineer, Frontend (TypeScript)",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Software-Engineer--Frontend--TypeScript-_R65536",
+    "location": "Edinburgh, UK (ZUK129)",
+    "foundAt": "2026-09-14T20:56:04.874Z"
+  },
+  {
+    "company": "Darktrace",
+    "title": "Senior Software Engineer (Python)",
+    "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Senior-Software-Engineer--Python-_JR101417",
+    "location": "Cambridge Office, United Kingdom",
+    "foundAt": "2026-09-14T20:56:06.638Z"
+  },
+  {
+    "company": "Beazley",
+    "title": "AI Engineer",
+    "url": "https://bbinsurance.wd1.myworkdayjobs.com/Careers_Europe/job/London-United-Kingdom/AI-Engineer_R26_0000001260",
+    "location": "London, United Kingdom",
+    "foundAt": "2026-09-14T20:56:14.738Z"
+  },
+  {
+    "company": "Beazley",
+    "title": "Quality Engineer",
+    "url": "https://bbinsurance.wd1.myworkdayjobs.com/Careers_Europe/job/Borehamwood-England-United-Kingdom/Quality-Engineer_R26_0000001937",
+    "location": "Borehamwood, England, United Kingdom",
+    "foundAt": "2026-09-14T20:56:14.750Z"
+  },
+  {
+    "company": "Universal Music Group",
+    "title": "AI Product Engineer",
+    "url": "https://umusic.wd5.myworkdayjobs.com/UMGUK/job/Kings-Cross-London/AI-Product-Engineer_UMG-27186",
+    "location": "Kings Cross, London",
+    "foundAt": "2026-09-14T20:56:38.301Z"
+  },
+  {
+    "company": "Universal Music Group",
+    "title": "Sr. Observability Engineer",
+    "url": "https://umusic.wd5.myworkdayjobs.com/UMGUK/job/Kings-Cross-London/Sr-Observability-Engineer_UMG-23778-1",
+    "location": "Kings Cross, London",
+    "foundAt": "2026-09-14T20:56:38.315Z"
+  },
+  {
+    "company": "TP ICAP",
+    "title": "Senior Software Engineer (Back-End)",
+    "url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Belfast/Senior-Software-Engineer--Back-End-_R5500",
+    "location": "Belfast",
+    "foundAt": "2026-09-14T20:56:44.133Z"
+  },
+  {
+    "company": "TP ICAP",
+    "title": "Senior Software Engineer (Java)",
+    "url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Senior-Software-Engineer--Java-_R4902",
+    "location": "London",
+    "foundAt": "2026-09-14T20:56:44.466Z"
+  },
+  {
+    "company": "TP ICAP",
+    "title": "Software Engineering Team Lead - C#",
+    "url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Software-Engineering-Team-Lead---C-_R4281",
+    "location": "London",
+    "foundAt": "2026-09-14T20:56:44.478Z"
+  },
+  {
+    "company": "Biogen",
+    "title": "Senior Engineer II, Device Development",
+    "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Senior-Engineer-II--Device-Development_REQ24008",
+    "location": "Cambridge, MA",
+    "foundAt": "2026-09-14T20:56:58.937Z"
+  },
+  {
+    "company": "AVEVA",
+    "title": "R&D Software Engineer",
+    "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/R-D-Software-Engineer_R012858-1",
+    "location": "Cambridge, United Kingdom",
+    "foundAt": "2026-09-14T20:57:08.019Z"
+  },
+  {
+    "company": "AVEVA",
+    "title": ".NET Software Developer",
+    "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/XMLNAME-NET-Software-Developer_R013915",
+    "location": "Cambridge, United Kingdom",
+    "foundAt": "2026-09-14T20:57:08.440Z"
+  },
+  {
+    "company": "Capital One",
+    "title": "Senior Software Engineer",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/London-Eng/Senior-Software-Engineer_R1000466-2",
+    "location": "London, Eng",
+    "foundAt": "2026-09-14T21:02:29.492Z"
+  },
+  {
+    "company": "Capital One",
+    "title": "Senior Talent Acquisition Partner - Software Engineering",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Senior-Talent-Acquisition-Partner---Software-Engineering_R999584",
+    "location": "Nottingham,  Eng",
+    "foundAt": "2026-09-14T21:02:51.140Z"
+  },
+  {
+    "company": "Capital One",
+    "title": "Lead Software Development Engineer - Developer Experience",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Lead-Software-Development-Engineer---Developer-Experience_R236905-1",
+    "location": "Nottingham,  Eng",
+    "foundAt": "2026-09-14T21:02:58.595Z"
+  },
+  {
+    "company": "Capital One",
+    "title": "Lead Software Development Engineer - Services",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/London-Eng/Lead-Software-Development-Engineer---Services_R232131-1",
+    "location": "London, Eng",
+    "foundAt": "2026-09-14T21:03:50.530Z"
   }
 ]
