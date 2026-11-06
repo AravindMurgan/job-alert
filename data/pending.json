@@ -1041,5 +1041,215 @@
     "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80889",
     "location": "Manchester, Greater Manchester, United Kingdom",
     "foundAt": "2026-11-06T00:00:00.000Z"
+  },
+  {
+    "company": "monday.com",
+    "title": "Software Engineer - Tech Lead - Enterprise",
+    "url": "https://jobs.ashbyhq.com/monday.com/035a07cb-8468-46dc-9942-0e7246903563",
+    "location": "London",
+    "foundAt": "2026-11-06T16:10:26.987+00:00"
+  },
+  {
+    "company": "Cohere",
+    "title": "Software Engineer, ML Ops",
+    "url": "https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4",
+    "location": "London",
+    "foundAt": "2026-11-06T15:53:30.169+00:00"
+  },
+  {
+    "company": "Barclays",
+    "title": "Senior AI Software Engineer",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Senior-AI-Software-Engineer_JR-0000110916",
+    "location": "Knutsford, Radbroke Hall",
+    "foundAt": "2026-10-07T21:06:50.172Z"
+  },
+  {
+    "company": "Barclays",
+    "title": "Cryptographic HSM and Key Management Engineer",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Cryptographic-HSM-and-Key-Management-Engineer_JR-0000085609",
+    "location": "Knutsford, Radbroke Hall",
+    "foundAt": "2026-10-07T21:06:51.194Z"
+  },
+  {
+    "company": "Barclays",
+    "title": "Developer Platform Engineer",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Developer-Platform-Engineer_JR-0000092605",
+    "location": "Glasgow Campus",
+    "foundAt": "2026-10-07T21:06:55.539Z"
+  },
+  {
+    "company": "Barclays",
+    "title": "Java Developer",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Java-Developer_JR-0000086282",
+    "location": "Glasgow Campus",
+    "foundAt": "2026-10-07T21:06:57.664Z"
+  },
+  {
+    "company": "Darktrace",
+    "title": "Senior Software Engineer (Python)",
+    "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Senior-Software-Engineer--Python-_JR101417",
+    "location": "Cambridge Office, United Kingdom",
+    "foundAt": "2026-10-07T21:07:01.933Z"
+  },
+  {
+    "company": "Darktrace",
+    "title": "Software Engineer in Test",
+    "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Software-Engineer-in-Test_JR101853",
+    "location": "Cambridge Office, United Kingdom",
+    "foundAt": "2026-10-07T21:07:01.971Z"
+  },
+  {
+    "company": "Beazley",
+    "title": "Quality Engineer",
+    "url": "https://bbinsurance.wd1.myworkdayjobs.com/Careers_Europe/job/Borehamwood-England-United-Kingdom/Quality-Engineer_R26_0000001937",
+    "location": "Borehamwood, England, United Kingdom",
+    "foundAt": "2026-10-07T21:07:12.768Z"
+  },
+  {
+    "company": "Universal Music Group",
+    "title": "Senior Full Stack Engineer",
+    "url": "https://umusic.wd5.myworkdayjobs.com/UMGUK/job/Kings-Cross-London/Full-Stack-Engineer_UMG-24978",
+    "location": "Kings Cross, London",
+    "foundAt": "2026-10-07T21:07:29.222Z"
+  },
+  {
+    "company": "Universal Music Group",
+    "title": "Sr. Observability Engineer",
+    "url": "https://umusic.wd5.myworkdayjobs.com/UMGUK/job/Kings-Cross-London/Sr-Observability-Engineer_UMG-23778-1",
+    "location": "Kings Cross, London",
+    "foundAt": "2026-10-07T21:07:29.238Z"
+  },
+  {
+    "company": "Rolls-Royce",
+    "title": "Software Engineer",
+    "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Software-Engineer_JR6157836",
+    "location": "Bristol",
+    "foundAt": "2026-10-07T21:07:30.881Z"
+  },
+  {
+    "company": "Rolls-Royce",
+    "title": "Electrical Design Engineer",
+    "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Derby/V-V-Controls---Instrumentation--C-I---Engineer_JR6151716-1",
+    "location": "Derby",
+    "foundAt": "2026-11-03T21:07:34.855Z"
+  },
+  {
+    "company": "TP ICAP",
+    "title": "Senior Engineer (Full-Stack)",
+    "url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Senior-Engineer--Full-Stack-_R5096-1",
+    "location": "London",
+    "foundAt": "2026-10-07T21:07:36.265Z"
+  },
+  {
+    "company": "TP ICAP",
+    "title": "Senior Software Engineer (Full Stack)",
+    "url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Belfast/Senior-Engineer--Full-Stack-_R5298-2",
+    "location": "Belfast",
+    "foundAt": "2026-10-07T21:07:36.276Z"
+  },
+  {
+    "company": "TP ICAP",
+    "title": "QA Engineer",
+    "url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Belfast/Senior-QA-Engineer_R5498",
+    "location": "Belfast",
+    "foundAt": "2026-10-07T21:07:36.290Z"
+  },
+  {
+    "company": "TP ICAP",
+    "title": "Software Engineering Team Lead - C#",
+    "url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/London/Software-Engineering-Team-Lead---C-_R4281",
+    "location": "London",
+    "foundAt": "2026-10-07T21:07:36.595Z"
+  },
+  {
+    "company": "Biogen",
+    "title": "Senior Engineer II, Device Development",
+    "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Senior-Engineer-II--Device-Development_REQ24008",
+    "location": "Cambridge, MA",
+    "foundAt": "2026-10-07T21:07:48.272Z"
+  },
+  {
+    "company": "AVEVA",
+    "title": "Software Engineer, Core AI Services",
+    "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Engineer--Core-AI-Services_R015306-1",
+    "location": "Cambridge, United Kingdom",
+    "foundAt": "2026-10-07T21:07:58.761Z"
+  },
+  {
+    "company": "AVEVA",
+    "title": "Senior Software Engineer, Core AI Services",
+    "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Lead-AI-Engineer---Cloud---Platform-Services_R011753",
+    "location": "Cambridge, United Kingdom",
+    "foundAt": "2026-10-07T21:07:58.775Z"
+  },
+  {
+    "company": "AVEVA",
+    "title": ".NET Software Developer",
+    "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/XMLNAME-NET-Software-Developer_R013915",
+    "location": "Cambridge, United Kingdom",
+    "foundAt": "2026-10-07T21:07:59.674Z"
+  },
+  {
+    "company": "AVEVA",
+    "title": "Senior Cloud Software Developer",
+    "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Principal-Technologist--Core-Connect-Services_R012805",
+    "location": "Cambridge, United Kingdom",
+    "foundAt": "2026-10-07T21:08:00.552Z"
+  },
+  {
+    "company": "Capital One",
+    "title": "Lead Software Development Engineer - Services",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Lead-Software-Development-Engineer---Services_R235339-1",
+    "location": "Nottingham,  Eng",
+    "foundAt": "2026-10-07T21:11:15.035Z"
+  },
+  {
+    "company": "Capital One",
+    "title": "Senior Software Development Engineer - Services",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Senior-Software-Development-Engineer---Services_R235338-1",
+    "location": "Nottingham,  Eng",
+    "foundAt": "2026-10-07T21:11:15.868Z"
+  },
+  {
+    "company": "Capital One",
+    "title": "Senior Software Development Engineer - Data",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Senior-Software-Development-Engineer---Data-Engineering_R235650",
+    "location": "Nottingham,  Eng",
+    "foundAt": "2026-10-07T21:11:42.665Z"
+  },
+  {
+    "company": "Capital One",
+    "title": "Lead Software Development Engineer - Shared Platforms",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Lead-Software-Development-Engineer---Shared-Platforms_R237511-1",
+    "location": "Nottingham,  Eng",
+    "foundAt": "2026-10-07T21:11:49.314Z"
+  },
+  {
+    "company": "Capital One",
+    "title": "Senior Software Engineer",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/London-Eng/Senior-Software-Engineer_R1000466-2",
+    "location": "London, Eng",
+    "foundAt": "2026-10-07T21:13:25.866Z"
+  },
+  {
+    "company": "Capital One",
+    "title": "Senior Talent Acquisition Partner - Software Engineering",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Senior-Talent-Acquisition-Partner---Software-Engineering_R999584",
+    "location": "Nottingham,  Eng",
+    "foundAt": "2026-10-07T21:13:38.034Z"
+  },
+  {
+    "company": "Capital One",
+    "title": "Lead Software Development Engineer - Developer Experience",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Lead-Software-Development-Engineer---Developer-Experience_R236905-1",
+    "location": "Nottingham,  Eng",
+    "foundAt": "2026-10-07T21:13:53.735Z"
+  },
+  {
+    "company": "Capital One",
+    "title": "Lead Software Development Engineer - Services",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/London-Eng/Lead-Software-Development-Engineer---Services_R232131-1",
+    "location": "London, Eng",
+    "foundAt": "2026-10-07T21:14:20.704Z"
   }
 ]
