@@ -55746,5 +55746,82 @@
     "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/186815",
     "location": "London, Greater London, England, United Kingdom",
     "foundAt": "2026-11-02T00:00:00.000Z"
+  },
+  {
+    "company": "Checkout.com",
+    "title": "Senior Product Engineer",
+    "url": "https://jobs.ashbyhq.com/checkout.com/09c6b5a8-7842-4b16-9073-39b0f54024e5",
+    "location": "London",
+    "foundAt": "2026-11-25T09:02:52.375+00:00"
+  },
+  {
+    "company": "Barclays",
+    "title": "Developer Platform Engineer",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Developer-Platform-Engineer_JR-0000092605",
+    "location": "Glasgow Campus",
+    "foundAt": "2026-10-26T09:05:48.143Z"
+  },
+  {
+    "company": "Barclays",
+    "title": "Java Developer",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Java-Developer_JR-0000086282",
+    "location": "Glasgow Campus",
+    "foundAt": "2026-10-26T09:05:50.202Z"
+  },
+  {
+    "company": "Darktrace",
+    "title": "Senior Software Engineer (Python)",
+    "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Senior-Software-Engineer--Python-_JR101417",
+    "location": "Cambridge Office, United Kingdom",
+    "foundAt": "2026-10-26T09:05:53.624Z"
+  },
+  {
+    "company": "Darktrace",
+    "title": "Software Engineer (Backend - Typescript Focused)",
+    "url": "https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Cambridge-Office-United-Kingdom/Software-Engineer--Typescript-Focused-_JR102395",
+    "location": "Cambridge Office, United Kingdom",
+    "foundAt": "2026-10-26T09:05:53.649Z"
+  },
+  {
+    "company": "Universal Music Group",
+    "title": "Sr. Observability Engineer",
+    "url": "https://umusic.wd5.myworkdayjobs.com/UMGUK/job/Kings-Cross-London/Sr-Observability-Engineer_UMG-23778-1",
+    "location": "Kings Cross, London",
+    "foundAt": "2026-10-26T09:06:21.794Z"
+  },
+  {
+    "company": "Rolls-Royce",
+    "title": "Software Engineer",
+    "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Software-Engineer_JR6157836",
+    "location": "Bristol",
+    "foundAt": "2026-10-26T09:06:23.541Z"
+  },
+  {
+    "company": "AVEVA",
+    "title": "Software Engineer, Core AI Services",
+    "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Engineer--Core-AI-Services_R015306-1",
+    "location": "Cambridge, United Kingdom",
+    "foundAt": "2026-10-26T09:06:52.405Z"
+  },
+  {
+    "company": "AVEVA",
+    "title": "Senior Software Engineer, Core AI Services",
+    "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Lead-AI-Engineer---Cloud---Platform-Services_R011753",
+    "location": "Cambridge, United Kingdom",
+    "foundAt": "2026-10-26T09:06:52.438Z"
+  },
+  {
+    "company": "AVEVA",
+    "title": ".NET Software Developer",
+    "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/XMLNAME-NET-Software-Developer_R013915",
+    "location": "Cambridge, United Kingdom",
+    "foundAt": "2026-10-26T09:06:53.774Z"
+  },
+  {
+    "company": "AVEVA",
+    "title": "Senior Cloud Software Developer",
+    "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Principal-Technologist--Core-Connect-Services_R012805",
+    "location": "Cambridge, United Kingdom",
+    "foundAt": "2026-10-26T09:06:54.539Z"
   }
 ]
